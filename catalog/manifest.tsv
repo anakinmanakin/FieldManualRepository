@@ -1,654 +1,365 @@
 url	folder	identifier	size	basis	title
-https://archive.org/download/100-deadly-skills-by-clint-emerson-2015/100%20Deadly%20Skills%20by%20Clint%20Emerson%20%202015.pdf	survival	100-deadly-skills-by-clint-emerson-2015	15396681	usgov	100 Deadly Skills By Clint Emerson 2015
-https://archive.org/download/100-deadly-skills-by-clint-emerson-2015/100%20Deadly%20Skills%20by%20Clint%20Emerson%20%202015.epub	survival	100-deadly-skills-by-clint-emerson-2015	22552054	usgov	100 Deadly Skills By Clint Emerson 2015
-https://archive.org/download/276877886.2575.emory.edu/276877886_2575.pdf	survival	276877886.2575.emory.edu	15533433	pre1931	Robinson Crusoe
-https://archive.org/download/276877886.2575.emory.edu/276877886_2575.epub	survival	276877886.2575.emory.edu	19164872	pre1931	Robinson Crusoe
-https://archive.org/download/DTIC_ADA151264/DTIC_ADA151264.pdf	survival	DTIC_ADA151264	14475912	usgov	DTIC ADA151264: DoD Statistical Report on the Military Retirement System. Fiscal Year 1983.
-https://archive.org/download/AirSeaRescueBulletinV1-nsia/AirSeaRescueBulletinV1.pdf	survival	AirSeaRescueBulletinV1-nsia	78134161	pdmark	Air Sea Rescue Bulletin V.1, Nos. 1, 3, 6, 9, 12, 1944-1945
-https://archive.org/download/ArcticSurvival/Arctic%20Survival%20and%20Jungle%20Survival%20combined_text.pdf	survival	ArcticSurvival	6736057	pdmark	Arctic Survival
-https://archive.org/download/ArcticSurvival/Arctic%20Survival%20and%20Jungle%20Survival%20combined.epub	survival	ArcticSurvival	71916317	pdmark	Arctic Survival
-https://archive.org/download/DTIC_AD0454590/DTIC_AD0454590.pdf	survival	DTIC_AD0454590	43421133	usgov	DTIC AD0454590: BIOLOGY DATA BOOK
-https://archive.org/download/CombativesFieldManualFM21150/Combatives%20Field%20Manual%20FM%2021-150%20.pdf	survival	CombativesFieldManualFM21150	5094264	usgov	Combatives Field Manual FM 21 150
-https://archive.org/download/CombativesFieldManualFM21150/Combatives%20Field%20Manual%20FM%2021-150%20.epub	survival	CombativesFieldManualFM21150	45987502	usgov	Combatives Field Manual FM 21 150
-https://archive.org/download/AirSeaRescueBulletinV1/AirSeaRescueBulletinV1.pdf	survival	AirSeaRescueBulletinV1	78134161	pdmark	Air Sea Rescue Bulletin Volume 1, Nos. 1, 3, 6, 9, 12, 1944-1945
-https://archive.org/download/DTIC_ADA111291/DTIC_ADA111291.pdf	survival	DTIC_ADA111291	11501679	usgov	DTIC ADA111291: Dod Statistical Report on the Military Retirement System, Fiscal Year 1980.
-https://archive.org/download/DTIC_AD0025412/DTIC_AD0025412.pdf	survival	DTIC_AD0025412	31995551	usgov	DTIC AD0025412: THE PERSISTENCE (SURVIVAL) OF MICROORGANISMS
-https://archive.org/download/DTIC_ADA222000/DTIC_ADA222000.pdf	survival	DTIC_ADA222000	40799875	usgov	DTIC ADA222000: A Carcinogenicity Bioassay of Isobutyl 2-Cyanoacrylate (IBC) in Fischer-344 Rats
-https://archive.org/download/47430385-call-of-cthulhu-d-20-resident-evil-the-umbrella-files/47430385-Call-of-Cthulhu-d20-Resident-Evil-The-Umbrella-Files.pdf	survival	47430385-call-of-cthulhu-d-20-resident-evil-the-umbrella-files	3911938	pdmark	Call Of Cthulhu (D20) - Resident Evil: The Umbrella Files
-https://archive.org/download/47430385-call-of-cthulhu-d-20-resident-evil-the-umbrella-files/47430385-Call-of-Cthulhu-d20-Resident-Evil-The-Umbrella-Files.epub	survival	47430385-call-of-cthulhu-d-20-resident-evil-the-umbrella-files	1980557	pdmark	Call Of Cthulhu (D20) - Resident Evil: The Umbrella Files
+https://archive.org/download/Afr64-4352-481Survivalmanual/Afr64-4482-579Survivalmanual.pdf	survival	Afr64-4352-481Survivalmanual	10258371	usgov	USAF AFR 64-4 Vol 1 Survival Manual
+https://archive.org/download/Afr64-4352-481Survivalmanual/Afr64-4352-481Survivalmanual.epub	survival	Afr64-4352-481Survivalmanual	56470836	usgov	USAF AFR 64-4 Vol 1 Survival Manual
+https://archive.org/download/AFH10644SurvivalEvasionResistanceEscapeSERE/AFH%2010-644%20Survival%20Evasion%20Resistance%20Escape%20SERE%20.pdf	survival	AFH10644SurvivalEvasionResistanceEscapeSERE	46945400	usgov	AFH 10 644 Survival Evasion Resistance Escape SERE
+https://archive.org/download/DTIC_ADA089104/DTIC_ADA089104.pdf	survival	DTIC_ADA089104	13691720	usgov	DTIC ADA089104: Aircraft Crash Survival Design Guide. Volume III. Aircraft Structural Crashworthiness
+https://archive.org/download/DTIC_AD0664478/DTIC_AD0664478.pdf	survival	DTIC_AD0664478	3374211	usgov	DTIC AD0664478: FALLOUT SHELTER SURVEYS: GUIDE FOR ARCHITECTS AND ENGINEERS
+https://archive.org/download/DTIC_ADA218437/DTIC_ADA218437.pdf	survival	DTIC_ADA218437	13155232	usgov	DTIC ADA218437: Aircraft Crash Survival Design Guide. Volume 4. Aircraft Seats, Restraints, Litters, and Cockpit/Cabin Delethalization
+https://archive.org/download/DTIC_ADA218434/DTIC_ADA218434.pdf	survival	DTIC_ADA218434	10790605	usgov	DTIC ADA218434: Aircraft Crash Survival Design Guide. Volume 1. Design Criteria and Checklists
+https://archive.org/download/DTIC_ADA218434/DTIC_ADA218434.epub	survival	DTIC_ADA218434	18604584	usgov	DTIC ADA218434: Aircraft Crash Survival Design Guide. Volume 1. Design Criteria and Checklists
+https://archive.org/download/DTIC_ADA116689/DTIC_ADA116689.pdf	survival	DTIC_ADA116689	17347386	usgov	DTIC ADA116689: Emergency Preparedness: A Handbook for Families.
+https://archive.org/download/DTIC_ADA218435/DTIC_ADA218435.pdf	survival	DTIC_ADA218435	6050311	usgov	DTIC ADA218435: Aircraft Crash Survival Design Guide. Volume 2. Aircraft Design Crash Impact Conditions and Human Tolerance
+https://archive.org/download/DTIC_ADA128039/DTIC_ADA128039.pdf	survival	DTIC_ADA128039	3041075	usgov	DTIC ADA128039: Threat Handbook: Battlefield Survival and Radioelectronic Combat: The Radio Direction Finding Threat
+https://archive.org/download/DTIC_ADA218438/DTIC_ADA218438.pdf	survival	DTIC_ADA218438	12586079	usgov	DTIC ADA218438: Aircraft Crash Survival Design Guide. Volume 5. Aircraft Postcrash Survival
+https://archive.org/download/DTIC_ADA218436/DTIC_ADA218436.pdf	survival	DTIC_ADA218436	11638038	usgov	DTIC ADA218436: Aircraft Crash Survival Design Guide. Volume 3. Aircraft Structural Crash Resistance
+https://archive.org/download/DTIC_ADA088441/DTIC_ADA088441.pdf	survival	DTIC_ADA088441	14357814	usgov	DTIC ADA088441: Aircraft Crash Survival Design Guide. Volume 4. Aircraft Seats, Restraints. Litters, and Padding
+https://archive.org/download/DTIC_ADA093784/DTIC_ADA093784.pdf	survival	DTIC_ADA093784	14053417	usgov	DTIC ADA093784: Aircraft Crash Survival Design Guide. Volume I. Design Criteria and Checklists. Revision
+https://archive.org/download/DTIC_ADA082513/DTIC_ADA082513.pdf	survival	DTIC_ADA082513	13399235	usgov	DTIC ADA082513: Aircraft Crash Survival Design Guide. Volume 5. Aircraft Postcrash Survival
+https://archive.org/download/DTIC_AD0634266/DTIC_AD0634266.pdf	survival	DTIC_AD0634266	10203492	usgov	DTIC AD0634266: POLAR MANUAL. ARCTIC AND ANTARCTIC LIVING CONDITIONS, PERSONNEL SELECTION, HYGIENE AND SANITATION, CLOTHING, NUTRITION, SUPPLIES AND EQUIPMENT, VISUAL DISABILITIES AND COLD INJURIES, F
+https://archive.org/download/DTIC_ADA082512/DTIC_ADA082512.pdf	survival	DTIC_ADA082512	6413869	usgov	DTIC ADA082512: Aircraft Crash Survival Design Guide. Volume 2. Aircraft Crash Environment and Human Tolerance
+https://archive.org/download/DTIC_ADA205544/DTIC_ADA205544.pdf	survival	DTIC_ADA205544	1708785	usgov	DTIC ADA205544: Electronic Mail Survival Guide
+https://archive.org/download/DTIC_ADA205544/DTIC_ADA205544.epub	survival	DTIC_ADA205544	12479184	usgov	DTIC ADA205544: Electronic Mail Survival Guide
+https://archive.org/download/DTIC_ADA192523/DTIC_ADA192523.pdf	survival	DTIC_ADA192523	3983638	usgov	DTIC ADA192523: A PEM's (Program Element Monitors) Survival Guide--The First Year
+https://archive.org/download/DTIC_ADA192523/DTIC_ADA192523.epub	survival	DTIC_ADA192523	4168022	usgov	DTIC ADA192523: A PEM's (Program Element Monitors) Survival Guide--The First Year
+https://archive.org/download/DTIC_ADA276652/DTIC_ADA276652.pdf	survival	DTIC_ADA276652	3804562	usgov	DTIC ADA276652: Meeting the Press: A Media Survival Guide for the Defense Manager
+https://archive.org/download/DTIC_AD1016167/DTIC_AD1016167.pdf	survival	DTIC_AD1016167	619242	usgov	DTIC AD1016167: Survival Guide for Truly Schedule Driven Development Programs
+https://archive.org/download/DTIC_AD1016167/DTIC_AD1016167.epub	survival	DTIC_AD1016167	1049932	usgov	DTIC AD1016167: Survival Guide for Truly Schedule Driven Development Programs
+https://archive.org/download/5331201-Items-1-and-2-PA-Reentry-Survival-Manual/5331201-Items-1-and-2-PA-Reentry-Survival-Manual.pdf	survival	5331201-Items-1-and-2-PA-Reentry-Survival-Manual	632208	usgov	Items 1 and 2 - PA Reentry Survival Manual
+https://archive.org/download/DTIC_ADA166721/DTIC_ADA166721.pdf	survival	DTIC_ADA166721	3750855	usgov	DTIC ADA166721: Survival Guide for Chiefs of Base Administration,
+https://archive.org/download/DTIC_ADA166721/DTIC_ADA166721.epub	survival	DTIC_ADA166721	1078268	usgov	DTIC ADA166721: Survival Guide for Chiefs of Base Administration,
+https://archive.org/download/DTIC_ADA219094/DTIC_ADA219094.pdf	survival	DTIC_ADA219094	1754630	usgov	DTIC ADA219094: General Purpose Computer Center (GPCC) Survival Guide. Revision 2
 https://archive.org/download/DTIC_AD1030991/DTIC_AD1030991.pdf	survival	DTIC_AD1030991	48366029	usgov	DTIC AD1030991: Survival Evasion Resistance Escape (SERE) Operations
-https://archive.org/download/AirRaids/AirRaidsHandbook_text.pdf	survival	AirRaids	45047587	pdmark	Air Raids
-https://archive.org/download/DTIC_ADA198821/DTIC_ADA198821.pdf	survival	DTIC_ADA198821	26689774	usgov	DTIC ADA198821: Air Force Research Initiation Program 1986 Technical Report Volume 2
 https://archive.org/download/CAT31305662/CAT31305662.pdf	survival	CAT31305662	613476	usgov	Your family survival plan
-https://archive.org/download/CIA-Senate-Torture-Report-2014/sscistudy1.pdf	survival	CIA-Senate-Torture-Report-2014	65681897	pdmark	Committee Study of the Central Intelligence Agency's Detention and Interrogation Program (U.S. Senate Torture Report)
-https://archive.org/download/CIA-Senate-Torture-Report-2014/sscistudy1.epub	survival	CIA-Senate-Torture-Report-2014	2528947	pdmark	Committee Study of the Central Intelligence Agency's Detention and Interrogation Program (U.S. Senate Torture Report)
-https://archive.org/download/DTIC_ADA123711/DTIC_ADA123711.pdf	survival	DTIC_ADA123711	18520184	usgov	DTIC ADA123711: Engineering Design Guidelines for Electromagnetic Pulse Hardening of Naval Equipment.
 https://archive.org/download/DTIC_AD0201499/DTIC_AD0201499.pdf	survival	DTIC_AD0201499	38565928	usgov	DTIC AD0201499: THE PHYSIOLOGICAL BASIS FOR VARIOUS CONSTITUENTS IN SURVIVAL RATIONS. PART 3. THE EFFICIENCY OF YOUNG MEN UNDER CONDITIONS OF MOIST HEAT APPENDICES OF METHODS AND ORIGINAL DATA
-https://archive.org/download/DTIC_AD0436353/DTIC_AD0436353.pdf	survival	DTIC_AD0436353	23770412	usgov	DTIC AD0436353: UNDERGROUNDS IN INSURGENT, REVOLUTIONARY, AND RESISTANCE WARFARE
-https://archive.org/download/DTIC_AD0436353/DTIC_AD0436353.epub	survival	DTIC_AD0436353	18451288	usgov	DTIC AD0436353: UNDERGROUNDS IN INSURGENT, REVOLUTIONARY, AND RESISTANCE WARFARE
-https://archive.org/download/CBSE12IITJEEMathSurvivalGuideDefiniteIntegralsByProf.Subhashish/CBSE%2012%20%26%20IIT-JEE%20Math%20Survival%20Guide-Definite%20Integrals%20by%20Prof.%20Subhashish.pdf	survival	CBSE12IITJEEMathSurvivalGuideDefiniteIntegralsByProf.Subhashish	6748452	pdmark	CBSE 12 & IIT JEE Math Survival Guide Definite Integrals By Prof. Subhashish
-https://archive.org/download/1945-02-09YankMagazine/1945-02-09YankMagazine.pdf	survival	1945-02-09YankMagazine	34847483	usgov	Yank, the Army Weekly, Vol 3 No 34: February 9, 1945
-https://archive.org/download/1945-08-17YankMagazine-nsia/1945-08-17YankMagazine.pdf	survival	1945-08-17YankMagazine-nsia	37345941	pdmark	Yank, the Army Weekly, Vol. 4, No. 9: August 17, 1945
-https://archive.org/download/DTIC_ADA224663/DTIC_ADA224663.pdf	survival	DTIC_ADA224663	13162216	usgov	DTIC ADA224663: Toxic Potential of Nitroguanidine on Reproduction and Fertility in Rats. Volume 1. Part 1
-https://archive.org/download/DTIC_ADA224664/DTIC_ADA224664.pdf	survival	DTIC_ADA224664	12387923	usgov	DTIC ADA224664: Toxic Potential of Nitroguanidine on Reproduction and Fertility in Rats. Volume 2. Part 2
 https://archive.org/download/DTIC_ADA009893/DTIC_ADA009893.pdf	survival	DTIC_ADA009893	20912063	usgov	DTIC ADA009893: A Study of Requirements for Commercial Vessel Survival Systems
-https://archive.org/download/DTIC_ADA087592/DTIC_ADA087592.pdf	survival	DTIC_ADA087592	22984994	usgov	DTIC ADA087592: High-Speed, Low-Level Flight: Aircrew Factors
-https://archive.org/download/DTIC_ADA325328/DTIC_ADA325328.pdf	survival	DTIC_ADA325328	8514342	usgov	DTIC ADA325328: Toxicity Evaluation of Contaminated Groundwater at Aberdeen Proving Ground-Edgewood Area West Branch of Canal Creek Phase 1: Groundwater Evaluation.
-https://archive.org/download/Anti-semitismInTheModernWorld-Transcript/antisemitism-in-the-modern-world-archive.pdf	survival	Anti-semitismInTheModernWorld-Transcript	33069	pdmark	Anti-Semitism In The Modern World - transcript
-https://archive.org/download/Anti-semitismInTheModernWorld-Transcript/antisemitism-in-the-modern-world-archive.epub	survival	Anti-semitismInTheModernWorld-Transcript	27854	pdmark	Anti-Semitism In The Modern World - transcript
-https://archive.org/download/AirSeaRescueBulletinV2/AirSeaRescueBulletinV2.pdf	survival	AirSeaRescueBulletinV2	48710615	pdmark	Air Sea Rescue Bulletin Volume 2, Nos. 1-4, 1945
-https://archive.org/download/DTIC_AD0681075/DTIC_AD0681075.pdf	survival	DTIC_AD0681075	34343535	usgov	DTIC AD0681075: THE HAMBURG POLICE PRESIDENT'S REPORT ON THE LARGE SCALE AIR ATTACKS ON HAMBURG, GERMANY, IN WORLD WAR 2. APPENDIXES 8 THROUGH 19
-https://archive.org/download/DTIC_AD0681075/DTIC_AD0681075.epub	survival	DTIC_AD0681075	63909255	usgov	DTIC AD0681075: THE HAMBURG POLICE PRESIDENT'S REPORT ON THE LARGE SCALE AIR ATTACKS ON HAMBURG, GERMANY, IN WORLD WAR 2. APPENDIXES 8 THROUGH 19
-https://archive.org/download/CAT92273011/CAT92273011.pdf	survival	CAT92273011	4204067	usgov	Germination, survival and early growth of conifer seedlings in two habitat types
-https://archive.org/download/ChemicalWarfare_201904/Chemical%20Warfare.pdf	survival	ChemicalWarfare_201904	21735070	pre1931	Chemical Warfare
-https://archive.org/download/CAT92273194/CAT92273194.pdf	survival	CAT92273194	4352144	usgov	Effects of gravel morphology on fine sediment accumulation and survival of incubating salmon eggs
-https://archive.org/download/DTIC_ADA091073/DTIC_ADA091073.pdf	survival	DTIC_ADA091073	4346918	usgov	DTIC ADA091073: A Reprint of 'A Method of Estimating Plane Vulnerability Based on Damage of Survivors.
-https://archive.org/download/DTIC_ADA091073/DTIC_ADA091073.epub	survival	DTIC_ADA091073	10617012	usgov	DTIC ADA091073: A Reprint of 'A Method of Estimating Plane Vulnerability Based on Damage of Survivors.
-https://archive.org/download/DTIC_ADA183944/DTIC_ADA183944.pdf	survival	DTIC_ADA183944	1287614	usgov	DTIC ADA183944: VLS (Vertical Launching System). A Challenge Met, An Old Rule Kept
-https://archive.org/download/CAT92273171/CAT92273171.pdf	survival	CAT92273171	2877756	usgov	Survival and growth of planted conifers on the Dead Indian Plateau, east of Ashland, Oregon
+https://archive.org/download/CAT10690197/CAT10690197.pdf	survival	CAT10690197	6579361	usgov	Food supply for fallout shelters : including a report of the development of a special cereal-based ration
 https://archive.org/download/DTIC_ADA328301/DTIC_ADA328301.pdf	survival	DTIC_ADA328301	18750026	usgov	DTIC ADA328301: Nuclear War Survival Skills,
 https://archive.org/download/DTIC_AD0023047/DTIC_AD0023047.pdf	survival	DTIC_AD0023047	2818354	usgov	DTIC AD0023047: Wound Ballistics Tests of .22 Caliber Bullets for the M4 Air Force Survival Gun
-https://archive.org/download/40SurvivalTools40EssentialJeredSmith/40%20Survival%20Tools_%2040%20Essential%20-%20Jered%20Smith.pdf	survival	40SurvivalTools40EssentialJeredSmith	1602022	pdmark	40 Survival Tools 40 Essential Jered Smith
-https://archive.org/download/40SurvivalTools40EssentialJeredSmith/40%20Survival%20Tools_%2040%20Essential%20-%20Jered%20Smith.epub	survival	40SurvivalTools40EssentialJeredSmith	11423908	pdmark	40 Survival Tools 40 Essential Jered Smith
-https://archive.org/download/CAT31283715/CAT31283715.pdf	survival	CAT31283715	2937125	pre1931	A select list, a survival of the fittest, bulbs, plants and seeds
+https://archive.org/download/CAIN789167702/CAIN789167702.pdf	survival	CAIN789167702	577887	usgov	Effects of watering treatments on germination, survival, and growth of Rocky Mountain Douglas Fir : a greenhouse study
 https://archive.org/download/CAT92273436/CAT92273436.pdf	survival	CAT92273436	2111613	usgov	Establishment, survival, and growth of selected browse species in a ponderosa pine forest
 https://archive.org/download/DTIC_AD0404512/DTIC_AD0404512.pdf	survival	DTIC_AD0404512	794549	usgov	DTIC AD0404512: THE FALLOUT PROTECTION BOOKLET: 2. A COMPARISON AMONG FOUR GROUPS OF DIFFERING LEVELS OF INTEREST IN SHELTER CONSTRUCTION
-https://archive.org/download/CAT81765630/CAT81765630.pdf	survival	CAT81765630	759582	pre1931	Solar still for survival water
-https://archive.org/download/DTIC_ADA024662/DTIC_ADA024662.pdf	survival	DTIC_ADA024662	31947262	usgov	DTIC ADA024662: Advanced Helicopter Structural Design Investigation. Volume I. Investigation of Advanced Structural Component Design Concepts
-https://archive.org/download/CAT31302153/CAT31302153.pdf	survival	CAT31302153	790630	usgov	Effects of rock mulch and scalping on survival of planted ponderosa pine in the Southwest
-https://archive.org/download/DTIC_ADA105512/DTIC_ADA105512.pdf	survival	DTIC_ADA105512	7636869	usgov	DTIC ADA105512: Helicopter Landing Gear Design and Test Criteria Investigation
-https://archive.org/download/DTIC_ADA292060/DTIC_ADA292060.pdf	survival	DTIC_ADA292060	837849	usgov	DTIC ADA292060: A Longevity and Survival Analysis for a Cohort of Retired Airline Pilots.
+https://archive.org/download/CAT81765630/CAT81765630.pdf	survival	CAT81765630	759582	usgov	Solar still for survival water
 https://archive.org/download/CAT31363547/CAT31363547.pdf	survival	CAT31363547	1999081	usgov	Method of studying the factors affecting initial survival in forest plantations
-https://archive.org/download/DTIC_ADA064181/DTIC_ADA064181.pdf	survival	DTIC_ADA064181	56201926	usgov	DTIC ADA064181: Highly Survivable Truss Type Tail Boom.
-https://archive.org/download/20200520-the-survival-of-dogma/20200520_THE%20SURVIVAL%20OF%20DOGMA.pdf	survival	20200520-the-survival-of-dogma	12974782	pdmark	The survival of dogma : faith, authority, and dogma in a changing world
-https://archive.org/download/CAT31357975/CAT31357975.pdf	survival	CAT31357975	1082522	usgov	Tax delinquency of forest lands in the anthracite forest region of Pennsylvania : a county opportunity and responsibility
-https://archive.org/download/DTIC_ADA311279/DTIC_ADA311279.pdf	survival	DTIC_ADA311279	3598498	usgov	DTIC ADA311279: Precursor to Conflict: The Cultural Re-Coding of Serbia.
-https://archive.org/download/DTIC_ADA026362/DTIC_ADA026362.pdf	survival	DTIC_ADA026362	12769189	usgov	DTIC ADA026362: Survival of the Relocated Population of the U.S. After a Nuclear Attack
-https://archive.org/download/DTIC_ADA026362/DTIC_ADA026362.epub	survival	DTIC_ADA026362	34853151	usgov	DTIC ADA026362: Survival of the Relocated Population of the U.S. After a Nuclear Attack
 https://archive.org/download/DTIC_ADA099634/DTIC_ADA099634.pdf	survival	DTIC_ADA099634	30352752	usgov	DTIC ADA099634: Our Missing Shield: The U.S. Civil Defense Program in Historical Perspective
-https://archive.org/download/DTIC_ADA325861/DTIC_ADA325861.pdf	survival	DTIC_ADA325861	47891979	usgov	DTIC ADA325861: Search and Rescue: Survival Training; Survive, Return, Honor. Volume 1
 https://archive.org/download/DTIC_AD0401415/DTIC_AD0401415.pdf	survival	DTIC_AD0401415	900998	usgov	DTIC AD0401415: UNCONVENTIONAL WARFARE. PART 3. ESCAPE AND EVASION
 https://archive.org/download/DTIC_AD0142232/DTIC_AD0142232.pdf	survival	DTIC_AD0142232	42813395	usgov	DTIC AD0142232: THE PHYSIOLOGICAL BASIS FOR VARIOUS CONSTITUENTS IN SURVIVAL RATIONS. PART 3. THE EFFICIENCY OF YOUNG MEN UNDER CONDITIONS OF MOIST HEAT, VOLUME 1
+https://archive.org/download/DTIC_ADA325861/DTIC_ADA325861.pdf	survival	DTIC_ADA325861	47891979	usgov	DTIC ADA325861: Search and Rescue: Survival Training; Survive, Return, Honor. Volume 1
 https://archive.org/download/CAT70292668/CAT70292668.pdf	survival	CAT70292668	14084309	usgov	U.S. Department of Agriculture programed instruction on survival preparedness for rural areas
 https://archive.org/download/DTIC_AD0401819/DTIC_AD0401819.pdf	survival	DTIC_AD0401819	1320733	usgov	DTIC AD0401819: SMALL DEVELOPMENT REQUIREMENT FOR INDIVIDUAL AID AND SURVIVAL KIT FOR SPECIAL WARFARE
 https://archive.org/download/DTIC_AD0401819/DTIC_AD0401819.epub	survival	DTIC_AD0401819	13279771	usgov	DTIC AD0401819: SMALL DEVELOPMENT REQUIREMENT FOR INDIVIDUAL AID AND SURVIVAL KIT FOR SPECIAL WARFARE
-https://archive.org/download/31761116488255/31761116488255.pdf	survival	31761116488255	3793267	usgov	Safety handbook for the inshore fisherman
-https://archive.org/download/31761116488255/31761116488255.epub	survival	31761116488255	11082258	usgov	Safety handbook for the inshore fisherman
 https://archive.org/download/DTIC_ADA032837/DTIC_ADA032837.pdf	survival	DTIC_ADA032837	10841265	usgov	DTIC ADA032837: Report of Cold Climate Clothing and Survival Equipment Workshop.
 https://archive.org/download/DTIC_ADA032837/DTIC_ADA032837.epub	survival	DTIC_ADA032837	1526431	usgov	DTIC ADA032837: Report of Cold Climate Clothing and Survival Equipment Workshop.
-https://archive.org/download/DTIC_ADA025084/DTIC_ADA025084.pdf	survival	DTIC_ADA025084	5413667	usgov	DTIC ADA025084: The Development of Military Equipments: Reliability and Nuclear Survivability Considerations
-https://archive.org/download/DTIC_ADA061168/DTIC_ADA061168.pdf	survival	DTIC_ADA061168	48856882	usgov	DTIC ADA061168: Postattack Impacts of the Crisis Relocation Strategy on Transportation Systems. Volume III. The Role of Truckstops in Crisis Relocation.
-https://archive.org/download/DTIC_ADA089104/DTIC_ADA089104.pdf	survival	DTIC_ADA089104	13691720	usgov	DTIC ADA089104: Aircraft Crash Survival Design Guide. Volume III. Aircraft Structural Crashworthiness
+https://archive.org/download/CAT10682885/CAT10682885.pdf	survival	CAT10682885	994407	usgov	Determining food resources for survival planning purposes
 https://archive.org/download/DTIC_ADA109652/DTIC_ADA109652.pdf	survival	DTIC_ADA109652	13492501	usgov	DTIC ADA109652: Civil Defense in Soviet Strategic Perceptions.
-https://archive.org/download/DTIC_AD0664478/DTIC_AD0664478.pdf	survival	DTIC_AD0664478	3374211	usgov	DTIC AD0664478: FALLOUT SHELTER SURVEYS: GUIDE FOR ARCHITECTS AND ENGINEERS
-https://archive.org/download/DTIC_ADA030940/DTIC_ADA030940.pdf	survival	DTIC_ADA030940	1085482	usgov	DTIC ADA030940: The Empirical Distribution Function with Arbitrarily Grouped, Censored, and Truncated Data
-https://archive.org/download/DTIC_ADA221925/DTIC_ADA221925.pdf	survival	DTIC_ADA221925	20535903	usgov	DTIC ADA221925: Area Handbook Series: Cambodia: A Country Study
+https://archive.org/download/13821080R.nlm.nih.gov/13821080R.pdf	survival	13821080R.nlm.nih.gov	20621659	usgov	How to survive on land and sea : individual survival
+https://archive.org/download/13821080R.nlm.nih.gov/13821080R.epub	survival	13821080R.nlm.nih.gov	90557900	usgov	How to survive on land and sea : individual survival
 https://archive.org/download/DTIC_ADA136623/DTIC_ADA136623.pdf	survival	DTIC_ADA136623	7070026	usgov	DTIC ADA136623: Nepal: Quest for Survival.
 https://archive.org/download/DTIC_ADA136623/DTIC_ADA136623.epub	survival	DTIC_ADA136623	9248183	usgov	DTIC ADA136623: Nepal: Quest for Survival.
-https://archive.org/download/DTIC_ADA243123/DTIC_ADA243123.pdf	survival	DTIC_ADA243123	3804932	usgov	DTIC ADA243123: A Target/Missile Engagement Scenario Using Classical Proportional Navigation
-https://archive.org/download/DTIC_ADA036911/DTIC_ADA036911.pdf	survival	DTIC_ADA036911	77183759	usgov	DTIC ADA036911: Proposed MIL-STD-XXX Aircraft Nonnuclear Survivability/Vulnerability Terms.
-https://archive.org/download/DTIC_ADA309830/DTIC_ADA309830.pdf	survival	DTIC_ADA309830	3123010	usgov	DTIC ADA309830: Unit Cohesion and Morale in Combat: Survival in a Culturally and Racially Heterogeneous Environment.
-https://archive.org/download/DTIC_ADA309830/DTIC_ADA309830.epub	survival	DTIC_ADA309830	4808556	usgov	DTIC ADA309830: Unit Cohesion and Morale in Combat: Survival in a Culturally and Racially Heterogeneous Environment.
-https://archive.org/download/100-deadly-skills-survival-edition-the-seal-operatives-guide-to-surviving-in-t/100%20Deadly%20Skills-%20Survival%20Edition-%20The%20SEAL%20Operative%27s%20Guide%20to%20Surviving%20in%20the%20Wild%20and%20Being%20Prepared%20for%20Any%20Disaster%20-%20Clint%20Emerson%2C%20retired%20Navy%20SEAL.pdf	survival	100-deadly-skills-survival-edition-the-seal-operatives-guide-to-surviving-in-t	19666185	pdmark	100 Deadly Skills- Survival Edition The SEAL Operative's Guide To Surviving In The Wild And Being Prepared For Any Disaster - Clint Emerson, Retired Navy SEAL
-https://archive.org/download/DTIC_ADA218437/DTIC_ADA218437.pdf	survival	DTIC_ADA218437	13155232	usgov	DTIC ADA218437: Aircraft Crash Survival Design Guide. Volume 4. Aircraft Seats, Restraints, Litters, and Cockpit/Cabin Delethalization
 https://archive.org/download/DTIC_AD0030335/DTIC_AD0030335.pdf	survival	DTIC_AD0030335	3728678	usgov	DTIC AD0030335: SUN-SAND AND SURVIVAL. AN ANALYSIS OF SURVIVAL EXPERIENCES IN DESERT AREAS
 https://archive.org/download/DTIC_AD0030335/DTIC_AD0030335.epub	survival	DTIC_AD0030335	39418846	usgov	DTIC AD0030335: SUN-SAND AND SURVIVAL. AN ANALYSIS OF SURVIVAL EXPERIENCES IN DESERT AREAS
-https://archive.org/download/DTIC_ADA160950/DTIC_ADA160950.pdf	survival	DTIC_ADA160950	15112552	usgov	DTIC ADA160950: Proceedings of Cabin Safety Conference and Workshop Held on December 11-14, 1984.
-https://archive.org/download/DTIC_ADA195360/DTIC_ADA195360.pdf	survival	DTIC_ADA195360	1856489	usgov	DTIC ADA195360: The Battle of Hill 875, Dak To, Vietnam 1967
-https://archive.org/download/DTIC_ADA195360/DTIC_ADA195360.epub	survival	DTIC_ADA195360	4911781	usgov	DTIC ADA195360: The Battle of Hill 875, Dak To, Vietnam 1967
-https://archive.org/download/DTIC_ADA218434/DTIC_ADA218434.pdf	survival	DTIC_ADA218434	10790605	usgov	DTIC ADA218434: Aircraft Crash Survival Design Guide. Volume 1. Design Criteria and Checklists
-https://archive.org/download/DTIC_ADA218434/DTIC_ADA218434.epub	survival	DTIC_ADA218434	18604584	usgov	DTIC ADA218434: Aircraft Crash Survival Design Guide. Volume 1. Design Criteria and Checklists
-https://archive.org/download/DTIC_ADA227647/DTIC_ADA227647.pdf	survival	DTIC_ADA227647	8765738	usgov	DTIC ADA227647: Occupant Crash Protection in Military Air Transport (Protection Contre l'Ecrasement des Occupants des Aeronefs de Transport Militaires)
+https://archive.org/download/DTIC_ADA309830/DTIC_ADA309830.pdf	survival	DTIC_ADA309830	3123010	usgov	DTIC ADA309830: Unit Cohesion and Morale in Combat: Survival in a Culturally and Racially Heterogeneous Environment.
+https://archive.org/download/DTIC_ADA309830/DTIC_ADA309830.epub	survival	DTIC_ADA309830	4808556	usgov	DTIC ADA309830: Unit Cohesion and Morale in Combat: Survival in a Culturally and Racially Heterogeneous Environment.
 https://archive.org/download/DTIC_ADA015238/DTIC_ADA015238.pdf	survival	DTIC_ADA015238	3459804	usgov	DTIC ADA015238: Analysis of Aircraft Evasion Strategies in Air-to-Air Missille Effectiveness Models
 https://archive.org/download/DTIC_AD0078282/DTIC_AD0078282.pdf	survival	DTIC_AD0078282	26769297	usgov	DTIC AD0078282: THE PHYSIOLOGICAL BASIS FOR VARIOUS CONSTITUENTS IN SURVIVAL RATIONS. PART 2. THE EFFICIENCY OF YOUNG MEN UNDER CONDITIONS OF MODERATE COLD
-https://archive.org/download/DTIC_ADA116689/DTIC_ADA116689.pdf	survival	DTIC_ADA116689	17347386	usgov	DTIC ADA116689: Emergency Preparedness: A Handbook for Families.
-https://archive.org/download/10.11591ijece.v8i2.pp644-650/03%20ICFICE2017-3.pdf	survival	10.11591ijece.v8i2.pp644-650	434709	pdmark	From Agasa Cristie to Group Image Play - Analysis of Horror Survival Game Panic Room: Escaping from the Den on Emotional Elements Development
-https://archive.org/download/CAT10833218/CAT10833218.pdf	survival	CAT10833218	448478	usgov	Without a trace : the wilderness challenge
-https://archive.org/download/100-skills-you-ll-need-for-the-end-of-the-world-as-we-know/100%20Skills%20You%20ll%20Need%20for%20the%20End%20of%20the%20World%20%28As%20We%20Know.pdf	survival	100-skills-you-ll-need-for-the-end-of-the-world-as-we-know	21927057	pdmark	100 Skills You'll Need For The End Of The World (As We Know It) by Ana Maria Spagna
-https://archive.org/download/100-skills-you-ll-need-for-the-end-of-the-world-as-we-know/100%20Skills%20You%20ll%20Need%20for%20the%20End%20of%20the%20World%20%28As%20We%20Know.epub	survival	100-skills-you-ll-need-for-the-end-of-the-world-as-we-know	34823394	pdmark	100 Skills You'll Need For The End Of The World (As We Know It) by Ana Maria Spagna
-https://archive.org/download/DTIC_ADA131903/DTIC_ADA131903.pdf	survival	DTIC_ADA131903	4860606	usgov	DTIC ADA131903: Summary of Operational Rations
-https://archive.org/download/DTIC_AD0394463/DTIC_AD0394463.pdf	survival	DTIC_AD0394463	2132841	usgov	DTIC AD0394463: Vietnam Lessons Learned No. 72: Search and Rescue Operations in Southeast Asia
-https://archive.org/download/DTIC_ADA031031/DTIC_ADA031031.pdf	survival	DTIC_ADA031031	28420367	usgov	DTIC ADA031031: Tanker Structural Analysis for Minor Collisions
-https://archive.org/download/DTIC_ADA064159/DTIC_ADA064159.pdf	survival	DTIC_ADA064159	79645812	usgov	DTIC ADA064159: Preliminary Design Study of a Composite Main Rotor Blade for the OH-58 Helicopter. Volume I. Trade Analysis and Preliminary Design Study of Composite OH-58 Main Rotor Blade.
-https://archive.org/download/DTIC_ADA029162/DTIC_ADA029162.pdf	survival	DTIC_ADA029162	8859994	usgov	DTIC ADA029162: A Crashworthiness Analysis with Emphasis on the Fire Hazard: U.S. and Selected Foreign Turbine Aircraft Accidents, 1964-1974
-https://archive.org/download/DTIC_ADA031566/DTIC_ADA031566.pdf	survival	DTIC_ADA031566	21762640	usgov	DTIC ADA031566: Aircrew Protective Clothing and Devices System (Fighter/Attack Aircraft).
-https://archive.org/download/DTIC_ADA218435/DTIC_ADA218435.pdf	survival	DTIC_ADA218435	6050311	usgov	DTIC ADA218435: Aircraft Crash Survival Design Guide. Volume 2. Aircraft Design Crash Impact Conditions and Human Tolerance
 https://archive.org/download/DTIC_AD1016428/DTIC_AD1016428.pdf	survival	DTIC_AD1016428	1259755	usgov	DTIC AD1016428: Field Verification-Interrogation and Survival, Evasion, Resistance, and Escape Techniques Recommendation (REDACTED)
 https://archive.org/download/DTIC_AD1016428/DTIC_AD1016428.epub	survival	DTIC_AD1016428	4817485	usgov	DTIC AD1016428: Field Verification-Interrogation and Survival, Evasion, Resistance, and Escape Techniques Recommendation (REDACTED)
-https://archive.org/download/DTIC_AD0441628/DTIC_AD0441628.pdf	survival	DTIC_AD0441628	12001062	usgov	DTIC AD0441628: THE ITALO-ALBANIAN VILLAGES OF SOUTHERN ITALY
-https://archive.org/download/DTIC_ADA026886/DTIC_ADA026886.pdf	survival	DTIC_ADA026886	5886634	usgov	DTIC ADA026886: Military Operations in Built-Up Areas: Essays on Some Past, Present, and Future Aspects
-https://archive.org/download/DTIC_AD0387092/DTIC_AD0387092.pdf	survival	DTIC_AD0387092	2671818	usgov	DTIC AD0387092: LESSONS LEARNED, HEADQUARTERS, 1ST SIGNAL BRIGADE (USASTRATCOM)
-https://archive.org/download/CAT92272873/CAT92272873.pdf	survival	CAT92272873	2047336	usgov	Effects of aerial application of DDT for tussock moth control on nestling survival of mountain bluebirds and house wrens
-https://archive.org/download/DTIC_AD0422993/DTIC_AD0422993.pdf	survival	DTIC_AD0422993	15125174	usgov	DTIC AD0422993: PROTECTIVE CONSTRUCTION REVIEW GUIDE--HARDENING. VOLUME I
-https://archive.org/download/DTIC_ADA030815/DTIC_ADA030815.pdf	survival	DTIC_ADA030815	14526113	usgov	DTIC ADA030815: Debris Motion and Injury Relationships in All Hazard Environments
-https://archive.org/download/DTIC_ADA069672/DTIC_ADA069672.pdf	survival	DTIC_ADA069672	5090182	usgov	DTIC ADA069672: Nuclear Weapons Effects on Army Tactical Systems. Volume 1. Overview
 https://archive.org/download/DTIC_AD0016423/DTIC_AD0016423.pdf	survival	DTIC_AD0016423	3447883	usgov	DTIC AD0016423: TEST OF SURVIVAL WEAPONS
-https://archive.org/download/DTIC_ADA031996/DTIC_ADA031996.pdf	survival	DTIC_ADA031996	7156069	usgov	DTIC ADA031996: A Review of the Analyses of Hydrodynamic Ram
-https://archive.org/download/DTIC_ADA011108/DTIC_ADA011108.pdf	survival	DTIC_ADA011108	8103442	usgov	DTIC ADA011108: Casualties Produced by Impact and Related Topics of People Survivability in a Direct Effects Environment
-https://archive.org/download/CAT92982344/CAT92982344.pdf	survival	CAT92982344	1977373	usgov	Leave no trace! : a program to teach skills for protecting the wilderness environment
-https://archive.org/download/DTIC_ADA071904/DTIC_ADA071904.pdf	survival	DTIC_ADA071904	2340820	usgov	DTIC ADA071904: Air to Air Helicopter Combat (USMC Helicopters versus Russian HIND)
-https://archive.org/download/DTIC_ADA071904/DTIC_ADA071904.epub	survival	DTIC_ADA071904	4424008	usgov	DTIC ADA071904: Air to Air Helicopter Combat (USMC Helicopters versus Russian HIND)
-https://archive.org/download/DTIC_ADA076138/DTIC_ADA076138.pdf	survival	DTIC_ADA076138	30065455	usgov	DTIC ADA076138: Combat Damage Assessment Team, A-10/GAU-8 Low Angle Firings versus Simulated Soviet Tank Company (15 June 1978).
-https://archive.org/download/CAT92273191/CAT92273191.pdf	survival	CAT92273191	740148	usgov	Field survival and growth of Douglas-fir by age and size of nursery stock
 https://archive.org/download/DTIC_ADA141259/DTIC_ADA141259.pdf	survival	DTIC_ADA141259	8770412	usgov	DTIC ADA141259: 'Do-It-Yourself' Fallout/Blast Shelter Evaluation
-https://archive.org/download/DTIC_ADA020052/DTIC_ADA020052.pdf	survival	DTIC_ADA020052	6015235	usgov	DTIC ADA020052: Studies of Mobility, Agility and Survivability in the Land Combat Environment
-https://archive.org/download/6b-334d-502dc-1b-44a-5919819b-73125075-applicationpdf/6b334d502dc1b44a5919819b73125075-applicationpdf.pdf	survival	6b-334d-502dc-1b-44a-5919819b-73125075-applicationpdf	1505151	usgov	NOAA Reprint of Basic Geodesy
-https://archive.org/download/DTIC_ADA316729/DTIC_ADA316729.pdf	survival	DTIC_ADA316729	12693024	usgov	DTIC ADA316729: The Bear Went Over the Mountain: Soviet Combat Tactics in Afghanistan,
 https://archive.org/download/DTIC_ADA057795/DTIC_ADA057795.pdf	survival	DTIC_ADA057795	25493173	usgov	DTIC ADA057795: Aircrew Survival Weapon Use. WW II Data Base.
 https://archive.org/download/DTIC_ADA057795/DTIC_ADA057795.epub	survival	DTIC_ADA057795	8244254	usgov	DTIC ADA057795: Aircrew Survival Weapon Use. WW II Data Base.
-https://archive.org/download/DTIC_ADA319024/DTIC_ADA319024.pdf	survival	DTIC_ADA319024	8725535	usgov	DTIC ADA319024: Auschwitz and Anglo-American Air Power: Historical Debates and Military Capabilities.
-https://archive.org/download/DTIC_ADA128039/DTIC_ADA128039.pdf	survival	DTIC_ADA128039	3041075	usgov	DTIC ADA128039: Threat Handbook: Battlefield Survival and Radioelectronic Combat: The Radio Direction Finding Threat
-https://archive.org/download/DTIC_AD0653468/DTIC_AD0653468.pdf	survival	DTIC_AD0653468	40868983	usgov	DTIC AD0653468: VULNERABILITIES OF SOCIAL STRUCTURE: STUDIES OF THE SOCIAL DIMENSIONS OF NUCLEAR ATTACK
 https://archive.org/download/DTIC_ADA030560/DTIC_ADA030560.pdf	survival	DTIC_ADA030560	601275	usgov	DTIC ADA030560: Service Test of the Army Aircraft Hot-Climate and Overwater Individual Survival Kit
-https://archive.org/download/DTIC_ADA076026/DTIC_ADA076026.pdf	survival	DTIC_ADA076026	84218306	usgov	DTIC ADA076026: Survivability in a Nuclear Weapon Environment.
 https://archive.org/download/DTIC_AD0006062/DTIC_AD0006062.pdf	survival	DTIC_AD0006062	11718615	usgov	DTIC AD0006062: TEST OF SURVIVAL WEAPONS
-https://archive.org/download/DTIC_AD0014643/DTIC_AD0014643.pdf	survival	DTIC_AD0014643	6420974	usgov	DTIC AD0014643: AIRCRAFT SAFETY BELTS: THEIR INJURY EFFECT ON THE HUMAN BODY
-https://archive.org/download/DTIC_AD0916290/DTIC_AD0916290.pdf	survival	DTIC_AD0916290	35962394	usgov	DTIC AD0916290: Armored Structural Helicopter Fuselage Study
-https://archive.org/download/DTIC_ADA218438/DTIC_ADA218438.pdf	survival	DTIC_ADA218438	12586079	usgov	DTIC ADA218438: Aircraft Crash Survival Design Guide. Volume 5. Aircraft Postcrash Survival
-https://archive.org/download/DTIC_ADA030799/DTIC_ADA030799.pdf	survival	DTIC_ADA030799	1368925	usgov	DTIC ADA030799: Survival of Microbial Pathogens in the Marine Environment
-https://archive.org/download/DTIC_ADA031554/DTIC_ADA031554.pdf	survival	DTIC_ADA031554	10224347	usgov	DTIC ADA031554: Universal Consequences of Captivity: Stress Reactions Among Divergent Populations of Prisoners of War and Their Families
 https://archive.org/download/DTIC_ADA035913/DTIC_ADA035913.pdf	survival	DTIC_ADA035913	2854872	usgov	DTIC ADA035913: A Summary of Navy Air Combat Escape and Survival
-https://archive.org/download/DTIC_ADA112859/DTIC_ADA112859.pdf	survival	DTIC_ADA112859	6341023	usgov	DTIC ADA112859: Grays Harbor and Chehalis River Improvements to Navigation Environmental Studies. Wildlife Studies at Proposed Disposal Sites in Grays Harbor, Washington,
-https://archive.org/download/DTIC_ADA077037/DTIC_ADA077037.pdf	survival	DTIC_ADA077037	21848095	usgov	DTIC ADA077037: Rocket Motor Blast Effects and Proposed Ablative Protection for RAM Launching System EX 43.
-https://archive.org/download/DTIC_ADA131652/DTIC_ADA131652.pdf	survival	DTIC_ADA131652	1603525	usgov	DTIC ADA131652: Combat Vehicle Test Beds: A Study of the Use of Test Beds in the Development of Combat Vehicles
-https://archive.org/download/DTIC_AD0822702/DTIC_AD0822702.pdf	survival	DTIC_AD0822702	238820	usgov	DTIC AD0822702: HOW LIGHTNING KILLS. (THE MECHANISM OF DEATH BY LIGHTNING) (MECANISME DE LA MORT PAR LA FOUDRE),
-https://archive.org/download/DTIC_ADA037906/DTIC_ADA037906.pdf	survival	DTIC_ADA037906	79074204	usgov	DTIC ADA037906:
 https://archive.org/download/DTIC_ADA327354/DTIC_ADA327354.pdf	survival	DTIC_ADA327354	2025035	usgov	DTIC ADA327354: Survival, Evasion, Resistance, and Escape Training Instructor AFSC 1T0X1
 https://archive.org/download/DTIC_ADA327354/DTIC_ADA327354.epub	survival	DTIC_ADA327354	6678925	usgov	DTIC ADA327354: Survival, Evasion, Resistance, and Escape Training Instructor AFSC 1T0X1
-https://archive.org/download/DTIC_ADA187998/DTIC_ADA187998.pdf	survival	DTIC_ADA187998	1483686	usgov	DTIC ADA187998: Use and Care of the Extended Cold Weather Clothing System (ECWCS).
-https://archive.org/download/DTIC_ADA036785/DTIC_ADA036785.pdf	survival	DTIC_ADA036785	2950528	usgov	DTIC ADA036785: Project Management of Army Aircraft Survivability Equipment
-https://archive.org/download/DTIC_ADA049212/DTIC_ADA049212.pdf	survival	DTIC_ADA049212	34766515	usgov	DTIC ADA049212: Army Research and Technology Laboratories Annual Report FY 77.
-https://archive.org/download/DTIC_ADA072388/DTIC_ADA072388.pdf	survival	DTIC_ADA072388	88929845	usgov	DTIC ADA072388: Distributed, Survivable Direction and Control Systems for Civil Preparedness -- Concepts and Initial Designs.
-https://archive.org/download/DTIC_ADA217335/DTIC_ADA217335.pdf	survival	DTIC_ADA217335	15878584	usgov	DTIC ADA217335: Proceedings of the USAF/NATO Conference on Maintenance of Air Base Operations in a Chemical Warfare Environment Held in Williamsburg, Virginia on August - September 1987
-https://archive.org/download/DTIC_AD0672770/DTIC_AD0672770.pdf	survival	DTIC_AD0672770	27275038	usgov	DTIC AD0672770: PROCEEDINGS OF THE SYMPOSIUM ON POSTATTACK RECOVERY FROM NUCLEAR WAR, HELD AT FORT MONROE, VIRGINIA, NOVEMBER 6-9, 1967
-https://archive.org/download/DTIC_ADA218436/DTIC_ADA218436.pdf	survival	DTIC_ADA218436	11638038	usgov	DTIC ADA218436: Aircraft Crash Survival Design Guide. Volume 3. Aircraft Structural Crash Resistance
-https://archive.org/download/DTIC_ADA046119/DTIC_ADA046119.pdf	survival	DTIC_ADA046119	31230380	usgov	DTIC ADA046119: Fire: A Deterministic Model for Estimating Survivability through Area Surface to Air Missile Defenses.
-https://archive.org/download/DTIC_ADA048739/DTIC_ADA048739.pdf	survival	DTIC_ADA048739	8907018	usgov	DTIC ADA048739: Nuclear Hardness Surveillance for an Air Force Weapon System,
-https://archive.org/download/DTIC_ADA116380/DTIC_ADA116380.pdf	survival	DTIC_ADA116380	12148368	usgov	DTIC ADA116380: Aircraft Fire Safety
-https://archive.org/download/DTIC_ADA290712/DTIC_ADA290712.pdf	survival	DTIC_ADA290712	1207226	usgov	DTIC ADA290712: Psychological Profile of Survival, Evasion, Resistance and Escape Instructor Personnel.
 https://archive.org/download/DTIC_ADA035264/DTIC_ADA035264.pdf	survival	DTIC_ADA035264	13006025	usgov	DTIC ADA035264: Leukocyte Response and Hypoglycemia: Co-Determinants in the Altered Survival to Superlethal Endotoxic Shock.
-https://archive.org/download/AirSeaRescueBulletinV2-nsia/AirSeaRescueBulletinV2.pdf	survival	AirSeaRescueBulletinV2-nsia	48710615	pdmark	Air Sea Rescue Bulletin V.2, Nos. 1-4, 1945
 https://archive.org/download/DTIC_AD0719200/DTIC_AD0719200.pdf	survival	DTIC_AD0719200	515373	usgov	DTIC AD0719200: Survival Kits
 https://archive.org/download/DTIC_AD0719200/DTIC_AD0719200.epub	survival	DTIC_AD0719200	160631	usgov	DTIC AD0719200: Survival Kits
-https://archive.org/download/DTIC_ADA057907/DTIC_ADA057907.pdf	survival	DTIC_ADA057907	98967797	usgov	DTIC ADA057907: Adaptation of the Improved Antiaircraft Artillery Simulation Computer Program (P001) for Use at the Naval Postgraduate School in Aircraft Combat Survivability Studies.
-https://archive.org/download/DTIC_ADA113908/DTIC_ADA113908.pdf	survival	DTIC_ADA113908	9083840	usgov	DTIC ADA113908: Guidance and Control Technology for Highly Integrated Systems.
-https://archive.org/download/CAT77686146/CAT77686146.pdf	survival	CAT77686146	179398	usgov	Endomycorrhizae enhance survival and growth of fourwing saltbush on coal mine spoils
+https://archive.org/download/DTIC_ADA290712/DTIC_ADA290712.pdf	survival	DTIC_ADA290712	1207226	usgov	DTIC ADA290712: Psychological Profile of Survival, Evasion, Resistance and Escape Instructor Personnel.
 https://archive.org/download/DTIC_AD0432335/DTIC_AD0432335.pdf	survival	DTIC_AD0432335	296528	usgov	DTIC AD0432335: A CASE FOR SURVIVAL DEEP UNDERGROUND
-https://archive.org/download/DTIC_ADA023015/DTIC_ADA023015.pdf	survival	DTIC_ADA023015	19516890	usgov	DTIC ADA023015: Adaptive Tracking Filter Design and Evaluation for Gun Fire Control Systems
-https://archive.org/download/DTIC_AD0017527/DTIC_AD0017527.pdf	survival	DTIC_AD0017527	630614	usgov	DTIC AD0017527: THE PHENOMENA OF DIFFUSION RESPIRATION INCLUDING A STUDY OF THE PHYSIOLOGY AND THERAPEUTICS OF HIGH CONCENTRATIONS OF CARBON DIOXIDE
-https://archive.org/download/CAT92272899/CAT92272899.pdf	survival	CAT92272899	992135	usgov	Survival of Douglas-fir seedlings sprayed with atrazine, terbacil, and 2,4-D
-https://archive.org/download/DTIC_ADA011104/DTIC_ADA011104.pdf	survival	DTIC_ADA011104	2428394	usgov	DTIC ADA011104: Crisis Relocation: Perspectives of Americans
-https://archive.org/download/DTIC_ADA117449/DTIC_ADA117449.pdf	survival	DTIC_ADA117449	8574658	usgov	DTIC ADA117449: A Combined Hazard Index Fire Test Methodology for Aircraft Cabin Materials. Volume II.
-https://archive.org/download/DTIC_ADA040197/DTIC_ADA040197.pdf	survival	DTIC_ADA040197	5965917	usgov	DTIC ADA040197: An Assessment of Lockheed Aircraft Corporation and the Emergency Loan Guarantee Act.
 https://archive.org/download/CAT77679973/CAT77679973.pdf	survival	CAT77679973	298716	usgov	Germination, survival, and growth of lodgepole pine under simulated precipitation regimes : a greenhouse study
-https://archive.org/download/DTIC_ADA034526/DTIC_ADA034526.pdf	survival	DTIC_ADA034526	16735390	usgov	DTIC ADA034526: Influence of Extremely Low Frequency Electric and Magnetic Fields upon Growth Development and Behavior in Domestic Birds. Phase II. (Modulated Wave).
-https://archive.org/download/DTIC_ADA041540/DTIC_ADA041540.pdf	survival	DTIC_ADA041540	48192949	usgov	DTIC ADA041540: Industrial Survival and Recovery after Nuclear Attack. A Report to the Joint Committee on Defense Production U. S. Congress.
-https://archive.org/download/DTIC_ADA055503/DTIC_ADA055503.pdf	survival	DTIC_ADA055503	61413470	usgov	DTIC ADA055503: Vulnerability of Surface Effect Vehicles to Explosion Generated Water Waves.
-https://archive.org/download/DTIC_ADA097863/DTIC_ADA097863.pdf	survival	DTIC_ADA097863	19693687	usgov	DTIC ADA097863: Requirements, Technology and Configuration Evaluation for Crash Survivable Flight Data Recording (CSFDR) System
-https://archive.org/download/DTIC_AD0754651/DTIC_AD0754651.pdf	survival	DTIC_AD0754651	6127807	usgov	DTIC AD0754651: Brackish Water Desalter Packet
-https://archive.org/download/DTIC_ADA136834/DTIC_ADA136834.pdf	survival	DTIC_ADA136834	4860944	usgov	DTIC ADA136834: An Open Loop Missile Evasion Algorithm for Fighters
-https://archive.org/download/DTIC_ADA308105/DTIC_ADA308105.pdf	survival	DTIC_ADA308105	4920164	usgov	DTIC ADA308105: Progress in Estimation and Control for Air-Launched Missiles. Part 1. A Real-Time 3D Mini-Max Pursuit-Evader Algorithm, Part 2. Estimation.
-https://archive.org/download/DTIC_ADA322822/DTIC_ADA322822.pdf	survival	DTIC_ADA322822	3582515	usgov	DTIC ADA322822: Tin Hazards to Fish, Wildlife, and Invertebrates: A Synoptic Review.
-https://archive.org/download/DTIC_AD0402098/DTIC_AD0402098.pdf	survival	DTIC_AD0402098	20591712	usgov	DTIC AD0402098: AN APPROACH TO THE STUDY OF SOCIAL AND PSYCHOLOGICAL EFFECTS OF NUCLEAR ATTACK
-https://archive.org/download/DTIC_ADA077475/DTIC_ADA077475.pdf	survival	DTIC_ADA077475	75502466	usgov	DTIC ADA077475: New Remotely Piloted Vehicle Launch and Recovery Concepts. Volume I. Analysis, Preliminary Design and Performance/Cost Trade Studies.
-https://archive.org/download/DTIC_AD0030398/DTIC_AD0030398.pdf	survival	DTIC_AD0030398	2957318	usgov	DTIC AD0030398: CRASH SURVIVAL STUDY: NATIONAL AIRLINES DC-6 ACCIDENT AT ELIZABETH, N. J. ON FEBRUARY 11, 1952
-https://archive.org/download/DTIC_ADA159200/DTIC_ADA159200.pdf	survival	DTIC_ADA159200	3362449	usgov	DTIC ADA159200: Fishing Vessel AMERICUS, O.N. 595758, Capsizing and Sinking -- Fishing Vessel ALTAIR, O.N. 618390, Disappearance on or about 14 February 1983 in the Bering Sea with Presumed Multiple L
-https://archive.org/download/DTIC_ADA283125/DTIC_ADA283125.pdf	survival	DTIC_ADA283125	3156997	usgov	DTIC ADA283125: The Cold War: An Assessment of Strategy
 https://archive.org/download/DTIC_AD0015100/DTIC_AD0015100.pdf	survival	DTIC_AD0015100	5368729	usgov	DTIC AD0015100: DEVELOPMENT OF CRASH-SURVIVAL DESIGN IN PERSONAL, EXECUTIVE AND AGRICULTURAL AIRCRAFT
-https://archive.org/download/DTIC_AD0875777/DTIC_AD0875777.pdf	survival	DTIC_AD0875777	25169617	usgov	DTIC AD0875777: Air-Sea Rescue Beacon Locator Study
+https://archive.org/download/DTIC_AD0030398/DTIC_AD0030398.pdf	survival	DTIC_AD0030398	2957318	usgov	DTIC AD0030398: CRASH SURVIVAL STUDY: NATIONAL AIRLINES DC-6 ACCIDENT AT ELIZABETH, N. J. ON FEBRUARY 11, 1952
 https://archive.org/download/DTIC_ADA053250/DTIC_ADA053250.pdf	survival	DTIC_ADA053250	38797035	usgov	DTIC ADA053250: Shelters in Soviet War Survival Strategy.
 https://archive.org/download/DTIC_ADA053250/DTIC_ADA053250.epub	survival	DTIC_ADA053250	15705050	usgov	DTIC ADA053250: Shelters in Soviet War Survival Strategy.
-https://archive.org/download/DTIC_ADA088441/DTIC_ADA088441.pdf	survival	DTIC_ADA088441	14357814	usgov	DTIC ADA088441: Aircraft Crash Survival Design Guide. Volume 4. Aircraft Seats, Restraints. Litters, and Padding
-https://archive.org/download/DTIC_ADA134834/DTIC_ADA134834.pdf	survival	DTIC_ADA134834	17368335	usgov	DTIC ADA134834: Aircrew Automated Escape Systems (AAES) In-Service Usage Data Analyses. Volume 2. Papers Presented at the Annual SAFE Symposium (21st), San Antonio, Texas, 5,6,7,8 November 1983.
-https://archive.org/download/DTIC_AD0648478/DTIC_AD0648478.pdf	survival	DTIC_AD0648478	19206001	usgov	DTIC AD0648478: ALASKAN ESKIMO EXPLOITATION OF THE SEA ICE ENVIRONMENT
-https://archive.org/download/DTIC_AD0420397/DTIC_AD0420397.pdf	survival	DTIC_AD0420397	1919917	usgov	DTIC AD0420397: DYNA-SOAR EJECTION SEAT AND SURVIVAL SYSTEM
-https://archive.org/download/DTIC_AD0602124/DTIC_AD0602124.pdf	survival	DTIC_AD0602124	15796147	usgov	DTIC AD0602124: SHELTER EQUIPMENT PLANNING GUIDELINES
-https://archive.org/download/DTIC_ADA019326/DTIC_ADA019326.pdf	survival	DTIC_ADA019326	3197062	usgov	DTIC ADA019326: Differential Game Guidance Versus Proportional Navigation for an Air-to- Air Missile
-https://archive.org/download/DTIC_ADA133358/DTIC_ADA133358.pdf	survival	DTIC_ADA133358	8884993	usgov	DTIC ADA133358: Development of Damage and Casualty Functions for Basement Shelters
-https://archive.org/download/DTIC_ADA033051/DTIC_ADA033051.pdf	survival	DTIC_ADA033051	30479000	usgov	DTIC ADA033051: Aircraft Cabin Compartmentation Concepts for Improving Postcrash Fire Safety.
-https://archive.org/download/DTIC_ADA175316/DTIC_ADA175316.pdf	survival	DTIC_ADA175316	5526606	usgov	DTIC ADA175316: Survival at Sea: The Effects of Protective Clothing and Survivor Location on Core and Skin Temperatures
-https://archive.org/download/DTIC_AD0007471/DTIC_AD0007471.pdf	survival	DTIC_AD0007471	1582398	usgov	DTIC AD0007471: FINAL REPORT FOR CONTRACT NOONR-534 (UNION COLLEGE, SCHENECTADY, NY)
-https://archive.org/download/DTIC_AD0642790/DTIC_AD0642790.pdf	survival	DTIC_AD0642790	11163030	usgov	DTIC AD0642790: MASS FIRE LIFE HAZARD
-https://archive.org/download/DTIC_ADA015658/DTIC_ADA015658.pdf	survival	DTIC_ADA015658	2137410	usgov	DTIC ADA015658: On Simulations of the Stochastic, Homogeneous Lanchester Square-Law Attrition Process
-https://archive.org/download/DTIC_ADA1028789/DTIC_ADA1028789.pdf	survival	DTIC_ADA1028789	14779588	usgov	DTIC ADA1028789: U.S. Army Mobility Equipment Research and Development Plan
-https://archive.org/download/DTIC_ADA1028789/DTIC_ADA1028789.epub	survival	DTIC_ADA1028789	17221881	usgov	DTIC ADA1028789: U.S. Army Mobility Equipment Research and Development Plan
-https://archive.org/download/DTIC_ADA215755/DTIC_ADA215755.pdf	survival	DTIC_ADA215755	4166099	usgov	DTIC ADA215755: The Human Factors Relating to Escape and Survival from Helicopters Ditching in Water
 https://archive.org/download/CAT31292234/CAT31292234.pdf	survival	CAT31292234	2622183	usgov	Instructions for making plant survival surveys in Region 8
-https://archive.org/download/DTIC_ADA014080/DTIC_ADA014080.pdf	survival	DTIC_ADA014080	986102	usgov	DTIC ADA014080: Long Term Psychological and Physical Effects of the POW Experience: A Review of the Literature
-https://archive.org/download/DTIC_ADA114700/DTIC_ADA114700.pdf	survival	DTIC_ADA114700	11265313	usgov	DTIC ADA114700: Fire Safety Aspects of Polymeric Materials. Volume 9. Ships
-https://archive.org/download/DTIC_ADA076330/DTIC_ADA076330.pdf	survival	DTIC_ADA076330	39634625	usgov	DTIC ADA076330: F-4 Phantom Aircrew Survival Equipment Evaluation.
-https://archive.org/download/DTIC_ADA128015/DTIC_ADA128015.pdf	survival	DTIC_ADA128015	11656767	usgov	DTIC ADA128015: Design and Test Criteria for Increased Energy-Absorbing Seat Effectiveness
-https://archive.org/download/DTIC_ADA211911/DTIC_ADA211911.pdf	survival	DTIC_ADA211911	12712756	usgov	DTIC ADA211911: Continuous Improvement Process: Principles and Practices
-https://archive.org/download/DTIC_ADA211911/DTIC_ADA211911.epub	survival	DTIC_ADA211911	17795168	usgov	DTIC ADA211911: Continuous Improvement Process: Principles and Practices
-https://archive.org/download/DTIC_ADA012348/DTIC_ADA012348.pdf	survival	DTIC_ADA012348	5149403	usgov	DTIC ADA012348: An Evaluation of the Harbor of Yokosuka, Japan as a Typhoon Haven
-https://archive.org/download/DTIC_ADA028367/DTIC_ADA028367.pdf	survival	DTIC_ADA028367	6709178	usgov	DTIC ADA028367: Diameter and Connectivity Considerations in the Design of Communication Networks
-https://archive.org/download/DTIC_ADA134833/DTIC_ADA134833.pdf	survival	DTIC_ADA134833	20083821	usgov	DTIC ADA134833: Aircrew Automated Escape Systems (AAES) In-Service Usage Data Analyses. Volume 1. Papers Presented at the Annual SAFE Symposium (21st), San Antonio, Texas, 5,6,7,8 November 1983.
+https://archive.org/download/DTIC_AD0420397/DTIC_AD0420397.pdf	survival	DTIC_AD0420397	1919917	usgov	DTIC AD0420397: DYNA-SOAR EJECTION SEAT AND SURVIVAL SYSTEM
+https://archive.org/download/DTIC_ADA175316/DTIC_ADA175316.pdf	survival	DTIC_ADA175316	5526606	usgov	DTIC ADA175316: Survival at Sea: The Effects of Protective Clothing and Survivor Location on Core and Skin Temperatures
+https://archive.org/download/DTIC_ADA215755/DTIC_ADA215755.pdf	survival	DTIC_ADA215755	4166099	usgov	DTIC ADA215755: The Human Factors Relating to Escape and Survival from Helicopters Ditching in Water
 https://archive.org/download/DTIC_ADA019324/DTIC_ADA019324.pdf	survival	DTIC_ADA019324	4581956	usgov	DTIC ADA019324: Application of a Near-Optimal Closed Loop Control Law to a Pursuit- Evasion Game Between Two Spacecraft
-https://archive.org/download/DTIC_AD0439251/DTIC_AD0439251.pdf	survival	DTIC_AD0439251	6296182	usgov	DTIC AD0439251: SHELTER OCCUPANCY STUDIES AT THE UNIVERSITY OF GEORGIA, 1962-1963
-https://archive.org/download/DTIC_ADA036898/DTIC_ADA036898.pdf	survival	DTIC_ADA036898	8248468	usgov	DTIC ADA036898: Crewmans Retention System for Protection against High Speed Ejection up to 600 Knots
-https://archive.org/download/DTIC_ADA104252/DTIC_ADA104252.pdf	survival	DTIC_ADA104252	36691295	usgov	DTIC ADA104252: US Army Software Symposium (2nd) Held at Williamsburg, Virginia on 25-27 October 1978.
-https://archive.org/download/41764579080370/41764579080370.pdf	survival	41764579080370	196948	pdmark	Price Of Survival, 45 U. S. Airmen Have Died In "INCIDENTS" With Soviet Planes Since April 1950 By Hanson W. Baldwin, Copied From New York Times; Newspaper Article, New York Times 14 Sep 1954
-https://archive.org/download/DTIC_AD0519060/DTIC_AD0519060.pdf	survival	DTIC_AD0519060	2340421	usgov	DTIC AD0519060: Survivability Design Guide for U.S. Army Aircraft. Volume 2 - Classified Data for Small-Arms Ballistic Protection
-https://archive.org/download/DTIC_ADA028235/DTIC_ADA028235.pdf	survival	DTIC_ADA028235	7208484	usgov	DTIC ADA028235: Short-Period Earthquake Coda Shape as a Function of Geology and System Response
+https://archive.org/download/DTIC_ADA076330/DTIC_ADA076330.pdf	survival	DTIC_ADA076330	39634625	usgov	DTIC ADA076330: F-4 Phantom Aircrew Survival Equipment Evaluation.
 https://archive.org/download/DTIC_ADA051869/DTIC_ADA051869.pdf	survival	DTIC_ADA051869	4028937	usgov	DTIC ADA051869: Flotation and Survival Equipment Studies
 https://archive.org/download/DTIC_ADA051869/DTIC_ADA051869.epub	survival	DTIC_ADA051869	6080623	usgov	DTIC ADA051869: Flotation and Survival Equipment Studies
-https://archive.org/download/DTIC_AD1044958/DTIC_AD1044958.pdf	survival	DTIC_AD1044958	3870182	usgov	DTIC AD1044958: The Way of the Gun: Applying Lessons of Ground Combat to Pilot Training
-https://archive.org/download/DTIC_ADA016135/DTIC_ADA016135.pdf	survival	DTIC_ADA016135	975127	usgov	DTIC ADA016135: Two Prognostic Indices for the Trauma Patient
-https://archive.org/download/DTIC_ADA034875/DTIC_ADA034875.pdf	survival	DTIC_ADA034875	31843728	usgov	DTIC ADA034875: Closed-Loop Controls for Differential Games Using a Gradient and a Differential Dynamic Programming Method.
-https://archive.org/download/DTIC_ADA035176/DTIC_ADA035176.pdf	survival	DTIC_ADA035176	44705431	usgov	DTIC ADA035176: SCAD Speed Model. Volume I. Overview.
-https://archive.org/download/DTIC_ADA313602/DTIC_ADA313602.pdf	survival	DTIC_ADA313602	6741745	usgov	DTIC ADA313602: Re-Evaluation of Evasion Possibilities for Conducting Nuclear Explosions in Underground Cavities in Former USSR.
-https://archive.org/download/CAT92273026/CAT92273026.pdf	survival	CAT92273026	1066096	usgov	Early survival and growth of planted Douglas-fir with red alder in four mixed regimes
 https://archive.org/download/DTIC_AD0078283/DTIC_AD0078283.pdf	survival	DTIC_AD0078283	13955711	usgov	DTIC AD0078283: THE PHYSIOLOGICAL BASIS FOR VARIOUS CONSTITUENTS IN SURVIVAL RATIONS. PART II. THE EFFICIENCY OF YOUNG MEN UNDER CONDITIONS OF MODERATE COLD
 https://archive.org/download/DTIC_AD0663483/DTIC_AD0663483.pdf	survival	DTIC_AD0663483	11399870	usgov	DTIC AD0663483: CIVIL DEFENSE: A BIBLIOGRAPHY SURVEY 1960-1967
 https://archive.org/download/DTIC_AD0727726/DTIC_AD0727726.pdf	survival	DTIC_AD0727726	7506935	usgov	DTIC AD0727726: 999 Survived. An Analysis of Survival Experiences in the Southwest Pacific
 https://archive.org/download/DTIC_AD0727726/DTIC_AD0727726.epub	survival	DTIC_AD0727726	33175233	usgov	DTIC AD0727726: 999 Survived. An Analysis of Survival Experiences in the Southwest Pacific
-https://archive.org/download/DTIC_ADA001754/DTIC_ADA001754.pdf	survival	DTIC_ADA001754	1539379	usgov	DTIC ADA001754: Design, Development and Qualification Testing of the U.S. Navy NES-21A Parachute Assembly
-https://archive.org/download/DTIC_ADA068553/DTIC_ADA068553.pdf	survival	DTIC_ADA068553	55114579	usgov	DTIC ADA068553: Brassboard Fault Tolerant Spaceborne Computer (BFTSC). Volume 1
-https://archive.org/download/DTIC_ADA117958/DTIC_ADA117958.pdf	survival	DTIC_ADA117958	7951861	usgov	DTIC ADA117958: Assessment of Combined Effects of Blast and Fire on Personnel Survivability
-https://archive.org/download/DTIC_AD0246659/DTIC_AD0246659.pdf	survival	DTIC_AD0246659	14021209	usgov	DTIC AD0246659: GUIDE TO AIRCREW PERSONAL AND AIRCRAFT INSTALLED EQUIPMENT
-https://archive.org/download/DTIC_AD0246659/DTIC_AD0246659.epub	survival	DTIC_AD0246659	10862947	usgov	DTIC AD0246659: GUIDE TO AIRCREW PERSONAL AND AIRCRAFT INSTALLED EQUIPMENT
-https://archive.org/download/DTIC_AD0478293/DTIC_AD0478293.pdf	survival	DTIC_AD0478293	4194015	usgov	DTIC AD0478293: RADIO WARNING SYSTEM INTERFACE STUDY
-https://archive.org/download/DTIC_AD0635052/DTIC_AD0635052.pdf	survival	DTIC_AD0635052	1508517	usgov	DTIC AD0635052: CURRENT CONCEPTS AND PRACTICES APPLICABLE TO THE CONTROL OF BODY HEAT LOSS IN AIRCREW SUBJECTED TO WATER IMMERSION
-https://archive.org/download/DTIC_ADA016134/DTIC_ADA016134.pdf	survival	DTIC_ADA016134	1285845	usgov	DTIC ADA016134: Research on Trauma Indices
-https://archive.org/download/DTIC_ADA019933/DTIC_ADA019933.pdf	survival	DTIC_ADA019933	2308749	usgov	DTIC ADA019933: ARMCOM Red Team Role in The Single Integrated Development Test Cycle
+https://archive.org/download/DTIC_ADA313602/DTIC_ADA313602.pdf	survival	DTIC_ADA313602	6741745	usgov	DTIC ADA313602: Re-Evaluation of Evasion Possibilities for Conducting Nuclear Explosions in Underground Cavities in Former USSR.
 https://archive.org/download/DTIC_ADA081153/DTIC_ADA081153.pdf	survival	DTIC_ADA081153	4633645	usgov	DTIC ADA081153: US Army Survey of Aircrew Survival Kits/Vests
 https://archive.org/download/DTIC_ADA081153/DTIC_ADA081153.epub	survival	DTIC_ADA081153	7759083	usgov	DTIC ADA081153: US Army Survey of Aircrew Survival Kits/Vests
-https://archive.org/download/DTIC_ADA193153/DTIC_ADA193153.pdf	survival	DTIC_ADA193153	20386232	usgov	DTIC ADA193153: 210-HP Diesel Engine Endurance and Performance Testing with Fire Resistant Diesel Fuel
-https://archive.org/download/CAT76670104/CAT76670104.pdf	survival	CAT76670104	330465	usgov	Early survival and growth of ponderosa pine provenances in east-central Kansas
-https://archive.org/download/DTIC_AD0293409/DTIC_AD0293409.pdf	survival	DTIC_AD0293409	1567285	usgov	DTIC AD0293409: TECHNICAL DOCUMENTARY REPORTS AND TECHNICAL NOTES
-https://archive.org/download/DTIC_ADA041464/DTIC_ADA041464.pdf	survival	DTIC_ADA041464	93121103	usgov	DTIC ADA041464: Recent and Planned Marsh Establishment Work throughout the Contiguous United States - A Survey and Basic Guidelines.
-https://archive.org/download/DTIC_ADA205208/DTIC_ADA205208.pdf	survival	DTIC_ADA205208	31961210	usgov	DTIC ADA205208: Diagnosis and Management of Trichothecene in the Swine Model
-https://archive.org/download/DTIC_ADA048622/DTIC_ADA048622.pdf	survival	DTIC_ADA048622	46004817	usgov	DTIC ADA048622: Inactivation of Viruses in Water by Bromine and Its Compounds: Influence of Virion Aggregation.
-https://archive.org/download/DTIC_ADA084263/DTIC_ADA084263.pdf	survival	DTIC_ADA084263	9549635	usgov	DTIC ADA084263: Quaternion Utilization in a Missile Model
-https://archive.org/download/DTIC_ADA027881/DTIC_ADA027881.pdf	survival	DTIC_ADA027881	3594764	usgov	DTIC ADA027881: Hide-in-Earthquake Countermeasures using Earthquake P Shadow Zone and Explosion PKP Caustic Zone
-https://archive.org/download/DTIC_ADA040137/DTIC_ADA040137.pdf	survival	DTIC_ADA040137	54872909	usgov	DTIC ADA040137: Blast Capacity Evaluation of Belowground Structures.
-https://archive.org/download/DTIC_AD0600548/DTIC_AD0600548.pdf	survival	DTIC_AD0600548	558978	usgov	DTIC AD0600548: PARARESCUE MEDICAL KIT
-https://archive.org/download/DTIC_AD0614241/DTIC_AD0614241.pdf	survival	DTIC_AD0614241	1654170	usgov	DTIC AD0614241: A REVIEW OF CURRENT CONCEPTS AND PRACTICES USED TO CONTROL BODY HEAT LOSS DURING WATER IMMERSION
-https://archive.org/download/DTIC_ADA055764/DTIC_ADA055764.pdf	survival	DTIC_ADA055764	43587936	usgov	DTIC ADA055764: Survivability in Crisis Upgraded Shelters.
-https://archive.org/download/DTIC_AD0480890/DTIC_AD0480890.pdf	survival	DTIC_AD0480890	1599294	usgov	DTIC AD0480890: MINUTES OF THE PERSONAL EQUIPMENT ADVISORY GROUP MEETING HELD 1 - 2 MARCH 1966 AT KELLY AFB, Texas
-https://archive.org/download/DTIC_ADA065010/DTIC_ADA065010.pdf	survival	DTIC_ADA065010	16074754	usgov	DTIC ADA065010: OH-58 Composite Main Rotor Blade Preliminary Design Investigation
-https://archive.org/download/DTIC_AD0261739/DTIC_AD0261739.pdf	survival	DTIC_AD0261739	8720062	usgov	DTIC AD0261739: NUCLEAR WEAPON CASUALTIES - EFFECTS ON PERSONNEL
-https://archive.org/download/DTIC_AD0403754/DTIC_AD0403754.pdf	survival	DTIC_AD0403754	3520399	usgov	DTIC AD0403754: CHRONIC WHOLE-BODY GAMMA RADIATION STRESS IN THE ALBINO RAT AND MOUSE
-https://archive.org/download/DTIC_AD0460308/DTIC_AD0460308.pdf	survival	DTIC_AD0460308	8885106	usgov	DTIC AD0460308: EFFECTS OF NUCLEAR DETONATIONS ON A LARGE BIOLOGICAL SPECIMEN (SWINE)
-https://archive.org/download/DTIC_AD0727717/DTIC_AD0727717.pdf	survival	DTIC_AD0727717	4787790	usgov	DTIC AD0727717: Afoot in the Desert. A Contribution to Basic Survival
-https://archive.org/download/DTIC_ADA011580/DTIC_ADA011580.pdf	survival	DTIC_ADA011580	935697	usgov	DTIC ADA011580: The Effects of Personal Protective Equipment Upon the Arm-Reach Capability of USAF Pilots
 https://archive.org/download/DTIC_ADA259697/DTIC_ADA259697.pdf	survival	DTIC_ADA259697	2656941	usgov	DTIC ADA259697: Survival Training, AFSC 121X0
 https://archive.org/download/DTIC_ADA259697/DTIC_ADA259697.epub	survival	DTIC_ADA259697	4145143	usgov	DTIC ADA259697: Survival Training, AFSC 121X0
+https://archive.org/download/DTIC_AD0727717/DTIC_AD0727717.pdf	survival	DTIC_AD0727717	4787790	usgov	DTIC AD0727717: Afoot in the Desert. A Contribution to Basic Survival
 https://archive.org/download/DTIC_ADA024896/DTIC_ADA024896.pdf	survival	DTIC_ADA024896	1465412	usgov	DTIC ADA024896: Aircraft Ionizing Doses and Dose Rates from Radioactive Clouds and Fallout
-https://archive.org/download/DTIC_ADA093784/DTIC_ADA093784.pdf	survival	DTIC_ADA093784	14053417	usgov	DTIC ADA093784: Aircraft Crash Survival Design Guide. Volume I. Design Criteria and Checklists. Revision
-https://archive.org/download/DTIC_ADA116922/DTIC_ADA116922.pdf	survival	DTIC_ADA116922	6297508	usgov	DTIC ADA116922: User's Guide for the SAS (Stand-Off Attack Simulation) Computer Model.
-https://archive.org/download/DTIC_ADA117448/DTIC_ADA117448.pdf	survival	DTIC_ADA117448	8111091	usgov	DTIC ADA117448: A Combined Hazard Index Fire Test Methodology for Aircraft Cabin Materials. Volume I.
-https://archive.org/download/DTIC_ADA219560/DTIC_ADA219560.pdf	survival	DTIC_ADA219560	1882635	usgov	DTIC ADA219560: Field Management of Accidental Hypothermia during Diving
-https://archive.org/download/DTIC_ADA303839/DTIC_ADA303839.pdf	survival	DTIC_ADA303839	5155122	usgov	DTIC ADA303839: Estimating Remaining Life in Biological Chemical Suits and Enclosure Materials. Phase 2.
-https://archive.org/download/DTIC_AD0856746/DTIC_AD0856746.pdf	survival	DTIC_AD0856746	976422	usgov	DTIC AD0856746: Gemini B Ejection Seat Functional Test Air Drop Test Plan
 https://archive.org/download/DTIC_ADA044842/DTIC_ADA044842.pdf	survival	DTIC_ADA044842	1829117	usgov	DTIC ADA044842: Evaluation of US Air Force Survival/Armor Vest in US Army OH-58 Helicopters
-https://archive.org/download/DTIC_ADA015970/DTIC_ADA015970.pdf	survival	DTIC_ADA015970	1787596	usgov	DTIC ADA015970: The Relationship between Fish Size and Their Response to Underwater Blast
-https://archive.org/download/DTIC_ADA082513/DTIC_ADA082513.pdf	survival	DTIC_ADA082513	13399235	usgov	DTIC ADA082513: Aircraft Crash Survival Design Guide. Volume 5. Aircraft Postcrash Survival
-https://archive.org/download/DTIC_ADA110671/DTIC_ADA110671.pdf	survival	DTIC_ADA110671	4638193	usgov	DTIC ADA110671: VLF/LF Long Wave Propagation Study
-https://archive.org/download/DTIC_ADA301693/DTIC_ADA301693.pdf	survival	DTIC_ADA301693	2301863	usgov	DTIC ADA301693: Proposed Cabin Safety Research Program (Transport Category Airplanes).
-https://archive.org/download/DTIC_ADA028415/DTIC_ADA028415.pdf	survival	DTIC_ADA028415	3886649	usgov	DTIC ADA028415: Elastic Pitch Beam Tail Rotor for LOH
-https://archive.org/download/DTIC_ADA036888/DTIC_ADA036888.pdf	survival	DTIC_ADA036888	8519386	usgov	DTIC ADA036888: Vehicles for Deep-Sea Research (Glubokovodnyye Apparaty Dlya Morskikh Issledovaniy),
-https://archive.org/download/DTIC_AD0826172/DTIC_AD0826172.pdf	survival	DTIC_AD0826172	6822423	usgov	DTIC AD0826172: FIELD EVALUATION OF THE MEDICAL COMPANY (AIR AMBULANCE) TOE 8-137E
-https://archive.org/download/DTIC_AD0885270/DTIC_AD0885270.pdf	survival	DTIC_AD0885270	9256245	usgov	DTIC AD0885270: The Homicidal Chauffeur - A Differential Game
-https://archive.org/download/DTIC_ADA047678/DTIC_ADA047678.pdf	survival	DTIC_ADA047678	54684005	usgov	DTIC ADA047678: Preliminary Design Study of an Integrated Tail Rotor Servo Power Module.
-https://archive.org/download/DTIC_ADA180569/DTIC_ADA180569.pdf	survival	DTIC_ADA180569	2364512	usgov	DTIC ADA180569: The Prisoners of War Experiences and Survival
-https://archive.org/download/DTIC_ADA180569/DTIC_ADA180569.epub	survival	DTIC_ADA180569	1260372	usgov	DTIC ADA180569: The Prisoners of War Experiences and Survival
-https://archive.org/download/DTIC_AD0291603/DTIC_AD0291603.pdf	survival	DTIC_AD0291603	893329	usgov	DTIC AD0291603: ESTIMATING MISSILE RELIABILITY
-https://archive.org/download/DTIC_ADA034456/DTIC_ADA034456.pdf	survival	DTIC_ADA034456	1045642	usgov	DTIC ADA034456: An Anatomical Index in Blunt Trauma
-https://archive.org/download/DTIC_ADA115928/DTIC_ADA115928.pdf	survival	DTIC_ADA115928	2799739	usgov	DTIC ADA115928: Generic Surface-to-Air Missile Model.
-https://archive.org/download/DTIC_ADA011509/DTIC_ADA011509.pdf	survival	DTIC_ADA011509	7515139	usgov	DTIC ADA011509: Documentation of Survivability/Vulnerability Related Aircraft Military Specifications and Standards
-https://archive.org/download/DTIC_ADA117403/DTIC_ADA117403.pdf	survival	DTIC_ADA117403	9370281	usgov	DTIC ADA117403: Application Actuation Trade Study
-https://archive.org/download/DTIC_ADA190474/DTIC_ADA190474.pdf	survival	DTIC_ADA190474	2421601	usgov	DTIC ADA190474: Fishing Vessel FISH-N-FOOL, D.N. 293888: Capsizing and Sinking on 5 February 1987 in the Pacific Ocean Approximately 2.6 Miles South of Isla de San Martin, Mexico with Multiple Loss of
-https://archive.org/download/DTIC_ADA197896/DTIC_ADA197896.pdf	survival	DTIC_ADA197896	4961474	usgov	DTIC ADA197896: Ejection Systems and the Human Factor: A Guide for Flight Surgeons and Aeromedical Trainers
-https://archive.org/download/DTIC_ADA125263/DTIC_ADA125263.pdf	survival	DTIC_ADA125263	6279016	usgov	DTIC ADA125263: Chesapeake Bay Low Freshwater Inflow Study. Biota Assessment. Phase I. Volume II.
-https://archive.org/download/DTIC_ADA306962/DTIC_ADA306962.pdf	survival	DTIC_ADA306962	2495351	usgov	DTIC ADA306962: Captivity and Culture: Insights from the Desert Storm Prisoner of War Experience.
-https://archive.org/download/DTIC_AD0872232/DTIC_AD0872232.pdf	survival	DTIC_AD0872232	5214525	usgov	DTIC AD0872232: Assessment of Post-Attack Health Resources
-https://archive.org/download/DTIC_ADA025087/DTIC_ADA025087.pdf	survival	DTIC_ADA025087	4804822	usgov	DTIC ADA025087: An Evaluation of the Harbors of Buckner Bay and Naha, Okinawa as Typhoon Havens
-https://archive.org/download/DTIC_ADA030835/DTIC_ADA030835.pdf	survival	DTIC_ADA030835	12020291	usgov	DTIC ADA030835: Development Program for Field-Repairable/Expendable Main Rotor Blades
 https://archive.org/download/DTIC_ADA032292/DTIC_ADA032292.pdf	survival	DTIC_ADA032292	2646614	usgov	DTIC ADA032292: Evaluation of the Army Aircraft Hot Climate and Overwater Survival Kits for the OV-1( ) Airplane.
-https://archive.org/download/DTIC_ADA094627/DTIC_ADA094627.pdf	survival	DTIC_ADA094627	1940600	usgov	DTIC ADA094627: XM-1 Tank EMP Susceptibility and Survivability Test Program and Plan
-https://archive.org/download/DTIC_AD0630338/DTIC_AD0630338.pdf	survival	DTIC_AD0630338	1513906	usgov	DTIC AD0630338: ENDOTOXIN-PROTECTION OF MICE. THE RELATIONSHIP TO COLONY-FORMING UNITS
-https://archive.org/download/DTIC_ADA198791/DTIC_ADA198791.pdf	survival	DTIC_ADA198791	2506367	usgov	DTIC ADA198791: Stress and Human Performance
-https://archive.org/download/DTIC_AD0029618/DTIC_AD0029618.pdf	survival	DTIC_AD0029618	419100	usgov	DTIC AD0029618: ACCEPTANCE TRIALS OF OERLIKON DISTRESS HAND ROCKET SIGNAL
-https://archive.org/download/DTIC_ADA025430/DTIC_ADA025430.pdf	survival	DTIC_ADA025430	5482512	usgov	DTIC ADA025430: A Study of the Crack Damage in Fuel-Filled Tank Walls Due to Ballistic Penetrators
-https://archive.org/download/DTIC_AD0748347/DTIC_AD0748347.pdf	survival	DTIC_AD0748347	2296767	usgov	DTIC AD0748347: A Method for Generating Closed-Loop Solutions to Differential Games
-https://archive.org/download/DTIC_ADA121935/DTIC_ADA121935.pdf	survival	DTIC_ADA121935	1202293	usgov	DTIC ADA121935: Effect of Longitudinal Grooves on Survivability of Cylindrical Steel Projectiles Fired against Simulated Concrete Targets
-https://archive.org/download/DTIC_ADA197471/DTIC_ADA197471.pdf	survival	DTIC_ADA197471	1934758	usgov	DTIC ADA197471: Effects of Hot and Cold Environments on Military Performance
-https://archive.org/download/DTIC_ADA202157/DTIC_ADA202157.pdf	survival	DTIC_ADA202157	4846572	usgov	DTIC ADA202157: Parametric Analysis of Airland Combat Model in High Resolution
-https://archive.org/download/DTIC_ADA211093/DTIC_ADA211093.pdf	survival	DTIC_ADA211093	4883535	usgov	DTIC ADA211093: A Simulation Study of Four Real-Time Heuristic Algorithms for Multiple Missile Missile Evasion: A Game Theoretic Approach
 https://archive.org/download/DTIC_AD0445220/DTIC_AD0445220.pdf	survival	DTIC_AD0445220	2752288	usgov	DTIC AD0445220: SHARKS AND SURVIVAL. APPENDIX. A LIST OF SHARK ATTACKS FOR THE WORLD
 https://archive.org/download/DTIC_AD0445220/DTIC_AD0445220.epub	survival	DTIC_AD0445220	28220801	usgov	DTIC AD0445220: SHARKS AND SURVIVAL. APPENDIX. A LIST OF SHARK ATTACKS FOR THE WORLD
+https://archive.org/download/DTIC_ADA180569/DTIC_ADA180569.pdf	survival	DTIC_ADA180569	2364512	usgov	DTIC ADA180569: The Prisoners of War Experiences and Survival
+https://archive.org/download/DTIC_ADA180569/DTIC_ADA180569.epub	survival	DTIC_ADA180569	1260372	usgov	DTIC ADA180569: The Prisoners of War Experiences and Survival
 https://archive.org/download/DTIC_ADA036879/DTIC_ADA036879.pdf	survival	DTIC_ADA036879	6012627	usgov	DTIC ADA036879: Determination of the Light Quantum Survival Parameter from the Characteristics of Light Fields in the Sea (Opredeleniye Velichiny Parametra Vyzhivaniya Knvanta Sveta po Kharakteristika
-https://archive.org/download/DTIC_ADA064971/DTIC_ADA064971.pdf	survival	DTIC_ADA064971	25583953	usgov	DTIC ADA064971: SALT, The Soviet Approach to Strategic Superiority.
 https://archive.org/download/DTIC_ADA074198/DTIC_ADA074198.pdf	survival	DTIC_ADA074198	5803042	usgov	DTIC ADA074198: Bibliography: Evasion and Escape -- Survival.
-https://archive.org/download/DTIC_ADA186119/DTIC_ADA186119.pdf	survival	DTIC_ADA186119	15304296	usgov	DTIC ADA186119: Management of Bottom Sediments Containing Toxic Substances: Proceedings of the U.S./Japan Experts Meeting (11th) Held in Seattle, Washington, on 4-6 November 1985.
-https://archive.org/download/DTIC_ADA187042/DTIC_ADA187042.pdf	survival	DTIC_ADA187042	10197441	usgov	DTIC ADA187042: Military Ethics: Reflections on Principles - the Profession of Arms, Military Leadership, Ethical Practices, War and Morality, Educating the Citizen-Soldier,
-https://archive.org/download/DTIC_ADA187042/DTIC_ADA187042.epub	survival	DTIC_ADA187042	11235974	usgov	DTIC ADA187042: Military Ethics: Reflections on Principles - the Profession of Arms, Military Leadership, Ethical Practices, War and Morality, Educating the Citizen-Soldier,
-https://archive.org/download/DTIC_AD0629941/DTIC_AD0629941.pdf	survival	DTIC_AD0629941	8277270	usgov	DTIC AD0629941: INTEGRATED GUIDANCE FOR SHELTER MANAGEMENT. VOLUME III. SHELTER MANAGER'S GUIDE
-https://archive.org/download/DTIC_AD0634266/DTIC_AD0634266.pdf	survival	DTIC_AD0634266	10203492	usgov	DTIC AD0634266: POLAR MANUAL. ARCTIC AND ANTARCTIC LIVING CONDITIONS, PERSONNEL SELECTION, HYGIENE AND SANITATION, CLOTHING, NUTRITION, SUPPLIES AND EQUIPMENT, VISUAL DISABILITIES AND COLD INJURIES, F
 https://archive.org/download/DTIC_AD0740174/DTIC_AD0740174.pdf	survival	DTIC_AD0740174	5944043	usgov	DTIC AD0740174: Civil Defense Shelter Options: Deliberate Shelters. Volume 1
-https://archive.org/download/DTIC_ADA053267/DTIC_ADA053267.pdf	survival	DTIC_ADA053267	3094146	usgov	DTIC ADA053267: Optimal Missile Evasion
-https://archive.org/download/DTIC_ADA064760/DTIC_ADA064760.pdf	survival	DTIC_ADA064760	52221311	usgov	DTIC ADA064760: A Practical Three Dimensional, 11 State Extended Kalman Filter for Use in a Fire Control System against Non-Thrusting Missiles. Volume II.
-https://archive.org/download/DTIC_ADA117927/DTIC_ADA117927.pdf	survival	DTIC_ADA117927	779112	usgov	DTIC ADA117927: Armored Combat Vehicle Technology (ACVT) Program Mobility/Agility Findings
-https://archive.org/download/DTIC_ADA229446/DTIC_ADA229446.pdf	survival	DTIC_ADA229446	4616351	usgov	DTIC ADA229446: Advanced Air Traffic Control System (AATCS). Phase 1. Small Business Innovative Research
-https://archive.org/download/DTIC_AD0885269/DTIC_AD0885269.pdf	survival	DTIC_AD0885269	6562879	usgov	DTIC AD0885269: Linear Pursuit-Evasion Games and the Isotropic Rocket
-https://archive.org/download/DTIC_ADA023728/DTIC_ADA023728.pdf	survival	DTIC_ADA023728	3953871	usgov	DTIC ADA023728: Influence of Pilot Incapacitation on Low Speed and Hovering Flight
-https://archive.org/download/DTIC_ADA027533/DTIC_ADA027533.pdf	survival	DTIC_ADA027533	3921111	usgov	DTIC ADA027533: An Evaluation of the Harbor of Cebu, Republic of the Philippines, as a Typhoon Haven
-https://archive.org/download/DTIC_ADA031393/DTIC_ADA031393.pdf	survival	DTIC_ADA031393	9379020	usgov	DTIC ADA031393: Bibliography of Publications Issued by the Environmental Physiology Branch - 1942 to 1975.
-https://archive.org/download/DTIC_AD0516871/DTIC_AD0516871.pdf	survival	DTIC_AD0516871	5202872	usgov	DTIC AD0516871: Analysis of Combat Damage on CH-53A and HH-53B Helicopters in Southeast Asia (1967 through June 1969)
-https://archive.org/download/DTIC_ADA054719/DTIC_ADA054719.pdf	survival	DTIC_ADA054719	10838183	usgov	DTIC ADA054719: Avionics Planning Guidance. Executive Summary.
-https://archive.org/download/DTIC_ADA082512/DTIC_ADA082512.pdf	survival	DTIC_ADA082512	6413869	usgov	DTIC ADA082512: Aircraft Crash Survival Design Guide. Volume 2. Aircraft Crash Environment and Human Tolerance
-https://archive.org/download/CAT87211112/CAT87211112.pdf	survival	CAT87211112	2533507	usgov	Survival of the pink bollworm under various cultural and climatic conditions
-https://archive.org/download/DTIC_AD0374659/DTIC_AD0374659.pdf	survival	DTIC_AD0374659	13141314	usgov	DTIC AD0374659: EMPLOYMENT OF A SPECIAL FORCES GROUP
 https://archive.org/download/DTIC_ADA028328/DTIC_ADA028328.pdf	survival	DTIC_ADA028328	1245387	usgov	DTIC ADA028328: Weibull Tolerance Intervals Associated with Small Survival Proportions; For Use in a New Formulation of Lanchester Combat Theory
-https://archive.org/download/DTIC_ADA091810/DTIC_ADA091810.pdf	survival	DTIC_ADA091810	6621435	usgov	DTIC ADA091810: Advanced Ejection Seat for High Dynamic Pressure Escape. Wind Tunnel Test Report.
-https://archive.org/download/DTIC_ADA1046888/DTIC_ADA1046888.pdf	survival	DTIC_ADA1046888	4569655	usgov	DTIC ADA1046888: Theater Nuclear Force Survivability, Security and Safety Instrumentation. Volume I. Engineering Development Phase - Fiscal Year 1980.
+https://archive.org/download/DTIC_ADA075137/DTIC_ADA075137.pdf	survival	DTIC_ADA075137	46282551	usgov	DTIC ADA075137: Civil Defense and the Public: An Overview of Public Attitude Studies.
 https://archive.org/download/DTIC_ADA186831/DTIC_ADA186831.pdf	survival	DTIC_ADA186831	2293393	usgov	DTIC ADA186831: The Threats to Survival in a Nuclear Environment.
-https://archive.org/download/DTIC_ADA207212/DTIC_ADA207212.pdf	survival	DTIC_ADA207212	2881124	usgov	DTIC ADA207212: Expedient Emergency Sanitation Measures
-https://archive.org/download/DTIC_ADA293859/DTIC_ADA293859.pdf	survival	DTIC_ADA293859	5956342	usgov	DTIC ADA293859: Estimation of the Captive-Carry Survival Function for the Advanced Medium Range Air-to-Air Missile (AMRAAM).
+https://archive.org/download/DTIC_AD0885269/DTIC_AD0885269.pdf	survival	DTIC_AD0885269	6562879	usgov	DTIC AD0885269: Linear Pursuit-Evasion Games and the Isotropic Rocket
 https://archive.org/download/DTIC_AD0603125/DTIC_AD0603125.pdf	survival	DTIC_AD0603125	9447553	usgov	DTIC AD0603125: FAMILY ADOPTION OF PUBLIC FALLOUT SHELTERS
-https://archive.org/download/DTIC_ADA004295/DTIC_ADA004295.pdf	survival	DTIC_ADA004295	10631468	usgov	DTIC ADA004295: Failure Analysis by Statistical Techniques (FAST). Volume 1. User's Manual
-https://archive.org/download/DTIC_ADA020640/DTIC_ADA020640.pdf	survival	DTIC_ADA020640	6888304	usgov	DTIC ADA020640: An Evaluation of the Numazu Operating Area and Kagoshima Harbor, Japan, as Typhoon Havens
-https://archive.org/download/DTIC_ADA049151/DTIC_ADA049151.pdf	survival	DTIC_ADA049151	6114039	usgov	DTIC ADA049151: Graft Versus Host Inhibition. IX. The Therapeutic Potential of Combined Fetal Liver and Thymus Cells as a Universal Hematopoietic Stem Cell Source for Transplantation.
-https://archive.org/download/DTIC_ADA064973/DTIC_ADA064973.pdf	survival	DTIC_ADA064973	784240	usgov	DTIC ADA064973: USAF/ASEE Summer Faculty Program Research on Design Analysis for Dual- Mode Air-Launched Missile System. Volume 1
-https://archive.org/download/DTIC_ADA153207/DTIC_ADA153207.pdf	survival	DTIC_ADA153207	4850393	usgov	DTIC ADA153207: TIMS/ORSA (Operations Research Society of America) Special Interest Conference on Applied Probability; Statistical and Computational Problems in Probability Modeling (3rd) Held at Will
-https://archive.org/download/DTIC_ADA314478/DTIC_ADA314478.pdf	survival	DTIC_ADA314478	1360032	usgov	DTIC ADA314478: Female Performance Under High-G During Fatigue and After G-Layoff.
-https://archive.org/download/101-uses-for-paracord-buckonbeach/101%20Uses%20For%20Paracord%20%28Buckonbeach%29.pdf	survival	101-uses-for-paracord-buckonbeach	7326868	pdmark	101 Uses For Paracord ( Buckonbeach)
-https://archive.org/download/101-uses-for-paracord-buckonbeach/101%20Uses%20For%20Paracord%20%28Buckonbeach%29.epub	survival	101-uses-for-paracord-buckonbeach	20063258	pdmark	101 Uses For Paracord ( Buckonbeach)
-https://archive.org/download/CAT10670397/CAT10670397.pdf	survival	CAT10670397	729919	usgov	Effect of gamma radiation and methanol-acetone extracts of milk fermented by Streptococcus thermophilus on the survival of salmonellae on chicken meat
-https://archive.org/download/DTIC_ADA034946/DTIC_ADA034946.pdf	survival	DTIC_ADA034946	49807495	usgov	DTIC ADA034946: A Control Theoretic Study of the Nuclear Vulnerability of the Air Refueling Task.
-https://archive.org/download/DTIC_ADA091584/DTIC_ADA091584.pdf	survival	DTIC_ADA091584	3060512	usgov	DTIC ADA091584: Attack Helicopter Employment Options.
-https://archive.org/download/DTIC_ADA215114/DTIC_ADA215114.pdf	survival	DTIC_ADA215114	2995496	usgov	DTIC ADA215114: Swim and Survival at Sea Training: Does It Meet the Navy's Needs
-https://archive.org/download/DTIC_ADA215114/DTIC_ADA215114.epub	survival	DTIC_ADA215114	1903895	usgov	DTIC ADA215114: Swim and Survival at Sea Training: Does It Meet the Navy's Needs
+https://archive.org/download/DTIC_AD0275990/DTIC_AD0275990.pdf	survival	DTIC_AD0275990	12902020	usgov	DTIC AD0275990: RADIOLOGICAL PROTECTIVE CONSTRUCTION. PRINCIPLES FOR THE PROTECTION OF FACILITIES AND THEIR INHABITANTS AGAINST FALLOUT
 https://archive.org/download/13820890R.nlm.nih.gov/13820890R.pdf	survival	13820890R.nlm.nih.gov	7584005	usgov	Survival on land and sea
 https://archive.org/download/13820890R.nlm.nih.gov/13820890R.epub	survival	13820890R.nlm.nih.gov	9902677	usgov	Survival on land and sea
-https://archive.org/download/DTIC_AD0414344/DTIC_AD0414344.pdf	survival	DTIC_AD0414344	6885635	usgov	DTIC AD0414344: Research on Certain Biological and Medical Aspects of Ionizing Radiation
-https://archive.org/download/DTIC_AD0609615/DTIC_AD0609615.pdf	survival	DTIC_AD0609615	13312114	usgov	DTIC AD0609615: STRUCTURAL DESIGN FOR FUEL CONTAINMENT UNDER SURVIVABLE CRASH CONDITIONS
-https://archive.org/download/DTIC_AD0716613/DTIC_AD0716613.pdf	survival	DTIC_AD0716613	5733560	usgov	DTIC AD0716613: Agricultural Vulnerability in the National Entity Survival Context
-https://archive.org/download/DTIC_ADA075137/DTIC_ADA075137.pdf	survival	DTIC_ADA075137	46282551	usgov	DTIC ADA075137: Civil Defense and the Public: An Overview of Public Attitude Studies.
-https://archive.org/download/DTIC_ADA082962/DTIC_ADA082962.pdf	survival	DTIC_ADA082962	728295	usgov	DTIC ADA082962: Aerogenic Dissemination of Aphtae Epizooticae
-https://archive.org/download/DTIC_ADA093624/DTIC_ADA093624.pdf	survival	DTIC_ADA093624	3969710	usgov	DTIC ADA093624: Candidate Industrial Preparedness Program.
-https://archive.org/download/DTIC_ADA126701/DTIC_ADA126701.pdf	survival	DTIC_ADA126701	6895484	usgov	DTIC ADA126701: SSBN Survivability: A Time for Confidence-Building Measures?
-https://archive.org/download/DTIC_ADA151764/DTIC_ADA151764.pdf	survival	DTIC_ADA151764	4683935	usgov	DTIC ADA151764: Behaviorism and Natural Selection
-https://archive.org/download/CAT86858600/CAT86858600.pdf	survival	CAT86858600	1706895	usgov	Review of factors affecting fecundity, oviposition, and egg survival of grasshoppers in north america
-https://archive.org/download/DTIC_AD0256381/DTIC_AD0256381.pdf	survival	DTIC_AD0256381	666823	usgov	DTIC AD0256381: SHELTER HABITABILITY STUDIES - ODORS AND REQUIREMENTS FOR VENTILATION
-https://archive.org/download/DTIC_AD0275990/DTIC_AD0275990.pdf	survival	DTIC_AD0275990	12902020	usgov	DTIC AD0275990: RADIOLOGICAL PROTECTIVE CONSTRUCTION. PRINCIPLES FOR THE PROTECTION OF FACILITIES AND THEIR INHABITANTS AGAINST FALLOUT
-https://archive.org/download/DTIC_ADA032223/DTIC_ADA032223.pdf	survival	DTIC_ADA032223	1510996	usgov	DTIC ADA032223: Economic Recovery from the Effects of Thermonuclear War
-https://archive.org/download/DTIC_ADA037773/DTIC_ADA037773.pdf	survival	DTIC_ADA037773	28339857	usgov	DTIC ADA037773: Lightweight Lighted Buoy Development for use as Discrepancy NAVAIDS.
-https://archive.org/download/DTIC_ADA052758/DTIC_ADA052758.pdf	survival	DTIC_ADA052758	35425588	usgov	DTIC ADA052758: Level Flotation Compliance Guideline.
-https://archive.org/download/DTIC_ADA058301/DTIC_ADA058301.pdf	survival	DTIC_ADA058301	3071012	usgov	DTIC ADA058301: Blast and Thermal Effects of Multiple Nuclear Burst Exposure of Aircraft in a Base-Escape Mode
-https://archive.org/download/DTIC_ADA202486/DTIC_ADA202486.pdf	survival	DTIC_ADA202486	3096868	usgov	DTIC ADA202486: SS OMI YUKON, D.N. 547919, Explosions and Fire on 28 October 1986 in the Pacific Ocean Approximately 1000 Miles West of Honolulu, Hawaii, with Multiple Loss of Life and Personnel Injur
 https://archive.org/download/CAT31363678/CAT31363678.pdf	survival	CAT31363678	1856109	usgov	First-year survival and height growth of cottonwood plantations at Stoneville, Miss.
-https://archive.org/download/DTIC_ADA048817/DTIC_ADA048817.pdf	survival	DTIC_ADA048817	16079246	usgov	DTIC ADA048817: The Principles of Underwater Escape from Aircraft,
-https://archive.org/download/DTIC_ADA070526/DTIC_ADA070526.pdf	survival	DTIC_ADA070526	44044165	usgov	DTIC ADA070526: MISERS BLUFF. Preliminary Results Report. Volume I. Phase I.
-https://archive.org/download/DTIC_ADA118849/DTIC_ADA118849.pdf	survival	DTIC_ADA118849	1183942	usgov	DTIC ADA118849: Airlift Support of the High Tech Light Division in the Contingency Area
-https://archive.org/download/DTIC_AD0481846/DTIC_AD0481846.pdf	survival	DTIC_AD0481846	5497877	usgov	DTIC AD0481846: THE EFFECTS OF NUCLEAR WEAPONS ON A SINGLE CITY. A PILOT STUDY OF HOUSTON, TEXAS
-https://archive.org/download/DTIC_ADA026320/DTIC_ADA026320.pdf	survival	DTIC_ADA026320	5079456	usgov	DTIC ADA026320: Structural Response of Fluid Containing Tanks to Penetrating Projectiles (Hydraulic Ram) - A Comparison of Experimental and Analytical Results
-https://archive.org/download/DTIC_ADA032143/DTIC_ADA032143.pdf	survival	DTIC_ADA032143	18286583	usgov	DTIC ADA032143: Vacuum Packed Mini-Raft.
-https://archive.org/download/DTIC_ADA303612/DTIC_ADA303612.pdf	survival	DTIC_ADA303612	2367646	usgov	DTIC ADA303612: Reestablishment of Bottomland Oak Species in Lower Mississippi Valley Alluvial Soils.
+https://archive.org/download/DTIC_ADA227366/DTIC_ADA227366.pdf	survival	DTIC_ADA227366	6833056	usgov	DTIC ADA227366: Artificial Intelligence Methods in Pursuit Evasion Differential Games
 https://archive.org/download/DTIC_AD0600423/DTIC_AD0600423.pdf	survival	DTIC_AD0600423	934816	usgov	DTIC AD0600423: MOISTURE IN SURVIVAL SHELTERS
 https://archive.org/download/DTIC_AD0600423/DTIC_AD0600423.epub	survival	DTIC_AD0600423	3795636	usgov	DTIC AD0600423: MOISTURE IN SURVIVAL SHELTERS
-https://archive.org/download/DTIC_ADA033603/DTIC_ADA033603.pdf	survival	DTIC_ADA033603	16041568	usgov	DTIC ADA033603: Glucose Metabolism and Role of the Blood in Endotoxin Shock.
-https://archive.org/download/DTIC_ADA033974/DTIC_ADA033974.pdf	survival	DTIC_ADA033974	14436745	usgov	DTIC ADA033974: A Simple Model Applicable in Structural Reliability, Extinction of Species, Inventory Depletion, and Urn Sampling. II. System Lifelength.
-https://archive.org/download/DTIC_ADA061457/DTIC_ADA061457.pdf	survival	DTIC_ADA061457	1547412	usgov	DTIC ADA061457: PEBL: A Code for Penetrating and Blunt Trauma, Based on the H-ICDA index
-https://archive.org/download/DTIC_ADA065115/DTIC_ADA065115.pdf	survival	DTIC_ADA065115	1390530	usgov	DTIC ADA065115: The Pueblo Incident: A Follow-Up Survey Conducted Eight Years after the Release of the USS Pueblo Crew from North Korea
-https://archive.org/download/DTIC_ADA068976/DTIC_ADA068976.pdf	survival	DTIC_ADA068976	76732946	usgov	DTIC ADA068976: Lightly Armored Structure Vulnerability Estimation Methodology (LASVEM).
-https://archive.org/download/DTIC_ADA079946/DTIC_ADA079946.pdf	survival	DTIC_ADA079946	4447448	usgov	DTIC ADA079946: TRACE Computer Model User's Guide.
-https://archive.org/download/DTIC_ADA178194/DTIC_ADA178194.pdf	survival	DTIC_ADA178194	7195226	usgov	DTIC ADA178194: Evaluation of the OV-1D Stall Warning Characteristics
-https://archive.org/download/DTIC_ADA227366/DTIC_ADA227366.pdf	survival	DTIC_ADA227366	6833056	usgov	DTIC ADA227366: Artificial Intelligence Methods in Pursuit Evasion Differential Games
-https://archive.org/download/DTIC_ADA258744/DTIC_ADA258744.pdf	survival	DTIC_ADA258744	7191573	usgov	DTIC ADA258744: Nutrition and Hydration Status of Aircrew Members Consuming The Food Packet, Survival, General Purpose, Improved During A Simulated Survival Scenario
-https://archive.org/download/DTIC_ADA305234/DTIC_ADA305234.pdf	survival	DTIC_ADA305234	6364217	usgov	DTIC ADA305234: Effects of Military Noise on Wildlife. A Literature Review.
-https://archive.org/download/DTIC_ADA310869/DTIC_ADA310869.pdf	survival	DTIC_ADA310869	3927330	usgov	DTIC ADA310869: Small Business Guidebook to Quality Management.
-https://archive.org/download/DTIC_AD0218708/DTIC_AD0218708.pdf	survival	DTIC_AD0218708	2786415	usgov	DTIC AD0218708: GROSS PATTERN OF INJURY OF 109 SURVIVORS OF FIVE TRANSPORT ACCIDENTS
-https://archive.org/download/DTIC_ADA038106/DTIC_ADA038106.pdf	survival	DTIC_ADA038106	32792898	usgov	DTIC ADA038106: Research Study of Ejecta Impact Parameters.
 https://archive.org/download/DTIC_ADA044847/DTIC_ADA044847.pdf	survival	DTIC_ADA044847	9498070	usgov	DTIC ADA044847: An Evaluation of the Navy Undersea Weapons Tank for Testing Aircrew Escape, Survival, and Rescue Procedures and Equipment.
-https://archive.org/download/DTIC_ADA073551/DTIC_ADA073551.pdf	survival	DTIC_ADA073551	94981368	usgov	DTIC ADA073551: The Survival of Human Enteric Viruses in Holding Ponds.
-https://archive.org/download/DTIC_ADA100964/DTIC_ADA100964.pdf	survival	DTIC_ADA100964	1925990	usgov	DTIC ADA100964: Soft Recovery Tests of a 155-mm Cannon Launched Guided Projectile Warhead, Type T
 https://archive.org/download/DTIC_ADA125401/DTIC_ADA125401.pdf	survival	DTIC_ADA125401	1506215	usgov	DTIC ADA125401: Water Survival - 20 Years Canadian Forces Aircrew Experience,
 https://archive.org/download/DTIC_ADA125401/DTIC_ADA125401.epub	survival	DTIC_ADA125401	3138414	usgov	DTIC ADA125401: Water Survival - 20 Years Canadian Forces Aircrew Experience,
-https://archive.org/download/DTIC_ADA210181/DTIC_ADA210181.pdf	survival	DTIC_ADA210181	1401579	usgov	DTIC ADA210181: Species Profiles. Life Histories and Environmental Requirements of Coastal Fishes and Invertebrates (Mid-Atlantic). Blue Crab
-https://archive.org/download/DTIC_ADA227093/DTIC_ADA227093.pdf	survival	DTIC_ADA227093	11665802	usgov	DTIC ADA227093: Military Nutrition (Research Study Group 8 on Nutritional Aspects of Military Feeding)
-https://archive.org/download/DTIC_ADA229842/DTIC_ADA229842.pdf	survival	DTIC_ADA229842	2279987	usgov	DTIC ADA229842: Species Profiles: Life Histories and Environmental Requirements of Coastal Vertebrates and Invertebrates Pacific Ocean Region. Report 3. Amphidromous Macrofauna of Hawaiian Island Stre
-https://archive.org/download/DTIC_ADA279410/DTIC_ADA279410.pdf	survival	DTIC_ADA279410	3615847	usgov	DTIC ADA279410: Molecular Genetic Analysis of Parasite Survival in P. falciparum Malaria
-https://archive.org/download/DTIC_ADA296199/DTIC_ADA296199.pdf	survival	DTIC_ADA296199	1108515	usgov	DTIC ADA296199: Ultradian Rhythms in Prolonged Human Performance.
-https://archive.org/download/DTIC_ADA043840/DTIC_ADA043840.pdf	survival	DTIC_ADA043840	39644088	usgov	DTIC ADA043840: Aerial Resupply of Encircled Army Units During a Mid-Intensity European War.
-https://archive.org/download/DTIC_ADA073787/DTIC_ADA073787.pdf	survival	DTIC_ADA073787	43131740	usgov	DTIC ADA073787: Emergency Preparedness Education Program for North Carolina Schools.
-https://archive.org/download/DTIC_ADA218949/DTIC_ADA218949.pdf	survival	DTIC_ADA218949	10466366	usgov	DTIC ADA218949: Problem Oriented Differential Diagnosis of Tropical Diseases
-https://archive.org/download/DTIC_ADA305648/DTIC_ADA305648.pdf	survival	DTIC_ADA305648	8684662	usgov	DTIC ADA305648: A Comparative Financial Analysis of the U.S. Defense Industry During the Post Cold War Defense Drawdown.
-https://archive.org/download/DTIC_AD0693105/DTIC_AD0693105.pdf	survival	DTIC_AD0693105	1212639	usgov	DTIC AD0693105: ESTIMATE OF MAN'S TOLERANCE TO THE DIRECT EFFECTS OF AIR BLAST
+https://archive.org/download/DTIC_ADA215114/DTIC_ADA215114.pdf	survival	DTIC_ADA215114	2995496	usgov	DTIC ADA215114: Swim and Survival at Sea Training: Does It Meet the Navy's Needs
+https://archive.org/download/DTIC_ADA215114/DTIC_ADA215114.epub	survival	DTIC_ADA215114	1903895	usgov	DTIC ADA215114: Swim and Survival at Sea Training: Does It Meet the Navy's Needs
 https://archive.org/download/DTIC_ADA068807/DTIC_ADA068807.pdf	survival	DTIC_ADA068807	58259270	usgov	DTIC ADA068807: Survival and Protection of Aircrew in the Event of Accidental Immersion in Cold Water,
 https://archive.org/download/DTIC_ADA068807/DTIC_ADA068807.epub	survival	DTIC_ADA068807	12895559	usgov	DTIC ADA068807: Survival and Protection of Aircrew in the Event of Accidental Immersion in Cold Water,
-https://archive.org/download/DTIC_ADA194967/DTIC_ADA194967.pdf	survival	DTIC_ADA194967	5747998	usgov	DTIC ADA194967: Accidental Hypothermia,
-https://archive.org/download/DTIC_ADA205544/DTIC_ADA205544.pdf	survival	DTIC_ADA205544	1708785	usgov	DTIC ADA205544: Electronic Mail Survival Guide
-https://archive.org/download/DTIC_ADA205544/DTIC_ADA205544.epub	survival	DTIC_ADA205544	12479184	usgov	DTIC ADA205544: Electronic Mail Survival Guide
-https://archive.org/download/DTIC_ADA323013/DTIC_ADA323013.pdf	survival	DTIC_ADA323013	3084814	usgov	DTIC ADA323013: California Cancer Registry Enhancement for Breast Cancer Research.
-https://archive.org/download/DTIC_AD0415614/DTIC_AD0415614.pdf	survival	DTIC_AD0415614	3432805	usgov	DTIC AD0415614: SHELTER MEDICAL SUPPORT SYSTEM STUDY
-https://archive.org/download/DTIC_AD0502772/DTIC_AD0502772.pdf	survival	DTIC_AD0502772	1129045	usgov	DTIC AD0502772: Lessons Learned, Report 2-66 - The Battle of Annihilation and The BONG SON Campaign
-https://archive.org/download/DTIC_AD0509503/DTIC_AD0509503.pdf	survival	DTIC_AD0509503	4489360	usgov	DTIC AD0509503: Optimum Positioning of Deep Underground Tunnels in Rock
-https://archive.org/download/DTIC_AD0512293/DTIC_AD0512293.pdf	survival	DTIC_AD0512293	1637510	usgov	DTIC AD0512293: Lessons Learned, Headquarters, 223d Aviation Battalion
-https://archive.org/download/DTIC_ADA020924/DTIC_ADA020924.pdf	survival	DTIC_ADA020924	1594895	usgov	DTIC ADA020924: An Analytical Investigation of the Effects of Increased Installed Horsepower on Helicopter Agility in the Nap-of-the-Earth Environment
-https://archive.org/download/DTIC_ADA092379/DTIC_ADA092379.pdf	survival	DTIC_ADA092379	5015595	usgov	DTIC ADA092379: QUANTA Users Manual
+https://archive.org/download/DTIC_ADA073787/DTIC_ADA073787.pdf	survival	DTIC_ADA073787	43131740	usgov	DTIC ADA073787: Emergency Preparedness Education Program for North Carolina Schools.
 https://archive.org/download/DTIC_ADA113653/DTIC_ADA113653.pdf	survival	DTIC_ADA113653	629551	usgov	DTIC ADA113653: Development of a Backpack Survival Kit for Ejection Seats.
 https://archive.org/download/DTIC_ADA113653/DTIC_ADA113653.epub	survival	DTIC_ADA113653	2038710	usgov	DTIC ADA113653: Development of a Backpack Survival Kit for Ejection Seats.
-https://archive.org/download/DTIC_ADA121609/DTIC_ADA121609.pdf	survival	DTIC_ADA121609	5653728	usgov	DTIC ADA121609: The Analysis of the Effects of Frame Response on Basement Shelters in Tall Buildings
-https://archive.org/download/DTIC_ADA325636/DTIC_ADA325636.pdf	survival	DTIC_ADA325636	1262922	usgov	DTIC ADA325636: Market Analysis for the Packaged Water System Program.
+https://archive.org/download/DTIC_ADA258744/DTIC_ADA258744.pdf	survival	DTIC_ADA258744	7191573	usgov	DTIC ADA258744: Nutrition and Hydration Status of Aircrew Members Consuming The Food Packet, Survival, General Purpose, Improved During A Simulated Survival Scenario
+https://archive.org/download/DTIC_ADA279410/DTIC_ADA279410.pdf	survival	DTIC_ADA279410	3615847	usgov	DTIC ADA279410: Molecular Genetic Analysis of Parasite Survival in P. falciparum Malaria
 https://archive.org/download/DTIC_AD0440337/DTIC_AD0440337.pdf	survival	DTIC_AD0440337	1367229	usgov	DTIC AD0440337: SERVICE TEST OF SURVIVAL KIT, OV-1 AIRCRAFT, COLD CLIMATE
-https://archive.org/download/DTIC_AD0833150/DTIC_AD0833150.pdf	survival	DTIC_AD0833150	13102900	usgov	DTIC AD0833150: HYDRAULIC SYSTEM VULNERABILITY STUDY
-https://archive.org/download/DTIC_ADA119023/DTIC_ADA119023.pdf	survival	DTIC_ADA119023	1880005	usgov	DTIC ADA119023: Prelaunch Survivability of Ground Launched Cruise Missile (GLCM). Volume 3. SAVAGE Code Version 1.0 User's Guide
-https://archive.org/download/DTIC_ADA294085/DTIC_ADA294085.pdf	survival	DTIC_ADA294085	4006642	usgov	DTIC ADA294085: Buying the C-17: A Case Study.
-https://archive.org/download/20231025_20231025_1412/%28ebook%29%20-%20Survival%20-%20Tracking%20Techniques.txt.pdf	survival	20231025_20231025_1412	12131	pdmark	Survivali Books(Opensource)
 https://archive.org/download/DTIC_AD0662223/DTIC_AD0662223.pdf	survival	DTIC_AD0662223	2696967	usgov	DTIC AD0662223: U.S. NAVY FALLOUT AND BLAST SHELTER NATIONAL NAVAL MEDICAL CENTER SURVIVAL TRIAL STUDY
 https://archive.org/download/DTIC_ADA032876/DTIC_ADA032876.pdf	survival	DTIC_ADA032876	19055945	usgov	DTIC ADA032876: On the Bilinear Regulator Problem with a Pursuit-Evasion Application.
-https://archive.org/download/DTIC_ADA033513/DTIC_ADA033513.pdf	survival	DTIC_ADA033513	6869358	usgov	DTIC ADA033513: Primate Physical Activity Following Exposure to a Single 4600-Rad Pulsed Dose of Mixed Gamma-Neutron Radiation.
-https://archive.org/download/DTIC_ADA040517/DTIC_ADA040517.pdf	survival	DTIC_ADA040517	36519520	usgov	DTIC ADA040517: A Study of Helicopter Accident Data to Determine the Feasibility of a Survival Escape System,
-https://archive.org/download/DTIC_ADA050650/DTIC_ADA050650.pdf	survival	DTIC_ADA050650	1832919	usgov	DTIC ADA050650: Development and Analysis of Tank Evasion Strategies in Missile Effectiveness Models
-https://archive.org/download/DTIC_ADA052095/DTIC_ADA052095.pdf	survival	DTIC_ADA052095	65714287	usgov	DTIC ADA052095: Common Marsh Plant Species of the Gulf Coast Area. Volume II. Growth Dynamics.
-https://archive.org/download/DTIC_ADA057657/DTIC_ADA057657.pdf	survival	DTIC_ADA057657	3993663	usgov	DTIC ADA057657: Analysis of Naval Aviation Head and Neck Injuries (1969-1978)
-https://archive.org/download/DTIC_ADA080907/DTIC_ADA080907.pdf	survival	DTIC_ADA080907	5563069	usgov	DTIC ADA080907: Recovery from Nuclear Attack, and Research and Action Programs to Enhance Recovery Prospects
-https://archive.org/download/DTIC_ADA101597/DTIC_ADA101597.pdf	survival	DTIC_ADA101597	700024	usgov	DTIC ADA101597: The Department of Defense Statement on Strategic Nuclear Posture,
-https://archive.org/download/DTIC_ADA244902/DTIC_ADA244902.pdf	survival	DTIC_ADA244902	19167442	usgov	DTIC ADA244902: Pathophysiology and Toxicokinetic Studies of Blue-Green Algae Intoxication in the Swine Model
-https://archive.org/download/DTIC_ADA296990/DTIC_ADA296990.pdf	survival	DTIC_ADA296990	11116636	usgov	DTIC ADA296990: Dietary Refinements in a Sensitive Fish Liver Tumor Model.
-https://archive.org/download/DTIC_AD0339466/DTIC_AD0339466.pdf	survival	DTIC_AD0339466	1800506	usgov	DTIC AD0339466: Biological Effects Of Nuclear Radiation On The Monkey (Macaca Mulatta)
-https://archive.org/download/DTIC_AD0445221/DTIC_AD0445221.pdf	survival	DTIC_AD0445221	1211593	usgov	DTIC AD0445221: SHARKS AND SURVIVAL. CHAPTER 15. ATTACKS BY SHARKS AS RELATED TO THE ACTIVITIES OF MAN
-https://archive.org/download/DTIC_AD0505806/DTIC_AD0505806.pdf	survival	DTIC_AD0505806	3144196	usgov	DTIC AD0505806: Lessons Learned, Headquarters, 145th Aviation Battalion (Combat)
-https://archive.org/download/DTIC_ADA038768/DTIC_ADA038768.pdf	survival	DTIC_ADA038768	2367963	usgov	DTIC ADA038768: Fragility Data Analysis and Testing Guidelines for Essential Equipment Used in Critical Facilities
-https://archive.org/download/DTIC_ADA062947/DTIC_ADA062947.pdf	survival	DTIC_ADA062947	62436168	usgov	DTIC ADA062947: The Mission Trade-Off Methodology (MTOM) Model: User's Manual.
-https://archive.org/download/DTIC_ADA297183/DTIC_ADA297183.pdf	survival	DTIC_ADA297183	5979657	usgov	DTIC ADA297183: ELF Communications System Ecological Monitoring Program: Pollinating Insect Studies.
-https://archive.org/download/DTIC_AD0359742/DTIC_AD0359742.pdf	survival	DTIC_AD0359742	5009951	usgov	DTIC AD0359742: HELIBORNE COMMAND POST
-https://archive.org/download/DTIC_ADA025823/DTIC_ADA025823.pdf	survival	DTIC_ADA025823	5297100	usgov	DTIC ADA025823: Analysis of Phase 2A of FE 43.8
-https://archive.org/download/DTIC_ADA042336/DTIC_ADA042336.pdf	survival	DTIC_ADA042336	1080037	usgov	DTIC ADA042336: Error Analysis of Presented Area Computation Techniques
-https://archive.org/download/DTIC_ADA055321/DTIC_ADA055321.pdf	survival	DTIC_ADA055321	35418302	usgov	DTIC ADA055321: Experiments in Small Craft Leeway.
-https://archive.org/download/DTIC_ADA055321/DTIC_ADA055321.epub	survival	DTIC_ADA055321	10304509	usgov	DTIC ADA055321: Experiments in Small Craft Leeway.
+https://archive.org/download/796383-warner-information/796383-warner-information.pdf	survival	796383-warner-information	9347	usgov	Ty Warner tax evasion charges
 https://archive.org/download/DTIC_ADA133393/DTIC_ADA133393.pdf	survival	DTIC_ADA133393	1010005	usgov	DTIC ADA133393: Personality and Demographic Characteristics of U.S. Navy Survival Instructors by Performance Level.
-https://archive.org/download/DTIC_ADA259625/DTIC_ADA259625.pdf	survival	DTIC_ADA259625	1993267	usgov	DTIC ADA259625: Sustaining Health and Performance in the Cold: A Pocket Guide to Environmental Medicine Aspects Of Cold-Weather Operations
-https://archive.org/download/DTIC_ADA295886/DTIC_ADA295886.pdf	survival	DTIC_ADA295886	1808349	usgov	DTIC ADA295886: Comparison of Abundance and Diversity of Young Fishes and Macroinvertebrates between Two Lake Erie Wetlands.
-https://archive.org/download/DTIC_ADA033462/DTIC_ADA033462.pdf	survival	DTIC_ADA033462	3806069	usgov	DTIC ADA033462: Fluid Dynamic Analysis of Hydraulic Ram IV. (User's Manual for Pressure Wave Generation Model)
-https://archive.org/download/DTIC_ADA117294/DTIC_ADA117294.pdf	survival	DTIC_ADA117294	585767	usgov	DTIC ADA117294: Hardening of Armored Vehicle Suspension Components
-https://archive.org/download/DTIC_AD0262976/DTIC_AD0262976.pdf	survival	DTIC_AD0262976	3755867	usgov	DTIC AD0262976: DYNA-SOAR EJECTION SEAT AND SURVIVAL SYSTEM
-https://archive.org/download/DTIC_AD0745581/DTIC_AD0745581.pdf	survival	DTIC_AD0745581	502935	usgov	DTIC AD0745581: Personnel Protection from Cold in a 7 Man Life Raft
-https://archive.org/download/DTIC_ADA034118/DTIC_ADA034118.pdf	survival	DTIC_ADA034118	2131096	usgov	DTIC ADA034118: Void Filler Foam Accelerated Load Testing
-https://archive.org/download/DTIC_ADA048002/DTIC_ADA048002.pdf	survival	DTIC_ADA048002	2903005	usgov	DTIC ADA048002: Survey of Codes Employing Nuclear Damage Assessment
-https://archive.org/download/DTIC_ADA062752/DTIC_ADA062752.pdf	survival	DTIC_ADA062752	34977794	usgov	DTIC ADA062752: Survivability on the Fringe of High Risk Areas.
-https://archive.org/download/DTIC_ADA074889/DTIC_ADA074889.pdf	survival	DTIC_ADA074889	6694213	usgov	DTIC ADA074889: Protective Coatings for Aircraft Composites in Nuclear Environments
-https://archive.org/download/DTIC_ADA076329/DTIC_ADA076329.pdf	survival	DTIC_ADA076329	36437374	usgov	DTIC ADA076329: A Quantitative Analysis of Handgun Use during the Evasion and Survival Attempts of Army Air Force Aircrew Members during World War II
-https://archive.org/download/DTIC_ADA089212/DTIC_ADA089212.pdf	survival	DTIC_ADA089212	11810297	usgov	DTIC ADA089212: Models of Shelter Management Training and Delivery Systems.
 https://archive.org/download/DTIC_ADA128157/DTIC_ADA128157.pdf	survival	DTIC_ADA128157	2142656	usgov	DTIC ADA128157: Medical Aspects of Survival: Training for Aircrew
 https://archive.org/download/DTIC_ADA128157/DTIC_ADA128157.epub	survival	DTIC_ADA128157	8466861	usgov	DTIC ADA128157: Medical Aspects of Survival: Training for Aircrew
-https://archive.org/download/DTIC_ADA190202/DTIC_ADA190202.pdf	survival	DTIC_ADA190202	2681998	usgov	DTIC ADA190202: Strategic Passages.
-https://archive.org/download/DTIC_ADA204314/DTIC_ADA204314.pdf	survival	DTIC_ADA204314	6230490	usgov	DTIC ADA204314: Evaluate and Characterize Mechanisms Controlling Transport, Fate and Effects of Army Smokes in an Aerosol Wind Tunnel. Transport, Transformations, Fate and Terrestrial Ecological Effec
+https://archive.org/download/DTIC_AD0262976/DTIC_AD0262976.pdf	survival	DTIC_AD0262976	3755867	usgov	DTIC AD0262976: DYNA-SOAR EJECTION SEAT AND SURVIVAL SYSTEM
 https://archive.org/download/DTIC_AD0270225/DTIC_AD0270225.pdf	survival	DTIC_AD0270225	1863954	usgov	DTIC AD0270225: A PILOT FEASIBILITY STUDY OF FALLOUT SHELTERS FOR FAMILIES
-https://archive.org/download/DTIC_AD0764114/DTIC_AD0764114.pdf	survival	DTIC_AD0764114	17584211	usgov	DTIC AD0764114: People Survivability in a Direct Effects Environment and Related Topics
-https://archive.org/download/DTIC_AD0903418/DTIC_AD0903418.pdf	survival	DTIC_AD0903418	5536367	usgov	DTIC AD0903418: The Effect of Target Maneuvering on Kill Probability in Air-to-Air Gunnery
-https://archive.org/download/DTIC_ADA076419/DTIC_ADA076419.pdf	survival	DTIC_ADA076419	43404012	usgov	DTIC ADA076419: Marine Casualty Report. OCEAN EXPRESS (Drilling Unit); Capsizing and Sinking in the Gulf of Mexico on 15 April 1976 with Loss of Life.
-https://archive.org/download/DTIC_ADA090439/DTIC_ADA090439.pdf	survival	DTIC_ADA090439	680550	usgov	DTIC ADA090439: Nuclear Radiation Effects in Fiber-Optic Waveguides,
-https://archive.org/download/DTIC_ADA119701/DTIC_ADA119701.pdf	survival	DTIC_ADA119701	8997710	usgov	DTIC ADA119701: Damage Functions for Upgraded Shelters.
-https://archive.org/download/DTIC_ADA290715/DTIC_ADA290715.pdf	survival	DTIC_ADA290715	2009030	usgov	DTIC ADA290715: UNDERCOVER OPERATIONS: IRS' Management of Project Layoff.
-https://archive.org/download/DTIC_ADA309630/DTIC_ADA309630.pdf	survival	DTIC_ADA309630	1726284	usgov	DTIC ADA309630: Medical Prisoners of War: The Realities of Practicing Medicine in Captivity.
-https://archive.org/download/DTIC_ADA313658/DTIC_ADA313658.pdf	survival	DTIC_ADA313658	6960536	usgov	DTIC ADA313658: Development of an Intravascular Biosensor for Plasma Glucose Monitoring During Hemorrhagic Shock.
-https://archive.org/download/DTIC_AD0606443/DTIC_AD0606443.pdf	survival	DTIC_AD0606443	1820433	usgov	DTIC AD0606443: IMPLICATIONS OF NUCLEAR WEAPONS IN TOTAL WAR
-https://archive.org/download/DTIC_AD0658744/DTIC_AD0658744.pdf	survival	DTIC_AD0658744	3727327	usgov	DTIC AD0658744: POSTATTACK RECOVERY MANAGEMENT: CONCEPTS AND TECHNIQUES FOR MODEL DEVELOPMENT
-https://archive.org/download/DTIC_AD0774395/DTIC_AD0774395.pdf	survival	DTIC_AD0774395	2453587	usgov	DTIC AD0774395: Differential Game Barriers for Two Spacecraft Engaged in a Pursuit-Evasion Game in Orbit
-https://archive.org/download/DTIC_AD0815210/DTIC_AD0815210.pdf	survival	DTIC_AD0815210	61280057	usgov	DTIC AD0815210: INVESTIGATION OF CREW ESCAPE CONCEPTS FOR VTOL AND LOW-ALTITUDE DASH VEHICLES
-https://archive.org/download/DTIC_AD0815846/DTIC_AD0815846.pdf	survival	DTIC_AD0815846	5145185	usgov	DTIC AD0815846: POSTATTACK RECOVERY OF DAMAGED URBAN AREAS
-https://archive.org/download/DTIC_ADA041159/DTIC_ADA041159.pdf	survival	DTIC_ADA041159	43018978	usgov	DTIC ADA041159: Missile Employment From Fast Patrol Boats. A Computer-Based Analysis of the Search-Sector Parameters.
-https://archive.org/download/DTIC_ADA050203/DTIC_ADA050203.pdf	survival	DTIC_ADA050203	34152357	usgov	DTIC ADA050203: Progress Report on the Test and Evaluation of Three Escape Systems.
-https://archive.org/download/DTIC_ADA114699/DTIC_ADA114699.pdf	survival	DTIC_ADA114699	3034219	usgov	DTIC ADA114699: Fire Safety Aspects of Polymeric Materials. Volume 3. Smoke and Toxicity (Combustion Toxicology of Polymers)
-https://archive.org/download/DTIC_ADA118107/DTIC_ADA118107.pdf	survival	DTIC_ADA118107	1663045	usgov	DTIC ADA118107: Perspectives in Organization Theory: Resource Dependence, Efficiency, and Ecology.
-https://archive.org/download/DTIC_ADA121951/DTIC_ADA121951.pdf	survival	DTIC_ADA121951	3588814	usgov	DTIC ADA121951: A Study of Human Factors that Affect Combat Effectiveness on the Battlefield
-https://archive.org/download/DTIC_ADA215028/DTIC_ADA215028.pdf	survival	DTIC_ADA215028	2083901	usgov	DTIC ADA215028: Solar Cycle Effects on Trapped Energetic Particles
-https://archive.org/download/DTIC_ADA243469/DTIC_ADA243469.pdf	survival	DTIC_ADA243469	6486461	usgov	DTIC ADA243469: Near-Death Experiences: An Exploration of Perceived Responses, Effects of Interventions, and Impact
-https://archive.org/download/DTIC_ADA258591/DTIC_ADA258591.pdf	survival	DTIC_ADA258591	2370378	usgov	DTIC ADA258591: Molecular Genetic Analysis Of Parasite Survival In P. Falciparum Malaria.
+https://archive.org/download/DTIC_AD0445221/DTIC_AD0445221.pdf	survival	DTIC_AD0445221	1211593	usgov	DTIC AD0445221: SHARKS AND SURVIVAL. CHAPTER 15. ATTACKS BY SHARKS AS RELATED TO THE ACTIVITIES OF MAN
+https://archive.org/download/DTIC_ADA040517/DTIC_ADA040517.pdf	survival	DTIC_ADA040517	36519520	usgov	DTIC ADA040517: A Study of Helicopter Accident Data to Determine the Feasibility of a Survival Escape System,
+https://archive.org/download/DTIC_ADA076329/DTIC_ADA076329.pdf	survival	DTIC_ADA076329	36437374	usgov	DTIC ADA076329: A Quantitative Analysis of Handgun Use during the Evasion and Survival Attempts of Army Air Force Aircrew Members during World War II
 https://archive.org/download/DTIC_ADA263256/DTIC_ADA263256.pdf	survival	DTIC_ADA263256	28144892	usgov	DTIC ADA263256: Factors that Contribute to Neuron Survival and Neuron Growth after Injury
-https://archive.org/download/DTIC_AD0801787/DTIC_AD0801787.pdf	survival	DTIC_AD0801787	11662257	usgov	DTIC AD0801787: COMPILATION OF DATA ON CREW EMERGENCY ESCAPE SYSTEMS
+https://archive.org/download/DTIC_AD0774395/DTIC_AD0774395.pdf	survival	DTIC_AD0774395	2453587	usgov	DTIC AD0774395: Differential Game Barriers for Two Spacecraft Engaged in a Pursuit-Evasion Game in Orbit
 https://archive.org/download/DTIC_AD1019204/DTIC_AD1019204.pdf	survival	DTIC_AD1019204	659391	usgov	DTIC AD1019204: Seeds of Destruction, Seeds of Success: The Survival or Failure of Violent Extremist Organizations
-https://archive.org/download/DTIC_ADA102998/DTIC_ADA102998.pdf	survival	DTIC_ADA102998	4119709	usgov	DTIC ADA102998: SXTF Description: AEDC and NASA Candidate Sites.
-https://archive.org/download/DTIC_ADA126152/DTIC_ADA126152.pdf	survival	DTIC_ADA126152	1338790	usgov	DTIC ADA126152: United States Air Force (USAF) Experience in Aircraft Accident Survivability,
-https://archive.org/download/DTIC_ADA247954/DTIC_ADA247954.pdf	survival	DTIC_ADA247954	1922242	usgov	DTIC ADA247954: An Historical Study: Gypsies of the Battlefield the CIDG Program in Vietnam and Its Evolutionary Impact
-https://archive.org/download/DTIC_ADA298171/DTIC_ADA298171.pdf	survival	DTIC_ADA298171	860194	usgov	DTIC ADA298171: In Limited War - Victory before the Culminating Point,
-https://archive.org/download/DTIC_AD0018708/DTIC_AD0018708.pdf	survival	DTIC_AD0018708	752079	usgov	DTIC AD0018708: BASIC REQUIREMENTS FOR SURVIVAL OF MICE IN A SEALED ATMOSPHERE
-https://archive.org/download/DTIC_AD0908331/DTIC_AD0908331.pdf	survival	DTIC_AD0908331	11772961	usgov	DTIC AD0908331: Bomb Survivability in Fire Program
-https://archive.org/download/DTIC_ADA142806/DTIC_ADA142806.pdf	survival	DTIC_ADA142806	1769036	usgov	DTIC ADA142806: Simulated Crash Decelerations in a Light Aircraft Cabin,
-https://archive.org/download/DTIC_ADA164903/DTIC_ADA164903.pdf	survival	DTIC_ADA164903	2772287	usgov	DTIC ADA164903: Desert Emergency - Lack of Water - How to Find and Collect Water. Plants and Human Survival in the Desert.
 https://archive.org/download/DTIC_ADA171021/DTIC_ADA171021.pdf	survival	DTIC_ADA171021	1466578	usgov	DTIC ADA171021: Survival Equipment (Aviation).
 https://archive.org/download/DTIC_ADA171021/DTIC_ADA171021.epub	survival	DTIC_ADA171021	820213	usgov	DTIC ADA171021: Survival Equipment (Aviation).
-https://archive.org/download/DTIC_ADA179318/DTIC_ADA179318.pdf	survival	DTIC_ADA179318	11968053	usgov	DTIC ADA179318: Fire Safety Aspects of Polymeric Materials. Volume 6. Aircraft. Civil and Military
-https://archive.org/download/DTIC_ADA298040/DTIC_ADA298040.pdf	survival	DTIC_ADA298040	5205131	usgov	DTIC ADA298040: United States Security Strategy for the Middle East.
-https://archive.org/download/DTIC_ADA300001/DTIC_ADA300001.pdf	survival	DTIC_ADA300001	920006	usgov	DTIC ADA300001: Childbearing and Survival After Breast Cancer.
-https://archive.org/download/DTIC_ADA322801/DTIC_ADA322801.pdf	survival	DTIC_ADA322801	1815307	usgov	DTIC ADA322801: Freshwater and Ocean Survival of Atlantic Salmon and Steelhead: A Synopsis.
+https://archive.org/download/DTIC_ADA258591/DTIC_ADA258591.pdf	survival	DTIC_ADA258591	2370378	usgov	DTIC ADA258591: Molecular Genetic Analysis Of Parasite Survival In P. Falciparum Malaria.
+https://archive.org/download/DTIC_ADA042808/DTIC_ADA042808.pdf	survival	DTIC_ADA042808	5538690	usgov	DTIC ADA042808: Industrial Equipment Survival/Recovery Feasibility Program during Event DICE THROW
+https://archive.org/download/DTIC_ADA164903/DTIC_ADA164903.pdf	survival	DTIC_ADA164903	2772287	usgov	DTIC ADA164903: Desert Emergency - Lack of Water - How to Find and Collect Water. Plants and Human Survival in the Desert.
+https://archive.org/download/DTIC_ADA132888/DTIC_ADA132888.pdf	survival	DTIC_ADA132888	4604898	usgov	DTIC ADA132888: Computers on the Battlefield: Can They Survive?
 https://archive.org/download/DTIC_AD0410822/DTIC_AD0410822.pdf	survival	DTIC_AD0410822	595984	usgov	DTIC AD0410822: EVALUATION OF THE KC-135 AND U-2 BAILOUT SURVIVAL KIT
 https://archive.org/download/DTIC_AD0410822/DTIC_AD0410822.epub	survival	DTIC_AD0410822	1969465	usgov	DTIC AD0410822: EVALUATION OF THE KC-135 AND U-2 BAILOUT SURVIVAL KIT
-https://archive.org/download/DTIC_AD0437253/DTIC_AD0437253.pdf	survival	DTIC_AD0437253	3717029	usgov	DTIC AD0437253: TENTATIVE BIOLOGICAL CRITERIA FOR ASSESSING POTENTIAL HAZARDS FROM NUCLEAR EXPLOSIONS
-https://archive.org/download/DTIC_AD0740439/DTIC_AD0740439.pdf	survival	DTIC_AD0740439	1266801	usgov	DTIC AD0740439: Dynamic Simulation Techniques for the Design of Escape Systems: Current Applications and Future Air Force Requirements
-https://archive.org/download/DTIC_AD0749283/DTIC_AD0749283.pdf	survival	DTIC_AD0749283	11670874	usgov	DTIC AD0749283: Design Study of Repairable Main Rotor Blades
-https://archive.org/download/DTIC_ADA042808/DTIC_ADA042808.pdf	survival	DTIC_ADA042808	5538690	usgov	DTIC ADA042808: Industrial Equipment Survival/Recovery Feasibility Program during Event DICE THROW
-https://archive.org/download/DTIC_ADA043417/DTIC_ADA043417.pdf	survival	DTIC_ADA043417	44609471	usgov	DTIC ADA043417: Concepts of Conflict: Towards a Military Theory of Conflict,
-https://archive.org/download/DTIC_ADA053731/DTIC_ADA053731.pdf	survival	DTIC_ADA053731	6371689	usgov	DTIC ADA053731: A Mobility Analysis of Vehicles Participating in S-Tank Agility- Survivability (STAGS) Testing
-https://archive.org/download/DTIC_ADA058050/DTIC_ADA058050.pdf	survival	DTIC_ADA058050	10546920	usgov	DTIC ADA058050: Dynamic SAM Endgame Model Analyst's Manual. Volume I.
-https://archive.org/download/DTIC_ADA118294/DTIC_ADA118294.pdf	survival	DTIC_ADA118294	1594759	usgov	DTIC ADA118294: Projectile Ablation and Survival in Mass Accelerators Using High Energy Density Plasmas for Mass Acceleration
-https://archive.org/download/DTIC_ADA124926/DTIC_ADA124926.pdf	survival	DTIC_ADA124926	5322843	usgov	DTIC ADA124926: An Examination of the Effects of Command and Control on the Forward Air Defense.
-https://archive.org/download/DTIC_ADA165975/DTIC_ADA165975.pdf	survival	DTIC_ADA165975	6794648	usgov	DTIC ADA165975: Nonlinear Signal Processing and Team Differential Games.
-https://archive.org/download/DTIC_ADA212065/DTIC_ADA212065.pdf	survival	DTIC_ADA212065	4870309	usgov	DTIC ADA212065: Soviet Arms Transfers to Sub-Saharan Africa: What are they Worth in the United Nations?
-https://archive.org/download/DTIC_ADA299661/DTIC_ADA299661.pdf	survival	DTIC_ADA299661	3563875	usgov	DTIC ADA299661: Reversal of Multidrug Resistance in Breast Cancer.
 https://archive.org/download/DTIC_AD0420449/DTIC_AD0420449.pdf	survival	DTIC_AD0420449	15820011	usgov	DTIC AD0420449: PHYSIOLOGICAL AND PSYCHOLOGICAL EFFECTS OF OVERLOADING FALLOUT SHELTERS
-https://archive.org/download/DTIC_AD0609772/DTIC_AD0609772.pdf	survival	DTIC_AD0609772	558147	usgov	DTIC AD0609772: DIFFERENTIAL GAMES AND OPTIMAL PURSUITEVASION STRATEGIES
 https://archive.org/download/DTIC_AD0681749/DTIC_AD0681749.pdf	survival	DTIC_AD0681749	1716317	usgov	DTIC AD0681749: A MODULE FOR NATIONAL SURVIVAL
 https://archive.org/download/DTIC_AD0681749/DTIC_AD0681749.epub	survival	DTIC_AD0681749	1821175	usgov	DTIC AD0681749: A MODULE FOR NATIONAL SURVIVAL
-https://archive.org/download/DTIC_ADA096259/DTIC_ADA096259.pdf	survival	DTIC_ADA096259	6454216	usgov	DTIC ADA096259: Directory of Aircraft Survivability Specialists and Their Affiliations
-https://archive.org/download/DTIC_ADA132888/DTIC_ADA132888.pdf	survival	DTIC_ADA132888	4604898	usgov	DTIC ADA132888: Computers on the Battlefield: Can They Survive?
-https://archive.org/download/DTIC_ADA179314/DTIC_ADA179314.pdf	survival	DTIC_ADA179314	5568536	usgov	DTIC ADA179314: Fire Safety Aspects of Polymeric Materials. Volume 1. Materials. State of the Art
-https://archive.org/download/DTIC_ADA310711/DTIC_ADA310711.pdf	survival	DTIC_ADA310711	2818944	usgov	DTIC ADA310711: Protection Against the Acute and Delayed Toxicities of Sulfur Mustard.
-https://archive.org/download/101209038.nlm.nih.gov/101209038.pdf	survival	101209038.nlm.nih.gov	1297467	pre1931	Implantation of teeth and pericemental life
+https://archive.org/download/DTIC_ADA118294/DTIC_ADA118294.pdf	survival	DTIC_ADA118294	1594759	usgov	DTIC ADA118294: Projectile Ablation and Survival in Mass Accelerators Using High Energy Density Plasmas for Mass Acceleration
 https://archive.org/download/DTIC_AD0732193/DTIC_AD0732193.pdf	survival	DTIC_AD0732193	5608460	usgov	DTIC AD0732193: A Force Survival Model for Analysis of Strategic Bomber Basing Concepts in the Prelaunch Survival Mode
-https://archive.org/download/DTIC_AD0748155/DTIC_AD0748155.pdf	survival	DTIC_AD0748155	3816257	usgov	DTIC AD0748155: A Study of Personal Defense Weapons for U.S. Army Helicopter Pilots
-https://archive.org/download/DTIC_ADA045514/DTIC_ADA045514.pdf	survival	DTIC_ADA045514	24371514	usgov	DTIC ADA045514: Pregermination Requirements and Establishment Techniques for Salt Marsh Plants.
-https://archive.org/download/DTIC_ADA061167/DTIC_ADA061167.pdf	survival	DTIC_ADA061167	60116067	usgov	DTIC ADA061167: Postattack Impacts of the Crisis Relocation Strategy on Transportation Systems. Volume II. Revised Planning Guidelines.
-https://archive.org/download/DTIC_ADA064759/DTIC_ADA064759.pdf	survival	DTIC_ADA064759	35047261	usgov	DTIC ADA064759: A Practical Three Dimensional , 11 State Extended Kalman Filter for Use in a Fire Control System against Non-Thrusting Missiles. Volume I.
-https://archive.org/download/DTIC_ADA070444/DTIC_ADA070444.pdf	survival	DTIC_ADA070444	21752192	usgov	DTIC ADA070444: Aerothermal Evaluation of the Space Shuttle Solid Rocket Booster and Solid Rocket Motor Thermal Protection System.
-https://archive.org/download/DTIC_ADA092914/DTIC_ADA092914.pdf	survival	DTIC_ADA092914	11767496	usgov	DTIC ADA092914: Postattack Recovery Strategies.
-https://archive.org/download/DTIC_ADA257809/DTIC_ADA257809.pdf	survival	DTIC_ADA257809	609178	usgov	DTIC ADA257809: Testing of the Cocoon-4 Sleeping Shelter
-https://archive.org/download/DTIC_ADA327178/DTIC_ADA327178.pdf	survival	DTIC_ADA327178	10822002	usgov	DTIC ADA327178: Wavelet Representation for Digital Mammography.
-https://archive.org/download/DTIC_AD0624870/DTIC_AD0624870.pdf	survival	DTIC_AD0624870	4816001	usgov	DTIC AD0624870: TRAINING REQUIREMENTS FOR POSTATTACK ADAPTIVE BEHAVIOR
-https://archive.org/download/DTIC_AD0744789/DTIC_AD0744789.pdf	survival	DTIC_AD0744789	4519961	usgov	DTIC AD0744789: Blast Vulnerability of Shelter Supplies
-https://archive.org/download/DTIC_AD0909656/DTIC_AD0909656.pdf	survival	DTIC_AD0909656	15041999	usgov	DTIC AD0909656: Advanced Concept Ejection Seat (ACES) Development and Qualification
-https://archive.org/download/DTIC_ADA033529/DTIC_ADA033529.pdf	survival	DTIC_ADA033529	4734157	usgov	DTIC ADA033529: Survivability Primer
-https://archive.org/download/DTIC_ADA040356/DTIC_ADA040356.pdf	survival	DTIC_ADA040356	620269	usgov	DTIC ADA040356: Neuropathology and Cause of Death in U. S. Naval Aircraft Accidents
-https://archive.org/download/DTIC_ADA049561/DTIC_ADA049561.pdf	survival	DTIC_ADA049561	18692161	usgov	DTIC ADA049561: Satellite Surveillance Avoidance Optimization Aid
-https://archive.org/download/DTIC_ADA067935/DTIC_ADA067935.pdf	survival	DTIC_ADA067935	30097133	usgov	DTIC ADA067935: Tactical Forward Area Surveillance and Control Internetting Study. Volume I. Summary.
-https://archive.org/download/DTIC_ADA1017077/DTIC_ADA1017077.pdf	survival	DTIC_ADA1017077	1679711	usgov	DTIC ADA1017077:
-https://archive.org/download/DTIC_ADA214874/DTIC_ADA214874.pdf	survival	DTIC_ADA214874	3900151	usgov	DTIC ADA214874: Development of Advanced WTA Algorithms for Parallel Processing
-https://archive.org/download/DTIC_ADA291439/DTIC_ADA291439.pdf	survival	DTIC_ADA291439	1156078	usgov	DTIC ADA291439: Survival of Zebra Mussels (Dreissena polymorpha) and Asian Clams (Corbicula fluminea) Under Extreme Hypoxia.
-https://archive.org/download/DTIC_AD0439396/DTIC_AD0439396.pdf	survival	DTIC_AD0439396	451439	usgov	DTIC AD0439396: SHELTER OCCUPANCY STUDIES AT THE UNIVERSITY OF GEORGIA, 1962-1963
-https://archive.org/download/DTIC_AD0629139/DTIC_AD0629139.pdf	survival	DTIC_AD0629139	10778258	usgov	DTIC AD0629139: POSTATTACK FARM PROBLEMS. PART 2. ATTACK EFFECTS ON INPUTS AND FARM OUTPUT
-https://archive.org/download/DTIC_ADA007879/DTIC_ADA007879.pdf	survival	DTIC_ADA007879	3575828	usgov	DTIC ADA007879: Some Theoretical Aspects of Nonzero Sum Differential Games and Applications to Combat Problems
-https://archive.org/download/DTIC_ADA015656/DTIC_ADA015656.pdf	survival	DTIC_ADA015656	1688804	usgov	DTIC ADA015656: On Simulations of the Stochastic, Homogeneous, Lanchester Linear-Law Attrition Process
-https://archive.org/download/DTIC_ADA052250/DTIC_ADA052250.pdf	survival	DTIC_ADA052250	12682319	usgov	DTIC ADA052250: Missile-X Program Logistic Element Management Plan for Reliability Interface LEM.
-https://archive.org/download/DTIC_ADA076925/DTIC_ADA076925.pdf	survival	DTIC_ADA076925	38510314	usgov	DTIC ADA076925: The Determination of the Accessibility of Post-Attack Launch Windows.
-https://archive.org/download/DTIC_ADA090390/DTIC_ADA090390.pdf	survival	DTIC_ADA090390	690988	usgov	DTIC ADA090390: Energy Absorption of Kevlar (trade name) Fabrics under Ballistic Impact
-https://archive.org/download/DTIC_ADA092300/DTIC_ADA092300.pdf	survival	DTIC_ADA092300	5051699	usgov	DTIC ADA092300: Reflexive Launch Strategies.
-https://archive.org/download/DTIC_ADA115584/DTIC_ADA115584.pdf	survival	DTIC_ADA115584	1153263	usgov	DTIC ADA115584: A Research Program in Computer Technology, Volume 2
-https://archive.org/download/DTIC_AD0028867/DTIC_AD0028867.pdf	survival	DTIC_AD0028867	646143	usgov	DTIC AD0028867: EFFECT OF PARTIAL SHIELDING BY GRIDS ON SURVIVAL OF X-IRRADIATED RATS
 https://archive.org/download/DTIC_AD0404511/DTIC_AD0404511.pdf	survival	DTIC_AD0404511	4225970	usgov	DTIC AD0404511: THE FALLOUT PROTECTION BOOKLET: I. A REPORT OF PUBLIC ATTITUDES TOWARD AND INFORMATION ABOUT CIVIL DEFENSE
-https://archive.org/download/DTIC_AD0406887/DTIC_AD0406887.pdf	survival	DTIC_AD0406887	491761	usgov	DTIC AD0406887: ARCTIC SURVIVAL RATIONS. X. DIURNAL VARIATIONS OF SOME LIVER CONSTITUENTS IN RATS FED PEMMICAN MEALS
-https://archive.org/download/DTIC_AD0406887/DTIC_AD0406887.epub	survival	DTIC_AD0406887	5606175	usgov	DTIC AD0406887: ARCTIC SURVIVAL RATIONS. X. DIURNAL VARIATIONS OF SOME LIVER CONSTITUENTS IN RATS FED PEMMICAN MEALS
-https://archive.org/download/DTIC_AD0684934/DTIC_AD0684934.pdf	survival	DTIC_AD0684934	6465010	usgov	DTIC AD0684934: GENERAL ANALYSIS OF RADIOLOGICAL RECOVERY CAPABILITIES
-https://archive.org/download/DTIC_AD0694355/DTIC_AD0694355.pdf	survival	DTIC_AD0694355	934763	usgov	DTIC AD0694355: EMERGENCY RESCUE PARACHUTES IN HELICOPTERS
-https://archive.org/download/DTIC_AD0740175/DTIC_AD0740175.pdf	survival	DTIC_AD0740175	19350616	usgov	DTIC AD0740175: Civil Defense Shelter Options: Deliberate Shelters. Volume 2
-https://archive.org/download/DTIC_ADA031309/DTIC_ADA031309.pdf	survival	DTIC_ADA031309	10846724	usgov	DTIC ADA031309: Ice Buoy Demonstration Program.
-https://archive.org/download/DTIC_ADA1001085/DTIC_ADA1001085.pdf	survival	DTIC_ADA1001085	4349374	usgov	DTIC ADA1001085: Improvements to the AFWL HULL Code.
-https://archive.org/download/DTIC_ADA115541/DTIC_ADA115541.pdf	survival	DTIC_ADA115541	2935623	usgov	DTIC ADA115541: Aircrew Ionizing Doses from Radioactive Dust Cloud Generated by Nuclear Burst
+https://archive.org/download/DTIC_AD1011657/DTIC_AD1011657.pdf	survival	DTIC_AD1011657	8545819	usgov	DTIC AD1011657: Understanding the Fundamental Principles Underlying the Survival and Efficient Recovery of Multi-Scale Techno-Social Networks Following a WMD Event (A)
 https://archive.org/download/DTIC_ADA125532/DTIC_ADA125532.pdf	survival	DTIC_ADA125532	823678	usgov	DTIC ADA125532: Social and Psychological Differentials in Combat Survival
 https://archive.org/download/DTIC_ADA125532/DTIC_ADA125532.epub	survival	DTIC_ADA125532	1889064	usgov	DTIC ADA125532: Social and Psychological Differentials in Combat Survival
-https://archive.org/download/DTIC_ADA127557/DTIC_ADA127557.pdf	survival	DTIC_ADA127557	5457098	usgov	DTIC ADA127557: Expansion of the Scan Endgame Program for Aircraft Survivability Studies and Development of a Supporting User's Guide.
-https://archive.org/download/DTIC_ADA142092/DTIC_ADA142092.pdf	survival	DTIC_ADA142092	1711943	usgov	DTIC ADA142092: Study on Transport Airplane Unplanned Water Contact
-https://archive.org/download/DTIC_ADA146240/DTIC_ADA146240.pdf	survival	DTIC_ADA146240	551478	usgov	DTIC ADA146240: Evaluation of Survival Straws (Pocket Purifier),
-https://archive.org/download/DTIC_ADA186850/DTIC_ADA186850.pdf	survival	DTIC_ADA186850	2956474	usgov	DTIC ADA186850: Graphic Simulation of an Air Defense Scenario.
-https://archive.org/download/DTIC_ADA240808/DTIC_ADA240808.pdf	survival	DTIC_ADA240808	954794	usgov	DTIC ADA240808: Survival Analysis: A Training Decision Application
-https://archive.org/download/DTIC_ADA243842/DTIC_ADA243842.pdf	survival	DTIC_ADA243842	2482199	usgov	DTIC ADA243842: The Demonstration of the Feasibility of the Tuning and Stimulation of Nuclear Radiation
-https://archive.org/download/DTIC_ADA299274/DTIC_ADA299274.pdf	survival	DTIC_ADA299274	653459	usgov	DTIC ADA299274: An Evaluation of a Peer Support Program to Improve Quality of Life with Breast Cancer.
-https://archive.org/download/DTIC_AD0224572/DTIC_AD0224572.pdf	survival	DTIC_AD0224572	2454954	usgov	DTIC AD0224572: BASIC SURVIVAL PROBABILITY EXPRESSIONS FOR AIR COMBAT MODELS
-https://archive.org/download/DTIC_AD0476804/DTIC_AD0476804.pdf	survival	DTIC_AD0476804	1334267	usgov	DTIC AD0476804: STERILIZATION ACTION OF CHLORINE AND IODINE ON BACTERIA AND VIRUSES IN WATER SYSTEMS
-https://archive.org/download/DTIC_AD0604950/DTIC_AD0604950.pdf	survival	DTIC_AD0604950	4399426	usgov	DTIC AD0604950: ON DIFFERENTIAL GAMES WITH SURVIVAL PAYOFFS
-https://archive.org/download/DTIC_AD0688746/DTIC_AD0688746.pdf	survival	DTIC_AD0688746	766555	usgov	DTIC AD0688746: SURVIVAL OF PATHOGENIC STAPHYLOCOCCI AND STREPTOCOCCI IN THE AIR AND ON OBJECTS OF THE EXPERIMENTAL UNIT
-https://archive.org/download/DTIC_AD1011657/DTIC_AD1011657.pdf	survival	DTIC_AD1011657	8545819	usgov	DTIC AD1011657: Understanding the Fundamental Principles Underlying the Survival and Efficient Recovery of Multi-Scale Techno-Social Networks Following a WMD Event (A)
-https://archive.org/download/DTIC_AD1027467/DTIC_AD1027467.pdf	survival	DTIC_AD1027467	2218093	usgov	DTIC AD1027467: Saving The Savable: Using Bystanders To Increase Survival From Out Of Hospital Cardiac Arrest (Ohca) In New York City
-https://archive.org/download/DTIC_ADA050918/DTIC_ADA050918.pdf	survival	DTIC_ADA050918	8673616	usgov	DTIC ADA050918: Cultivation of Hepatitis Virus in Tissue Culture.
-https://archive.org/download/DTIC_ADA057609/DTIC_ADA057609.pdf	survival	DTIC_ADA057609	41792727	usgov	DTIC ADA057609: Measures and Trends US and USSR Strategic Force Effectiveness.
-https://archive.org/download/DTIC_ADA058122/DTIC_ADA058122.pdf	survival	DTIC_ADA058122	1247588	usgov	DTIC ADA058122: The Relationship between Locus of Control and Resistance in a Simulated Prisoner of War Compound
-https://archive.org/download/DTIC_ADA068881/DTIC_ADA068881.pdf	survival	DTIC_ADA068881	51925311	usgov	DTIC ADA068881: Sonar Simulation Computer Programs. Volume 2. Flow Charts.
-https://archive.org/download/DTIC_ADA081377/DTIC_ADA081377.pdf	survival	DTIC_ADA081377	6942097	usgov	DTIC ADA081377: Logistics Study -- Shelter Stockage.
-https://archive.org/download/DTIC_ADA090417/DTIC_ADA090417.pdf	survival	DTIC_ADA090417	509920	usgov	DTIC ADA090417: High Performance Vehicles,
-https://archive.org/download/DTIC_ADA097028/DTIC_ADA097028.pdf	survival	DTIC_ADA097028	1740636	usgov	DTIC ADA097028: Improving Team Performance and Participation via Computer-mediated Turn Taking and Informational Prompts.
-https://archive.org/download/DTIC_ADA115698/DTIC_ADA115698.pdf	survival	DTIC_ADA115698	7224430	usgov	DTIC ADA115698: Dilute: A Mini-Campaign Simulation Model to Analyze Strategic Penetration of Various Force Mix Combinations of Cruise Missiles and Manned Penetrators.
-https://archive.org/download/DTIC_ADA119375/DTIC_ADA119375.pdf	survival	DTIC_ADA119375	936336	usgov	DTIC ADA119375: Sequential Analysis of the Proportional Hazards Model.
-https://archive.org/download/DTIC_ADA126748/DTIC_ADA126748.pdf	survival	DTIC_ADA126748	393960	usgov	DTIC ADA126748: Ejection Injuries in Southeast Asia Prisoner of War Returnees,
-https://archive.org/download/DTIC_ADA179317/DTIC_ADA179317.pdf	survival	DTIC_ADA179317	9781029	usgov	DTIC ADA179317: Fire Safety Aspects of Polymeric Materials. Volume 5. Elements of Polymer Fire Safety and Guide to the Designer
-https://archive.org/download/DTIC_ADA229643/DTIC_ADA229643.pdf	survival	DTIC_ADA229643	2471394	usgov	DTIC ADA229643: Sustaining Health and Performance in the Desert: Environmental Medicine Guidance for Operations in Southwest Asia
-https://archive.org/download/DTIC_ADA288800/DTIC_ADA288800.pdf	survival	DTIC_ADA288800	1858616	usgov	DTIC ADA288800: Predictions of Human Tolerance to Cold Water Immersion While Wearning Advanced Integrated Garment Ensembles With and Without Survival Rafts or Exogenous Heating.
-https://archive.org/download/DTIC_ADA304795/DTIC_ADA304795.pdf	survival	DTIC_ADA304795	1062518	usgov	DTIC ADA304795: Molecular Genetics of Breast Cancer Neoplasia.
 https://archive.org/download/DTIC_ADA322930/DTIC_ADA322930.pdf	survival	DTIC_ADA322930	1204419	usgov	DTIC ADA322930: Approximation and Derivatives of Survival in Structural Analysis and Design,
-https://archive.org/download/DTIC_ADA328856/DTIC_ADA328856.pdf	survival	DTIC_ADA328856	50745570	usgov	DTIC ADA328856: Effect of Sub-Lethal Organic and Metallic Toxicant Concentrations on Neurological Biomarkers of Neonates.
+https://archive.org/download/DTIC_AD0740175/DTIC_AD0740175.pdf	survival	DTIC_AD0740175	19350616	usgov	DTIC AD0740175: Civil Defense Shelter Options: Deliberate Shelters. Volume 2
+https://archive.org/download/DTIC_AD1027467/DTIC_AD1027467.pdf	survival	DTIC_AD1027467	2218093	usgov	DTIC AD1027467: Saving The Savable: Using Bystanders To Increase Survival From Out Of Hospital Cardiac Arrest (Ohca) In New York City
+https://archive.org/download/DTIC_ADA146240/DTIC_ADA146240.pdf	survival	DTIC_ADA146240	551478	usgov	DTIC ADA146240: Evaluation of Survival Straws (Pocket Purifier),
+https://archive.org/download/DTIC_AD0604950/DTIC_AD0604950.pdf	survival	DTIC_AD0604950	4399426	usgov	DTIC AD0604950: ON DIFFERENTIAL GAMES WITH SURVIVAL PAYOFFS
 https://archive.org/download/DTIC_AD0282004/DTIC_AD0282004.pdf	survival	DTIC_AD0282004	1811891	usgov	DTIC AD0282004: DYNA-SOAR EJECTION SEAT AND SURVIVAL SYSTEM
-https://archive.org/download/DTIC_AD0632865/DTIC_AD0632865.pdf	survival	DTIC_AD0632865	4171527	usgov	DTIC AD0632865: ENVIRONMENTAL HEALTH PLANNING FOR POSTATTACK CONDITIONS: SOME PROBLEMS, PROGRAMS, AND PRIORITIES
-https://archive.org/download/DTIC_AD0667932/DTIC_AD0667932.pdf	survival	DTIC_AD0667932	18677569	usgov	DTIC AD0667932: STORAGE STABILITY OF CIVIL DEFENSE SHELTER RATIONS
-https://archive.org/download/DTIC_AD0681252/DTIC_AD0681252.pdf	survival	DTIC_AD0681252	9803976	usgov	DTIC AD0681252: NATIONAL EMERGENCY HEALTH PREPAREDNESS STUDY INCLUDING THE DEVELOPMENT AND TESTING OF A TOTAL EMERGENCY HEALTH CARE SYSTEM MODEL
-https://archive.org/download/DTIC_ADA038004/DTIC_ADA038004.pdf	survival	DTIC_ADA038004	19863890	usgov	DTIC ADA038004: The Impact of Materials Shortages on Weapons Acquisition Programs: Past Problems and Future Projections.
-https://archive.org/download/DTIC_ADA043952/DTIC_ADA043952.pdf	survival	DTIC_ADA043952	19515851	usgov	DTIC ADA043952: The Problem of Induced 'Block Motion' Related to Deep Underground Strategic Facilities - A Summary.
-https://archive.org/download/DTIC_ADA046112/DTIC_ADA046112.pdf	survival	DTIC_ADA046112	25874764	usgov	DTIC ADA046112: SURVIVE: A Computer Model for Single Penetrator/Surface-to-Air Missile Attrition.
-https://archive.org/download/DTIC_ADA089190/DTIC_ADA089190.pdf	survival	DTIC_ADA089190	6729369	usgov	DTIC ADA089190: Early Development of TNF S2 Test Capability
-https://archive.org/download/DTIC_ADA113959/DTIC_ADA113959.pdf	survival	DTIC_ADA113959	12344909	usgov	DTIC ADA113959: Proceedings of the Air Force Geophysics Laboratory Workshop on the Earth's Radiation Belts: 26-27 January 1981.
-https://archive.org/download/DTIC_ADA124870/DTIC_ADA124870.pdf	survival	DTIC_ADA124870	8229712	usgov	DTIC ADA124870: Survivability of Interdiction Aircraft: Sensitivity to Terrain Following, Command Altitude, Velocity, and Electronic Counter Measures.
-https://archive.org/download/DTIC_ADA125803/DTIC_ADA125803.pdf	survival	DTIC_ADA125803	1519556	usgov	DTIC ADA125803: Correctional Retraining in the Navy: Follow-Up Evaluation
-https://archive.org/download/DTIC_ADA156947/DTIC_ADA156947.pdf	survival	DTIC_ADA156947	2607453	usgov	DTIC ADA156947: Assessment of Antiradiation Drug Effectiveness to Fission Neutron Irradiation.
-https://archive.org/download/DTIC_ADA212029/DTIC_ADA212029.pdf	survival	DTIC_ADA212029	8010390	usgov	DTIC ADA212029: ClinicAl Evaluation of Dental Restorative Materials
-https://archive.org/download/DTIC_ADA230133/DTIC_ADA230133.pdf	survival	DTIC_ADA230133	3922411	usgov	DTIC ADA230133: Analysis of Survivor Benefit Plan - Acceptance and Comparison with Private Sector
-https://archive.org/download/DTIC_ADA276163/DTIC_ADA276163.pdf	survival	DTIC_ADA276163	459854	usgov	DTIC ADA276163: Effects of Water Quality on Survival and Reproduction of Four Species of Planaria (Turbellaria: Tricladida)
-https://archive.org/download/DTIC_ADA296769/DTIC_ADA296769.pdf	survival	DTIC_ADA296769	4053602	usgov	DTIC ADA296769: Statistical Modelling Methodology for the Determination of Habitat Suitability and Habitat Preferences of the Endangered Fountain Darter.
-https://archive.org/download/DTIC_ADA302747/DTIC_ADA302747.pdf	survival	DTIC_ADA302747	1046642	usgov	DTIC ADA302747: One Type of Self-Adapting Airborne Passive-Photoelectric Countermeasure System,
-https://archive.org/download/CAT31363650/CAT31363650.pdf	survival	CAT31363650	893732	usgov	Early survival of cottonwood and hybrid poplar plantations at Stoneville, Miss.
-https://archive.org/download/DTIC_AD0637132/DTIC_AD0637132.pdf	survival	DTIC_AD0637132	1746644	usgov	DTIC AD0637132: UNITED STATES ARMY AVIATION CRASH SURVIVAL RESEARCH
-https://archive.org/download/DTIC_AD0735138/DTIC_AD0735138.pdf	survival	DTIC_AD0735138	1283318	usgov	DTIC AD0735138: An Introduction to Evasion Games
-https://archive.org/download/DTIC_AD0875453/DTIC_AD0875453.pdf	survival	DTIC_AD0875453	2026256	usgov	DTIC AD0875453: Selection and Training for Small Independent Action Forces: System Analysis and Development of Early Training
-https://archive.org/download/DTIC_ADA032244/DTIC_ADA032244.pdf	survival	DTIC_ADA032244	25386426	usgov	DTIC ADA032244: The Legal and Illegal Markets for Taxed Goods: Pure Theory and an Application to State Government Taxation of Distilled Spirits,
-https://archive.org/download/DTIC_ADA042310/DTIC_ADA042310.pdf	survival	DTIC_ADA042310	7720961	usgov	DTIC ADA042310: Survey of Relative Hardness of Selected Impact Areas, Yuma Proving Ground, Arizona.
-https://archive.org/download/DTIC_ADA044852/DTIC_ADA044852.pdf	survival	DTIC_ADA044852	11567099	usgov	DTIC ADA044852: Water and Electrolyte Economy of Desert Aboriginals and New Guinea Melanesians. 1. Desert Survival and the Functions of Aboriginal Nomads in the Summer Desert.
-https://archive.org/download/DTIC_ADA056113/DTIC_ADA056113.pdf	survival	DTIC_ADA056113	13779161	usgov	DTIC ADA056113: Antimisting Fuel Spillage/Air Shear Tests at Naval Weapons Center.
-https://archive.org/download/DTIC_ADA068502/DTIC_ADA068502.pdf	survival	DTIC_ADA068502	3176118	usgov	DTIC ADA068502: Analytical Representations of Blast Damage for Several Types of Targets
-https://archive.org/download/DTIC_ADA084390/DTIC_ADA084390.pdf	survival	DTIC_ADA084390	6058183	usgov	DTIC ADA084390: Survival, Reconstitution and Recovery: U.S.-Soviet Asymmetries and U.S. Policy Options.
-https://archive.org/download/DTIC_ADA121927/DTIC_ADA121927.pdf	survival	DTIC_ADA121927	9494468	usgov	DTIC ADA121927: The US Marine Corps and Defense Unification 1944-47. The Politics of Survival
-https://archive.org/download/DTIC_ADA131337/DTIC_ADA131337.pdf	survival	DTIC_ADA131337	964203	usgov	DTIC ADA131337: Matched Survival Analysis (MSURV).
-https://archive.org/download/DTIC_ADA163490/DTIC_ADA163490.pdf	survival	DTIC_ADA163490	5684680	usgov	DTIC ADA163490: Mooring System Design and Time Domain Simulation of a Semisubmersible Buoy.
-https://archive.org/download/DTIC_ADA209512/DTIC_ADA209512.pdf	survival	DTIC_ADA209512	1099018	usgov	DTIC ADA209512: Leadership Succession in the Military
-https://archive.org/download/DTIC_ADA297456/DTIC_ADA297456.pdf	survival	DTIC_ADA297456	5124294	usgov	DTIC ADA297456: Statistical Bubble Dynamics Algorithms for Assessment of Altitude Decompression Sickness Incidence.
-https://archive.org/download/DTIC_ADA313957/DTIC_ADA313957.pdf	survival	DTIC_ADA313957	6536932	usgov	DTIC ADA313957: Advanced Battlespace Information System (ABIS) Task Force Report, Volume 3: Battle Management Working Group Results.
-https://archive.org/download/DTIC_AD0409421/DTIC_AD0409421.pdf	survival	DTIC_AD0409421	7332899	usgov	DTIC AD0409421: Special Aspects of Environment Resulting from Various Kinds of Nuclear Wars
 https://archive.org/download/DTIC_AD0426430/DTIC_AD0426430.pdf	survival	DTIC_AD0426430	19107581	usgov	DTIC AD0426430: ORGANIZING MUNICIPAL GOVERNMENTS FOR CIVIL DEFENSE
+https://archive.org/download/DTIC_AD0637132/DTIC_AD0637132.pdf	survival	DTIC_AD0637132	1746644	usgov	DTIC AD0637132: UNITED STATES ARMY AVIATION CRASH SURVIVAL RESEARCH
+https://archive.org/download/DTIC_AD0667932/DTIC_AD0667932.pdf	survival	DTIC_AD0667932	18677569	usgov	DTIC AD0667932: STORAGE STABILITY OF CIVIL DEFENSE SHELTER RATIONS
+https://archive.org/download/DTIC_AD0735138/DTIC_AD0735138.pdf	survival	DTIC_AD0735138	1283318	usgov	DTIC AD0735138: An Introduction to Evasion Games
+https://archive.org/download/DTIC_ADA044852/DTIC_ADA044852.pdf	survival	DTIC_ADA044852	11567099	usgov	DTIC ADA044852: Water and Electrolyte Economy of Desert Aboriginals and New Guinea Melanesians. 1. Desert Survival and the Functions of Aboriginal Nomads in the Summer Desert.
+https://archive.org/download/DTIC_ADA288800/DTIC_ADA288800.pdf	survival	DTIC_ADA288800	1858616	usgov	DTIC ADA288800: Predictions of Human Tolerance to Cold Water Immersion While Wearning Advanced Integrated Garment Ensembles With and Without Survival Rafts or Exogenous Heating.
 https://archive.org/download/DTIC_AD1023246/DTIC_AD1023246.pdf	survival	DTIC_AD1023246	238104	usgov	DTIC AD1023246: Staff Specialist Survival Course
 https://archive.org/download/DTIC_AD1023246/DTIC_AD1023246.epub	survival	DTIC_AD1023246	615981	usgov	DTIC AD1023246: Staff Specialist Survival Course
-https://archive.org/download/DTIC_ADA035592/DTIC_ADA035592.pdf	survival	DTIC_ADA035592	18670274	usgov	DTIC ADA035592: Species Diversity Indices of the Fish Populations of Streams Draining Selected Test Areas on Eglin Air Force Base Reservation, Florida.
-https://archive.org/download/DTIC_ADA070991/DTIC_ADA070991.pdf	survival	DTIC_ADA070991	62871318	usgov	DTIC ADA070991: MISDEM Computer Simulation. Volume II. Analyst Manual.
-https://archive.org/download/DTIC_ADA071502/DTIC_ADA071502.pdf	survival	DTIC_ADA071502	27437229	usgov	DTIC ADA071502: Pretest Simulation of Event S4 HAVE HOST Series.
-https://archive.org/download/DTIC_ADA101503/DTIC_ADA101503.pdf	survival	DTIC_ADA101503	14818154	usgov	DTIC ADA101503: Crash Survivable Flight Data Recording System Study.
-https://archive.org/download/DTIC_ADA115069/DTIC_ADA115069.pdf	survival	DTIC_ADA115069	1249067	usgov	DTIC ADA115069: Coupling of Lightning Stroke Current to Aircraft Balanced Twisted Shielded Pair Cables,
-https://archive.org/download/DTIC_ADA147491/DTIC_ADA147491.pdf	survival	DTIC_ADA147491	2389299	usgov	DTIC ADA147491: Solid Modeling at the US Army Ballistic Research Laboratory
-https://archive.org/download/DTIC_ADA154014/DTIC_ADA154014.pdf	survival	DTIC_ADA154014	6455170	usgov	DTIC ADA154014: Sweden: Nato's Silent Partner?
-https://archive.org/download/DTIC_ADA215446/DTIC_ADA215446.pdf	survival	DTIC_ADA215446	1274599	usgov	DTIC ADA215446: Ecology and Molecular Genetic Studies of Marine Bacteria
+https://archive.org/download/DTIC_ADA084390/DTIC_ADA084390.pdf	survival	DTIC_ADA084390	6058183	usgov	DTIC ADA084390: Survival, Reconstitution and Recovery: U.S.-Soviet Asymmetries and U.S. Policy Options.
+https://archive.org/download/DTIC_ADA276163/DTIC_ADA276163.pdf	survival	DTIC_ADA276163	459854	usgov	DTIC ADA276163: Effects of Water Quality on Survival and Reproduction of Four Species of Planaria (Turbellaria: Tricladida)
+https://archive.org/download/DTIC_AD0600437/DTIC_AD0600437.pdf	survival	DTIC_AD0600437	8165366	usgov	DTIC AD0600437: MOISTURE IN SURVIVAL SHELTERS
+https://archive.org/download/DTIC_AD0600437/DTIC_AD0600437.epub	survival	DTIC_AD0600437	35854874	usgov	DTIC AD0600437: MOISTURE IN SURVIVAL SHELTERS
+https://archive.org/download/DTIC_AD0717587/DTIC_AD0717587.pdf	survival	DTIC_AD0717587	3743973	usgov	DTIC AD0717587: Application of Differential Games to Problems of Naval Warfare: surveillance-Evasion: Part I
+https://archive.org/download/DTIC_AD0787011/DTIC_AD0787011.pdf	survival	DTIC_AD0787011	2833393	usgov	DTIC AD0787011: Cold: Physiology, Protection and Survival
+https://archive.org/download/DTIC_AD0787011/DTIC_AD0787011.epub	survival	DTIC_AD0787011	4627275	usgov	DTIC AD0787011: Cold: Physiology, Protection and Survival
+https://archive.org/download/DTIC_ADA121927/DTIC_ADA121927.pdf	survival	DTIC_ADA121927	9494468	usgov	DTIC ADA121927: The US Marine Corps and Defense Unification 1944-47. The Politics of Survival
+https://archive.org/download/DTIC_AD0684542/DTIC_AD0684542.pdf	survival	DTIC_AD0684542	5358459	usgov	DTIC AD0684542: PURSUIT-EVASION DIFFERENTIAL GAMES
+https://archive.org/download/DTIC_AD0622099/DTIC_AD0622099.pdf	survival	DTIC_AD0622099	5390773	usgov	DTIC AD0622099: THE 1964 CIVIL DEFENSE POSTURES: PUBLIC RESPONSE
+https://archive.org/download/DTIC_ADA1005282/DTIC_ADA1005282.pdf	survival	DTIC_ADA1005282	5629474	usgov	DTIC ADA1005282: Shipboard Training and Maintenance for Merchant Vessel Survival Equipment.
+https://archive.org/download/DTIC_AD0628678/DTIC_AD0628678.pdf	survival	DTIC_AD0628678	7252389	usgov	DTIC AD0628678: HELMET DESIGN CRITERIA FOR IMPROVED CRASH SURVIVAL
+https://archive.org/download/DTIC_AD0740950/DTIC_AD0740950.pdf	survival	DTIC_AD0740950	5545353	usgov	DTIC AD0740950: Civil Defense Systems: Preattack and Postattack (Nuclear Warfare)
+https://archive.org/download/DTIC_AD0603216/DTIC_AD0603216.pdf	survival	DTIC_AD0603216	10588192	usgov	DTIC AD0603216: LOCAL CIVIL DEFENSE SYSTEMS: A STUDY OF COUNTERFORCE DEFENSE SYSTEMS METHODOLOGY APPLIED TO TUCSON, ARIZONA AND ENVIRONS
+https://archive.org/download/DTIC_ADA054889/DTIC_ADA054889.pdf	survival	DTIC_ADA054889	14887141	usgov	DTIC ADA054889: Hygienic Indicator Organisms. A Comparison of Survival and Enumeration of the Group D Streptococci and 'Escherichia coli' Following Freezing and Frozen Storage,
+https://archive.org/download/DTIC_ADA076135/DTIC_ADA076135.pdf	survival	DTIC_ADA076135	57864983	usgov	DTIC ADA076135: A Quantitative Analysis of Handgun Use During the Evasion and Survival Attempts of Army Air Force Aircrew Members during World War II - Data
+https://archive.org/download/DTIC_ADA317375/DTIC_ADA317375.pdf	survival	DTIC_ADA317375	617730	usgov	DTIC ADA317375: Survival at High Altitudes: Wheel-Well Passengers.
+https://archive.org/download/DTIC_AD0741382/DTIC_AD0741382.pdf	survival	DTIC_AD0741382	3650882	usgov	DTIC AD0741382: A Study of Air Distribution in Survival Shelters Using a Small-Scale Modeling Technique
+https://archive.org/download/DTIC_ADA099690/DTIC_ADA099690.pdf	survival	DTIC_ADA099690	2412530	usgov	DTIC ADA099690: Solution Techniques for Realistic Pursuit-Evasion Games
+https://archive.org/download/DTIC_ADA231494/DTIC_ADA231494.pdf	survival	DTIC_ADA231494	1905868	usgov	DTIC ADA231494: Development of an Integrated Life-Preserver/Survival Vest for Canadian Forces Aircrew
+https://archive.org/download/DTIC_AD0604629/DTIC_AD0604629.pdf	survival	DTIC_AD0604629	1945603	usgov	DTIC AD0604629: ON GAMES OF SURVIVAL
+https://archive.org/download/DTIC_ADA037556/DTIC_ADA037556.pdf	survival	DTIC_ADA037556	11436812	usgov	DTIC ADA037556: Minimum Energy Control of a Bilinear Pursuit-Evasion System.
+https://archive.org/download/DTIC_ADA130198/DTIC_ADA130198.pdf	survival	DTIC_ADA130198	2165165	usgov	DTIC ADA130198: Crashworthiness: An Illustrated Commentary on Occupant Survival in General Aviation Accidents
+https://archive.org/download/DTIC_ADA276788/DTIC_ADA276788.pdf	survival	DTIC_ADA276788	1463678	usgov	DTIC ADA276788: Fighter Aircraft Foreign Military Sales: Industry Survival and National Power
+https://archive.org/download/DTIC_AD0690209/DTIC_AD0690209.pdf	survival	DTIC_AD0690209	3694959	usgov	DTIC AD0690209: STORAGE STABILITY OF CIVIL DEFENSE SHELTER RATIONS
+https://archive.org/download/DTIC_AD0868623/DTIC_AD0868623.pdf	survival	DTIC_AD0868623	2160420	usgov	DTIC AD0868623: Survival Equipment (Aviation)
+https://archive.org/download/DTIC_AD0868623/DTIC_AD0868623.epub	survival	DTIC_AD0868623	1157847	usgov	DTIC AD0868623: Survival Equipment (Aviation)
+https://archive.org/download/DTIC_ADA047766/DTIC_ADA047766.pdf	survival	DTIC_ADA047766	9515011	usgov	DTIC ADA047766: Effect of Staphylococcal Enterotoxin B on Cardiorenal Functions and Survival in X-Irradiated Rhesus Macaques.
+https://archive.org/download/DTIC_ADA058191/DTIC_ADA058191.pdf	survival	DTIC_ADA058191	5821043	usgov	DTIC ADA058191: Analysis of Three-Dimensional Optimal Evasion with Linearized Kinematics,
+https://archive.org/download/DTIC_ADA119717/DTIC_ADA119717.pdf	survival	DTIC_ADA119717	4228633	usgov	DTIC ADA119717: The Enlisted Survival Tracking File (STF): A Revision.
+https://archive.org/download/DTIC_AD0604643/DTIC_AD0604643.pdf	survival	DTIC_AD0604643	5778449	usgov	DTIC AD0604643: THE PROBLEM OF AIMING AND EVASION
+https://archive.org/download/DTIC_AD0828902/DTIC_AD0828902.pdf	survival	DTIC_AD0828902	3566290	usgov	DTIC AD0828902: DETROIT CIVIL DEFENSE OPERATING SYSTEM SYNTHESIS. VOLUME 1. PRELIMINARY SYSTEM DESCRIPTION
+https://archive.org/download/DTIC_AD0600438/DTIC_AD0600438.pdf	survival	DTIC_AD0600438	920841	usgov	DTIC AD0600438: THE FALLOUT PROTECTION BOOKLET: (3) A METHODOLOGICAL COMPARISON OF PRE-TEST RESPONSES OF THOSE WHO RESPONDED, REFUSED, OR WERE NOT REACHABLE ON THE POST-TEST
+https://archive.org/download/DTIC_AD0782106/DTIC_AD0782106.pdf	survival	DTIC_AD0782106	4858979	usgov	DTIC AD0782106: Improved Fire Starter for All-Environment Survival Kit
+https://archive.org/download/DTIC_AD0782106/DTIC_AD0782106.epub	survival	DTIC_AD0782106	3105253	usgov	DTIC AD0782106: Improved Fire Starter for All-Environment Survival Kit
+https://archive.org/download/CAT10677106/CAT10677106.pdf	survival	CAT10677106	1213950	usgov	The effects of various cultural treatments on pink bollworm survival and emergence
+https://archive.org/download/DTIC_AD0704969/DTIC_AD0704969.pdf	survival	DTIC_AD0704969	2036862	usgov	DTIC AD0704969: CRITICAL COMBAT PERFORMANCES, KNOWLEDGES, AND SKILLS REQUIRED OF THE INFANTRY RIFLE PLATOON LEADER: CODE OF CONDUCT, EVASION, AND ESCAPE
+https://archive.org/download/DTIC_AD0841794/DTIC_AD0841794.pdf	survival	DTIC_AD0841794	10556570	usgov	DTIC AD0841794: AN EVALUATION OF ARMORED AIRCREW CRASH SURVIVAL SEATS
+https://archive.org/download/DTIC_AD0407011/DTIC_AD0407011.pdf	survival	DTIC_AD0407011	244028	usgov	DTIC AD0407011: T-33 AIRCRAFT SURVIVAL CONTAINER
+https://archive.org/download/DTIC_AD0407011/DTIC_AD0407011.epub	survival	DTIC_AD0407011	5399982	usgov	DTIC AD0407011: T-33 AIRCRAFT SURVIVAL CONTAINER
+https://archive.org/download/DTIC_AD1029760/DTIC_AD1029760.pdf	survival	DTIC_AD1029760	2600130	usgov	DTIC AD1029760: Why Does Mptcp Have To Make Things So Complicated : Cross Path Nids Evasion And Countermeasures
+https://archive.org/download/DTIC_ADA071369/DTIC_ADA071369.pdf	survival	DTIC_ADA071369	45177935	usgov	DTIC ADA071369: The Design of Subterranean Instrumentation Cables to Survive Large Amplitude Ground Motions.
+https://archive.org/download/DTIC_AD0673817/DTIC_AD0673817.pdf	survival	DTIC_AD0673817	4336206	usgov	DTIC AD0673817: STORAGE STABILITY OF CIVIL DEFENSE SHELTER RATIONS
+https://archive.org/download/DTIC_ADA100528/DTIC_ADA100528.pdf	survival	DTIC_ADA100528	5629474	usgov	DTIC ADA100528: Shipboard Training and Maintenance for Merchant Vessel Survival Equipment.
+https://archive.org/download/DTIC_ADA140358/DTIC_ADA140358.pdf	survival	DTIC_ADA140358	626100	usgov	DTIC ADA140358: Helicopter Pilot/Copilot Survival System.
+https://archive.org/download/DTIC_ADA140358/DTIC_ADA140358.epub	survival	DTIC_ADA140358	2842691	usgov	DTIC ADA140358: Helicopter Pilot/Copilot Survival System.
+https://archive.org/download/DTIC_AD0828903/DTIC_AD0828903.pdf	survival	DTIC_AD0828903	2852902	usgov	DTIC AD0828903: DETROIT CIVIL DEFENSE OPERATING SYSTEM SYNTHESIS. VOLUME 2. TECHNICAL APPROACH
+https://archive.org/download/DTIC_ADA239190/DTIC_ADA239190.pdf	survival	DTIC_ADA239190	5377988	usgov	DTIC ADA239190: Navigating Survival: Quality of Life Following Bone Marrow Transplantation.
+https://archive.org/download/DTIC_AD0624119/DTIC_AD0624119.pdf	survival	DTIC_AD0624119	1359061	usgov	DTIC AD0624119: UH-1D AIRCREW ARMORED SEAT: CRASH SURVIVAL ANALYSES
+https://archive.org/download/DTIC_ADA059998/DTIC_ADA059998.pdf	survival	DTIC_ADA059998	7433773	usgov	DTIC ADA059998: Estimation in the General Multiplicative Model for Survival.
+https://archive.org/download/DTIC_AD0714163/DTIC_AD0714163.pdf	survival	DTIC_AD0714163	2184114	usgov	DTIC AD0714163: Air Revitalization Unit for Sealed Survival Shelters
+https://archive.org/download/DTIC_AD0770281/DTIC_AD0770281.pdf	survival	DTIC_AD0770281	2686123	usgov	DTIC AD0770281: Toward the Definition of Escape and Capture Regions for a Two Aircraft Pursuit-Evasion Game
+https://archive.org/download/DTIC_AD0648467/DTIC_AD0648467.pdf	survival	DTIC_AD0648467	1228786	usgov	DTIC AD0648467: SENSIBLE AND LATENT HEAT LOSSES FROM OCCUPANTS OF SURVIVAL SHELTERS
+https://archive.org/download/DTIC_ADA037913/DTIC_ADA037913.pdf	survival	DTIC_ADA037913	6890807	usgov	DTIC ADA037913: Hostage Survival: Some Preliminary Observations,
+https://archive.org/download/DTIC_ADA037913/DTIC_ADA037913.epub	survival	DTIC_ADA037913	2990051	usgov	DTIC ADA037913: Hostage Survival: Some Preliminary Observations,
+https://archive.org/download/DTIC_ADA1005283/DTIC_ADA1005283.pdf	survival	DTIC_ADA1005283	5629474	usgov	DTIC ADA1005283: Shipboard Training and Maintenance for Merchant Vessel Survival Equipment.
+https://archive.org/download/DTIC_ADA151277/DTIC_ADA151277.pdf	survival	DTIC_ADA151277	1035297	usgov	DTIC ADA151277: An Analysis of Three Post Launch Evasion Strategies. Revised
+https://archive.org/download/DTIC_AD0661048/DTIC_AD0661048.pdf	survival	DTIC_AD0661048	1388519	usgov	DTIC AD0661048: A SUMMARY OF THE FINAL REPORT LOCAL GOVERNING BODIES: THEIR RELATION TO CIVIL DEFENSE
+https://archive.org/download/DTIC_AD0661060/DTIC_AD0661060.pdf	survival	DTIC_AD0661060	8194804	usgov	DTIC AD0661060: LOCAL GOVERNING BODIES: THEIR RELATION TO CIVIL DEFENSE
+https://archive.org/download/DTIC_AD0720225/DTIC_AD0720225.pdf	survival	DTIC_AD0720225	1887280	usgov	DTIC AD0720225: Survival Equipment (Aviation)
+https://archive.org/download/DTIC_AD0720225/DTIC_AD0720225.epub	survival	DTIC_AD0720225	157301	usgov	DTIC AD0720225: Survival Equipment (Aviation)
+https://archive.org/download/DTIC_ADA166674/DTIC_ADA166674.pdf	survival	DTIC_ADA166674	2788518	usgov	DTIC ADA166674: Were They Prepared? Escape and Evasion in Western Europe, 1942-1944
+https://archive.org/download/DTIC_ADA240179/DTIC_ADA240179.pdf	survival	DTIC_ADA240179	2365972	usgov	DTIC ADA240179: Can We Synchronize and Survive: A Look at Heavy Brigade Command and Control.
+https://archive.org/download/DTIC_AD0614824/DTIC_AD0614824.pdf	survival	DTIC_AD0614824	2059632	usgov	DTIC AD0614824: BULGUR WAFER AND ADJUNCTS FOR FALLOUT SHELTER RATIONS
+https://archive.org/download/DTIC_ADA142025/DTIC_ADA142025.pdf	survival	DTIC_ADA142025	186200	usgov	DTIC ADA142025: Desert Emergency - Lack of Water - How to Find and Collect Water. Plants and Human Survival in the Desert
+https://archive.org/download/DTIC_ADA268336/DTIC_ADA268336.pdf	survival	DTIC_ADA268336	922267	usgov	DTIC ADA268336: Survival After Total Body Irradiation: Effects of Irradiation of Exteriorized Small Intestine
+https://archive.org/download/DTIC_ADA074143/DTIC_ADA074143.pdf	survival	DTIC_ADA074143	6330005	usgov	DTIC ADA074143: A Physiological Evaluation of Canadian Forces Seat-Pack Survival Sleeping Bags.
+https://archive.org/download/DTIC_ADA074143/DTIC_ADA074143.epub	survival	DTIC_ADA074143	3797456	usgov	DTIC ADA074143: A Physiological Evaluation of Canadian Forces Seat-Pack Survival Sleeping Bags.
+https://archive.org/download/DTIC_ADA126859/DTIC_ADA126859.pdf	survival	DTIC_ADA126859	2165430	usgov	DTIC ADA126859: Ejection Seat-Mounted Crewmember Restraint Integrated with Survival Vest and Flotation.
+https://archive.org/download/DTIC_ADA151046/DTIC_ADA151046.pdf	survival	DTIC_ADA151046	365590	usgov	DTIC ADA151046: Helicopter Mobile Crewman Summer Survival System.
+https://archive.org/download/DTIC_ADA151046/DTIC_ADA151046.epub	survival	DTIC_ADA151046	2432939	usgov	DTIC ADA151046: Helicopter Mobile Crewman Summer Survival System.
+https://archive.org/download/DTIC_AD0297348/DTIC_AD0297348.pdf	survival	DTIC_AD0297348	1111544	usgov	DTIC AD0297348: STUDIES AT MODERATE HYPOTHERMIC TEMPERATURES OF FACTORS AFFECTING SURVIVAL UNDER PROLONGED HYPOTHERMIA
+https://archive.org/download/DTIC_AD0405687/DTIC_AD0405687.pdf	survival	DTIC_AD0405687	365997	usgov	DTIC AD0405687: OPTIMUM EVASION VERSUS SYSTEMATIC SEARCH
+https://archive.org/download/DTIC_AD0637153/DTIC_AD0637153.pdf	survival	DTIC_AD0637153	1469714	usgov	DTIC AD0637153: AN EVALUATION OF THE FOAMED NEOPRENE 'DIVER'S WET SUIT' AS A SURVIVAL GARMENT FOR HELICOPTER AIRCREWS
+https://archive.org/download/DTIC_AD1009884/DTIC_AD1009884.pdf	survival	DTIC_AD1009884	1096885	usgov	DTIC AD1009884: EBOV Protection Is Supported by T Cell-Dependent Humoral Responses But Is Not Requisite for Survival
+https://archive.org/download/DTIC_ADA1005284/DTIC_ADA1005284.pdf	survival	DTIC_ADA1005284	5629474	usgov	DTIC ADA1005284: Shipboard Training and Maintenance for Merchant Vessel Survival Equipment.
+https://archive.org/download/DTIC_AD0769228/DTIC_AD0769228.pdf	survival	DTIC_AD0769228	1229139	usgov	DTIC AD0769228: The Discrete Evasion Game
+https://archive.org/download/DTIC_ADA1005289/DTIC_ADA1005289.pdf	survival	DTIC_ADA1005289	5629474	usgov	DTIC ADA1005289: Shipboard Training and Maintenance for Merchant Vessel Survival Equipment.
+https://archive.org/download/DTIC_AD0628679/DTIC_AD0628679.pdf	survival	DTIC_AD0628679	825357	usgov	DTIC AD0628679: IMPACT TEST METHODS FOR HELMETS. SUPPLEMENT I TO HELMET DESIGN CRITERIA FOR IMPROVED CRASH SURVIVAL
+https://archive.org/download/DTIC_ADA061516/DTIC_ADA061516.pdf	survival	DTIC_ADA061516	8219318	usgov	DTIC ADA061516: Effects of Pentobarbital Anesthesia on Survival, 'Escherichia coli' Clearance, Glucose and Leukocyte Concentration in Dogs Subjected to LD100. 'Escherichia coli'.
+https://archive.org/download/DTIC_ADA095731/DTIC_ADA095731.pdf	survival	DTIC_ADA095731	2065465	usgov	DTIC ADA095731: Emergency Preparedness Education Program for Public Schools.
+https://archive.org/download/DTIC_ADA103781/DTIC_ADA103781.pdf	survival	DTIC_ADA103781	2192641	usgov	DTIC ADA103781: Continuous estimates of Survival through Eight Years of Service Using FY 1979 Cross-Sectional Data.
+https://archive.org/download/DTIC_ADA119132/DTIC_ADA119132.pdf	survival	DTIC_ADA119132	4760761	usgov	DTIC ADA119132: An Evaluation of Sea Turtle Populations and Survival Status on Vieques Island.
+https://archive.org/download/DTIC_ADA226778/DTIC_ADA226778.pdf	survival	DTIC_ADA226778	1735922	usgov	DTIC ADA226778: Positron Survival in Type II Supernovae
+https://archive.org/download/DTIC_AD0812994/DTIC_AD0812994.pdf	survival	DTIC_AD0812994	4617901	usgov	DTIC AD0812994: STUDY AND DESIGN OF ARMORED AIRCREW CRASH SURVIVAL SEAT
+https://archive.org/download/DTIC_AD1012277/DTIC_AD1012277.pdf	survival	DTIC_AD1012277	3846858	usgov	DTIC AD1012277: Alterations in the Local Axonal Environment Influence Target Reinnervation and Neuronal Survival After PostnataI Axotomy
+https://archive.org/download/DTIC_ADA1005287/DTIC_ADA1005287.pdf	survival	DTIC_ADA1005287	5629474	usgov	DTIC ADA1005287: Shipboard Training and Maintenance for Merchant Vessel Survival Equipment.
+https://archive.org/download/DTIC_AD0775681/DTIC_AD0775681.pdf	survival	DTIC_AD0775681	1492017	usgov	DTIC AD0775681: Human Factors Evaluation of Submarine Escape. IV: Evaluation of Submarine Escape and Survival Equipment Mark 1 Mod 0 for Side and Top Egress with Two Disconnect Systems
+https://archive.org/download/DTIC_AD1024690/DTIC_AD1024690.pdf	survival	DTIC_AD1024690	5591736	usgov	DTIC AD1024690: B-Cell Activation and Tolerance Mediated by B-Cell Receptor, Toll-Like Receptor, and Survival Signal Crosstalk in SLE Pathogenesis
+https://archive.org/download/DTIC_ADA128324/DTIC_ADA128324.pdf	survival	DTIC_ADA128324	1762203	usgov	DTIC ADA128324: Exploratory Field Investigation of Ground Penetration by Aerial Planting-Darts and Subsequent Germinant Survival (Etudes Preliminaires sur le Terrain de la Penetration et de la Survie 
+https://archive.org/download/DTIC_ADA227256/DTIC_ADA227256.pdf	survival	DTIC_ADA227256	1373746	usgov	DTIC ADA227256: An Iterative Linear Programming Approach to Solving Large Cumulative Search-Evasion Games
+https://archive.org/download/DTIC_AD0613608/DTIC_AD0613608.pdf	survival	DTIC_AD0613608	4011696	usgov	DTIC AD0613608: ARGUMENTATIVE THEMES IN CIVIL DEFENSE: (1) A CONTENT ANALYSIS OF THE NEW YORK TIMES
+https://archive.org/download/DTIC_AD0727718/DTIC_AD0727718.pdf	survival	DTIC_AD0727718	1421891	usgov	DTIC AD0727718: Survival Geography of Iraq
+https://archive.org/download/DTIC_AD1002636/DTIC_AD1002636.pdf	survival	DTIC_AD1002636	435484	usgov	DTIC AD1002636: Mitochondrial Based Treatments that Prevent Post Traumatic Osteoarthritis in a Translational Large Animal Intraarticular Fracture Survival Model
+https://archive.org/download/DTIC_ADA171008/DTIC_ADA171008.pdf	survival	DTIC_ADA171008	1174101	usgov	DTIC ADA171008: Surviving Helicopter Crashes at Sea: A Review of Studies of Underwater Egress From Helicopters
+https://archive.org/download/DTIC_ADA276827/DTIC_ADA276827.pdf	survival	DTIC_ADA276827	1473797	usgov	DTIC ADA276827: Strategies for Survival in the New Environmental Era
+https://archive.org/download/DTIC_ADA283609/DTIC_ADA283609.pdf	survival	DTIC_ADA283609	2791733	usgov	DTIC ADA283609: US Army's Delay Entry Program: A Survival Study
+https://archive.org/download/DTIC_ADA328288/DTIC_ADA328288.pdf	survival	DTIC_ADA328288	521890	usgov	DTIC ADA328288: A Result on a 2x2 Survival Experiment.
+https://archive.org/download/DTIC_AD0741454/DTIC_AD0741454.pdf	survival	DTIC_AD0741454	2820707	usgov	DTIC AD0741454: Pursuit-Evasion Games Between Two Spacecraft in Near-Earth Orbit
+https://archive.org/download/DTIC_ADA266603/DTIC_ADA266603.pdf	survival	DTIC_ADA266603	1230918	usgov	DTIC ADA266603: Evaluation of the KIN and DUI Passive Thermal Survival Systems: Deep Dive 92
+https://archive.org/download/DTIC_AD0276039/DTIC_AD0276039.pdf	survival	DTIC_AD0276039	1138901	usgov	DTIC AD0276039: TISSUE TRANSPLANTATION: HOMOGRAFT ANTIGENS, IONIZING RADIATION AND OTHER FACTORS INFLUENCING HOMOGRAFT SURVIVAL
+https://archive.org/download/DTIC_AD0778222/DTIC_AD0778222.pdf	survival	DTIC_AD0778222	1272926	usgov	DTIC AD0778222: Effect on Insect Survival, Rheological Characteristics, and Baking Properties of Flour Canned in Air or in Nitrogen Atmospheres
+https://archive.org/download/DTIC_ADA140400/DTIC_ADA140400.pdf	survival	DTIC_ADA140400	1224346	usgov	DTIC ADA140400: The Effect of an Electrical Left Ventricular Assist Device on Red Blood Cell and Platelet Survival in the Cow.
+https://archive.org/download/DTIC_ADA156509/DTIC_ADA156509.pdf	survival	DTIC_ADA156509	197688	usgov	DTIC ADA156509: Desert Emergency - Lack of Water - How to Find and Collect Water. Plants and Human Survival in the Desert.
+https://archive.org/download/DTIC_AD0651058/DTIC_AD0651058.pdf	survival	DTIC_AD0651058	1370899	usgov	DTIC AD0651058: DEVELOPMENT OF INFLATABLE FRAME FOR ARCTIC SURVIVAL SHELTER
+https://archive.org/download/DTIC_ADA092596/DTIC_ADA092596.pdf	survival	DTIC_ADA092596	1258848	usgov	DTIC ADA092596: Three Dimensional Optimal Pursuit and Evasion with Bounded Controls.
+https://archive.org/download/DTIC_ADA098172/DTIC_ADA098172.pdf	survival	DTIC_ADA098172	5207700	usgov	DTIC ADA098172: Analysis of Effectiveness of Civil Defense Program Elements.
+https://archive.org/download/DTIC_ADA1005281/DTIC_ADA1005281.pdf	survival	DTIC_ADA1005281	5629474	usgov	DTIC ADA1005281: Shipboard Training and Maintenance for Merchant Vessel Survival Equipment.
+https://archive.org/download/DTIC_ADA131005/DTIC_ADA131005.pdf	survival	DTIC_ADA131005	186020	usgov	DTIC ADA131005: Improved Survival with Aggressive Surgical Management of Noncandidal Fungal Infections of the Burn Wound
+https://archive.org/download/DTIC_ADA269353/DTIC_ADA269353.pdf	survival	DTIC_ADA269353	2077868	usgov	DTIC ADA269353: Molecular Genetic Analysis of Parasite Survival in P. Falciparum Malaria
+https://archive.org/download/DTIC_AD0711325/DTIC_AD0711325.pdf	survival	DTIC_AD0711325	5876832	usgov	DTIC AD0711325: UNITED STATES COAST GUARD OCEANOGRAPHIC SENSOR STUDY. VOLUME 3. THE SURVIVAL ENVIRONMENT FOR OCEANOGRAPHIC AND METEOROLOGICAL SENSORS
+https://archive.org/download/DTIC_ADA1005286/DTIC_ADA1005286.pdf	survival	DTIC_ADA1005286	5629474	usgov	DTIC ADA1005286: Shipboard Training and Maintenance for Merchant Vessel Survival Equipment.
+https://archive.org/download/DTIC_ADA207571/DTIC_ADA207571.pdf	survival	DTIC_ADA207571	1308327	usgov	DTIC ADA207571: Cumulative Search-Evasion Games (CSEGs)
+https://archive.org/download/DTIC_ADA1005288/DTIC_ADA1005288.pdf	survival	DTIC_ADA1005288	5629474	usgov	DTIC ADA1005288: Shipboard Training and Maintenance for Merchant Vessel Survival Equipment.
+https://archive.org/download/DTIC_ADA103332/DTIC_ADA103332.pdf	survival	DTIC_ADA103332	1849835	usgov	DTIC ADA103332: The Polish Crisis of 1980 and the Politics of Survival,
+https://archive.org/download/DTIC_ADA253312/DTIC_ADA253312.pdf	survival	DTIC_ADA253312	1927928	usgov	DTIC ADA253312: Molecular Genetic Analysis of Parasite Survival in P. falciparum Malaria.
+https://archive.org/download/DTIC_AD0711055/DTIC_AD0711055.pdf	survival	DTIC_AD0711055	4512680	usgov	DTIC AD0711055: APPLICATION OF DIFFERENTIAL GAME THEORY TO PURSUIT-EVASION PROBLEMS OF TWO AIRCRAFT
+https://archive.org/download/DTIC_AD1002338/DTIC_AD1002338.pdf	survival	DTIC_AD1002338	1348041	usgov	DTIC AD1002338: Data-Driven Lead-Acid Battery Prognostics Using Random Survival Forests
+https://archive.org/download/DTIC_ADA070289/DTIC_ADA070289.pdf	survival	DTIC_ADA070289	1724323	usgov	DTIC ADA070289: Cold Water Survival Suits for Aircrew
+https://archive.org/download/DTIC_ADA111721/DTIC_ADA111721.pdf	survival	DTIC_ADA111721	1004931	usgov	DTIC ADA111721: Jackknifing the Kaplan-Meier Survival Estimator for Censored Data: Simulation Results and Asymptotic Analysis.
+https://archive.org/download/DTIC_ADA241093/DTIC_ADA241093.pdf	survival	DTIC_ADA241093	2590683	usgov	DTIC ADA241093: Officer Clubs--Options for Survival
+https://archive.org/download/DTIC_AD0766561/DTIC_AD0766561.pdf	survival	DTIC_AD0766561	7725792	usgov	DTIC AD0766561: Debris Clearing Times Affecting Critical Survival Actions
+https://archive.org/download/DTIC_AD1044397/DTIC_AD1044397.pdf	survival	DTIC_AD1044397	1429447	usgov	DTIC AD1044397: Improving Survival and Promoting Respiratory Motor Function After Cervical Spinal Cord Injury
+https://archive.org/download/DTIC_AD1050507/1050507.pdf	survival	DTIC_AD1050507	4740634	usgov	DTIC AD1050507: B-Cell Activation and Tolerance Mediated by B-Cell Receptor, Toll-Like Receptor, and Survival Signal Crosstalk in SLE Pathogenesis
+https://archive.org/download/DTIC_ADA079418/DTIC_ADA079418.pdf	survival	DTIC_ADA079418	1422384	usgov	DTIC ADA079418: Nonparametric Methods for Estimating Recruit Survival with Cross-Sectional Data.
+https://archive.org/download/DTIC_ADA261716/DTIC_ADA261716.pdf	survival	DTIC_ADA261716	5858005	usgov	DTIC ADA261716: Policy Decisions for Strategic Shipyard Survival
+https://archive.org/download/DTIC_ADA227553/DTIC_ADA227553.pdf	survival	DTIC_ADA227553	786089	usgov	DTIC ADA227553: Therapeutic Administration of Recombinant Human Granulocyte Colony-Stimulating Factor Accelerates Hemopoietic Regeneration and Enhances Survival in a Murine Model of Radiation-Induced 
+https://archive.org/download/DTIC_ADA224534/DTIC_ADA224534.pdf	survival	DTIC_ADA224534	863872	usgov	DTIC ADA224534: Effects of Poloxamer 188 on Hemodynamics and Survival in a Rabbit Model of Hemorrhagic Shock and Retransfusion
+https://archive.org/download/DTIC_ADA228228/DTIC_ADA228228.pdf	survival	DTIC_ADA228228	2164411	usgov	DTIC ADA228228: Ion Movements in Shock in Relation to Survival and Its Modifications
+https://archive.org/download/DTIC_AD0674860/DTIC_AD0674860.pdf	survival	DTIC_AD0674860	880798	usgov	DTIC AD0674860: EFFECT OF PREIRRADIATION AND POSTIRRADIATION ERYTHROPOIETIC STIMULATION ON SURVIVAL FOLLOWING EXPOSURE TO HEMATOPOIETICALLY LETHAL X-RAY DOSES
+https://archive.org/download/DTIC_AD1031776/DTIC_AD1031776.pdf	survival	DTIC_AD1031776	1034001	usgov	DTIC AD1031776: Mitochondrial-Based Treatments that Prevent Post-Traumatic Osteoarthritis in a Translational Large Animal Intraarticular Fracture Survival Model
+https://archive.org/download/DTIC_ADA1005280/DTIC_ADA1005280.pdf	survival	DTIC_ADA1005280	5629474	usgov	DTIC ADA1005280: Shipboard Training and Maintenance for Merchant Vessel Survival Equipment.
+https://archive.org/download/DTIC_AD0779365/DTIC_AD0779365.pdf	survival	DTIC_AD0779365	1191494	usgov	DTIC AD0779365: US Policy Concerning Israel's Survival in View of the Energy Crisis
+https://archive.org/download/DTIC_ADA136811/DTIC_ADA136811.pdf	survival	DTIC_ADA136811	1754796	usgov	DTIC ADA136811: Near-Optimal Finite Solutions to the Three and Four Step Discrete Evasion Games
+https://archive.org/download/DTIC_AD0729777/DTIC_AD0729777.pdf	survival	DTIC_AD0729777	6180458	usgov	DTIC AD0729777: Toward a Differential Game Solution to a Practical Two Aircraft Pursuit-Evasion Problem in Three-Dimensional Space
+https://archive.org/download/DTIC_AD1012608/DTIC_AD1012608.pdf	survival	DTIC_AD1012608	3779887	usgov	DTIC AD1012608: Graft-Impacted Tacrolimus-Eluting Hydrogels Prolong Survival After Vascularized Composite Allografts
+https://archive.org/download/DTIC_ADA1005285/DTIC_ADA1005285.pdf	survival	DTIC_ADA1005285	5629474	usgov	DTIC ADA1005285: Shipboard Training and Maintenance for Merchant Vessel Survival Equipment.
+https://archive.org/download/DTIC_ADA1033320/DTIC_ADA1033320.pdf	survival	DTIC_ADA1033320	1849835	usgov	DTIC ADA1033320: The Polish Crisis of 1980 and the Politics of Survival,
+https://archive.org/download/DTIC_ADA225294/DTIC_ADA225294.pdf	survival	DTIC_ADA225294	863810	usgov	DTIC ADA225294: Factors That Contribute to Neuron Survival and Neuron Growth after Injury
+https://archive.org/download/DTIC_AD1003451/DTIC_AD1003451.pdf	survival	DTIC_AD1003451	3710273	usgov	DTIC AD1003451: B-Cell Activation and Tolerance Mediated by B-Cell Receptor, Toll-Like Receptor and Survival Signal Crosstalk in SLE Pathogenesis
+https://archive.org/download/DTIC_ADA1033321/DTIC_ADA1033321.pdf	survival	DTIC_ADA1033321	1849835	usgov	DTIC ADA1033321: The Polish Crisis of 1980 and the Politics of Survival,
+https://archive.org/download/DTIC_ADA1033325/DTIC_ADA1033325.pdf	survival	DTIC_ADA1033325	1849835	usgov	DTIC ADA1033325: The Polish Crisis of 1980 and the Politics of Survival,
+https://archive.org/download/DTIC_ADA277327/DTIC_ADA277327.pdf	survival	DTIC_ADA277327	968290	usgov	DTIC ADA277327: Evaluation of Oxygen Levels Within the Diving Unlimited International (DUI) Passive Thermal Survival System
+https://archive.org/download/DTIC_ADA1037812/DTIC_ADA1037812.pdf	survival	DTIC_ADA1037812	2192641	usgov	DTIC ADA1037812: Continuous estimates of Survival through Eight Years of Service Using FY 1979 Cross-Sectional Data.
+https://archive.org/download/DTIC_ADA1037813/DTIC_ADA1037813.pdf	survival	DTIC_ADA1037813	2192641	usgov	DTIC ADA1037813: Continuous estimates of Survival through Eight Years of Service Using FY 1979 Cross-Sectional Data.
+https://archive.org/download/DTIC_ADA274856/DTIC_ADA274856.pdf	survival	DTIC_ADA274856	2152759	usgov	DTIC ADA274856: Optimizing Emergency Sorties and Storm Evasion Planning
+https://archive.org/download/DTIC_AD0628680/DTIC_AD0628680.pdf	survival	DTIC_AD0628680	1708941	usgov	DTIC AD0628680: TEST RESULTS - HEMISPHERICAL SPECIMENS, SUPPLEMENT II TO HELMET DESIGN CRITERIA FOR IMPROVED CRASH SURVIVAL
+https://archive.org/download/DTIC_AD1020631/DTIC_AD1020631.pdf	survival	DTIC_AD1020631	1389334	usgov	DTIC AD1020631: Improving Survival and Promoting Respiratory Motor Function after Cervical Spinal Cord Injury
+https://archive.org/download/DTIC_ADA144006/DTIC_ADA144006.pdf	survival	DTIC_ADA144006	816979	usgov	DTIC ADA144006: Managing Microcomputers: A Survival Kit for Functional Managers
+https://archive.org/download/DTIC_AD0687364/DTIC_AD0687364.pdf	survival	DTIC_AD0687364	282414	usgov	DTIC AD0687364: PLAGUE BACILLUS: SURVIVAL WITHIN HOST PHAGOCYTES
+https://archive.org/download/DTIC_AD0733947/DTIC_AD0733947.pdf	survival	DTIC_AD0733947	1948810	usgov	DTIC AD0733947: Study of the Use of a Corn Flake Crumb Matrix for Corn Flake Bar, Survival Type
+https://archive.org/download/DTIC_ADA089305/DTIC_ADA089305.pdf	survival	DTIC_ADA089305	808356	usgov	DTIC ADA089305: Development and Testing of Packaging for Commercial Shipment of Survival Support Device,
+https://archive.org/download/DTIC_ADA126625/DTIC_ADA126625.pdf	survival	DTIC_ADA126625	553324	usgov	DTIC ADA126625: Methods of Library Survival: The Journal Resource Sharing Network,
+https://archive.org/download/DTIC_ADA126625/DTIC_ADA126625.epub	survival	DTIC_ADA126625	252871	usgov	DTIC ADA126625: Methods of Library Survival: The Journal Resource Sharing Network,
+https://archive.org/download/DTIC_AD1050435/1050435.pdf	survival	DTIC_AD1050435	700259	usgov	DTIC AD1050435: Application of Combined Cardioprotective Agents to Preserve Organ Function and Improve Survival during Experimental Hemorrhagic Shock
+https://archive.org/download/DTIC_ADA072127/DTIC_ADA072127.pdf	survival	DTIC_ADA072127	32405204	usgov	DTIC ADA072127: First-Term Survival and Reenlistment Chances for Navy Ratings and a Strategy for Their Use.
+https://archive.org/download/DTIC_ADA217727/DTIC_ADA217727.pdf	survival	DTIC_ADA217727	488956	usgov	DTIC ADA217727: Dose Effect of HSD (Hypertonic Saline/Dextran) Survival Following Hemorrhage
+https://archive.org/download/DTIC_ADA242343/DTIC_ADA242343.pdf	survival	DTIC_ADA242343	937445	usgov	DTIC ADA242343: Bayesian Computations in Survival Models via the Gibbs Sampler
+https://archive.org/download/DTIC_ADA1033329/DTIC_ADA1033329.pdf	survival	DTIC_ADA1033329	1849835	usgov	DTIC ADA1033329: The Polish Crisis of 1980 and the Politics of Survival,
+https://archive.org/download/DTIC_AD1034022/DTIC_AD1034022.pdf	survival	DTIC_AD1034022	1191656	usgov	DTIC AD1034022: Regulatory T Cell-Enriching Microparticles for Promoting Vascularized Composite Allotransplant Survival
+https://archive.org/download/DTIC_ADA063999/DTIC_ADA063999.pdf	survival	DTIC_ADA063999	600152	usgov	DTIC ADA063999: Testing Hypotheses for Effects on Survival by the Analysis of a Matched Retrospective Design
+https://archive.org/download/DTIC_ADA179090/DTIC_ADA179090.pdf	survival	DTIC_ADA179090	183405	usgov	DTIC ADA179090: Blood Lactate as a Prognosticator of Survival Following Hemorrhage in Conscious Swine.
+https://archive.org/download/DTIC_ADA233077/DTIC_ADA233077.pdf	survival	DTIC_ADA233077	588872	usgov	DTIC ADA233077: Analysis of Sensor Resources Deployment in an Escape/Evasion Scenario
+https://archive.org/download/DTIC_ADA091038/DTIC_ADA091038.pdf	survival	DTIC_ADA091038	596083	usgov	DTIC ADA091038: Shock Models with Phase Type Survival and Shock Resistance.
+https://archive.org/download/DTIC_ADA091038/DTIC_ADA091038.epub	survival	DTIC_ADA091038	804272	usgov	DTIC ADA091038: Shock Models with Phase Type Survival and Shock Resistance.
+https://archive.org/download/DTIC_ADA1037815/DTIC_ADA1037815.pdf	survival	DTIC_ADA1037815	2192641	usgov	DTIC ADA1037815: Continuous estimates of Survival through Eight Years of Service Using FY 1979 Cross-Sectional Data.
+https://archive.org/download/DTIC_ADA1037816/DTIC_ADA1037816.pdf	survival	DTIC_ADA1037816	2192641	usgov	DTIC ADA1037816: Continuous estimates of Survival through Eight Years of Service Using FY 1979 Cross-Sectional Data.
+https://archive.org/download/DTIC_ADA1037818/DTIC_ADA1037818.pdf	survival	DTIC_ADA1037818	2192641	usgov	DTIC ADA1037818: Continuous estimates of Survival through Eight Years of Service Using FY 1979 Cross-Sectional Data.
+https://archive.org/download/DTIC_ADA243840/DTIC_ADA243840.pdf	survival	DTIC_ADA243840	1080240	usgov	DTIC ADA243840: More on Cumulative Search Evasion Games
+https://archive.org/download/DTIC_ADA259399/DTIC_ADA259399.pdf	survival	DTIC_ADA259399	762074	usgov	DTIC ADA259399: CD4 Lymphocyte Decline and Survival in Human Immunodeficiency Virus Infection
+https://archive.org/download/DTIC_ADA1033322/DTIC_ADA1033322.pdf	survival	DTIC_ADA1033322	1849835	usgov	DTIC ADA1033322: The Polish Crisis of 1980 and the Politics of Survival,
+https://archive.org/download/DTIC_ADA1037810/DTIC_ADA1037810.pdf	survival	DTIC_ADA1037810	2192641	usgov	DTIC ADA1037810: Continuous estimates of Survival through Eight Years of Service Using FY 1979 Cross-Sectional Data.
+https://archive.org/download/DTIC_ADA183846/DTIC_ADA183846.pdf	survival	DTIC_ADA183846	872734	usgov	DTIC ADA183846: Development of a Target Evasion Region Having a Conditional Gaussian Distribution
+https://archive.org/download/DTIC_ADA1033323/DTIC_ADA1033323.pdf	survival	DTIC_ADA1033323	1849835	usgov	DTIC ADA1033323: The Polish Crisis of 1980 and the Politics of Survival,
+https://archive.org/download/DTIC_ADA1033327/DTIC_ADA1033327.pdf	survival	DTIC_ADA1033327	1849835	usgov	DTIC ADA1033327: The Polish Crisis of 1980 and the Politics of Survival,
+https://archive.org/download/DTIC_ADA1037817/DTIC_ADA1037817.pdf	survival	DTIC_ADA1037817	2192641	usgov	DTIC ADA1037817: Continuous estimates of Survival through Eight Years of Service Using FY 1979 Cross-Sectional Data.
+https://archive.org/download/DTIC_ADA1033328/DTIC_ADA1033328.pdf	survival	DTIC_ADA1033328	1849835	usgov	DTIC ADA1033328: The Polish Crisis of 1980 and the Politics of Survival,
+https://archive.org/download/DTIC_ADA1033326/DTIC_ADA1033326.pdf	survival	DTIC_ADA1033326	1849835	usgov	DTIC ADA1033326: The Polish Crisis of 1980 and the Politics of Survival,
+https://archive.org/download/DTIC_ADA1037814/DTIC_ADA1037814.pdf	survival	DTIC_ADA1037814	2192641	usgov	DTIC ADA1037814: Continuous estimates of Survival through Eight Years of Service Using FY 1979 Cross-Sectional Data.
+https://archive.org/download/DTIC_ADA1037811/DTIC_ADA1037811.pdf	survival	DTIC_ADA1037811	2192641	usgov	DTIC ADA1037811: Continuous estimates of Survival through Eight Years of Service Using FY 1979 Cross-Sectional Data.
+https://archive.org/download/DTIC_ADA1033324/DTIC_ADA1033324.pdf	survival	DTIC_ADA1033324	1849835	usgov	DTIC ADA1033324: The Polish Crisis of 1980 and the Politics of Survival,
+https://archive.org/download/DTIC_ADA1037819/DTIC_ADA1037819.pdf	survival	DTIC_ADA1037819	2192641	usgov	DTIC ADA1037819: Continuous estimates of Survival through Eight Years of Service Using FY 1979 Cross-Sectional Data.
+https://archive.org/download/1998-04-09-justice-for-the-victims-of-genocide-poster/1998-04-09%20Justice%20for%20the%20Victims%20of%20Genocide%20Poster.pdf	survival	1998-04-09-justice-for-the-victims-of-genocide-poster	506327	usgov	The Question of Survival Hunter-Gatherer Communities in Indian Pre-History and Early History Poster

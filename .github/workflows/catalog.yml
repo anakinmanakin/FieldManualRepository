@@ -1,0 +1,36 @@
+name: Build library catalog
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_per_topic:
+        description: "Most items to keep per topic"
+        default: "1500"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Search the Internet Archive and pick public-domain items
+        env:
+          MAX_PER_TOPIC: ${{ inputs.max_per_topic || '1500' }}
+        run: python3 scripts/build_catalog.py
+      - name: Commit catalog
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add catalog logs
+          git diff --cached --quiet || git commit -m "Update library catalog"
+          git push

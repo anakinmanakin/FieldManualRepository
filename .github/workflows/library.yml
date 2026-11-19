@@ -1,0 +1,33 @@
+name: Download library
+
+on:
+  workflow_dispatch:
+    inputs:
+      budget_gb:
+        description: "Stop when the repository's files reach this many GB"
+        default: "4"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Download catalog files (commits and pushes in batches)
+        env:
+          BUDGET_GB: ${{ inputs.budget_gb || '4' }}
+          MAX_MINUTES: "320"
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          python3 scripts/mirror_manifest.py

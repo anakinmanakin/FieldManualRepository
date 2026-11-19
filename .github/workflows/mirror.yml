@@ -1,0 +1,44 @@
+name: Mirror Field Manual Vault
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/mirror.yml"
+  workflow_dispatch:        # "Run workflow" button on the Actions tab
+  schedule:
+    - cron: "17 6 * * 1"    # every Monday, picks up newly added manuals
+
+permissions:
+  contents: write
+
+concurrency:
+  group: mirror
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Download manuals
+        run: python3 scripts/fetch_vault.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
+          git add -A files INDEX.md sources.tsv logs
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git commit -m "Update mirrored field manuals"
+          git push

@@ -1,25 +1,46 @@
 # Field Manual Repository
 
-A mirror of the original public-domain military field manuals (PDF and EPUB) that
-T.REX ARMS makes freely available in its
-[Field Manual Vault](https://www.trex-arms.com/field-manual-vault).
+A library of public-domain survival, off-grid and field manuals, sorted by topic
+and named by title. See **[LIBRARY.md](LIBRARY.md)** for the full list with
+links to each file and its source.
 
-- **[INDEX.md](INDEX.md)** lists every file with its size and original link.
-- **`files/`** holds the manuals.
-- **`logs/last-run.md`** shows what the most recent update did.
+## Layout
 
-## Status
+```
+library/
+  survival/              medical-first-aid/     water/
+  food-preservation/     foraging-hunting/      farming-gardening/
+  navigation-fieldcraft/ shelter-building/      energy-tools/
+  comms/                 tactics-training/      fitness-leadership/
+```
 
-This repository holds the 25 manuals featured on the vault's main page, each as a
-PDF and an EPUB. The vault lists about 6,500 publications in total, but the site's
-robots.txt disallows automated access to its category and manual pages, so the
-rest of the library is not mirrored here.
+## Where the files come from
 
-The workflow in `.github/workflows/mirror.yml` (`scripts/fetch_vault.py`) follows
-robots.txt and only runs when started by hand from the **Actions** tab.
+- **T.REX ARMS Field Manual Vault** — the 25 manuals featured on its main page,
+  each as PDF and EPUB. The site's robots.txt disallows automated access to the
+  rest of the vault, so nothing more is taken from it.
+- **Internet Archive** — found through its official search API and kept only
+  with a clear public-domain basis:
+  - `usgov` — published by a US federal government body
+  - `pre1931` — published in 1930 or earlier
+  - `pdmark` — marked public domain by the Archive
 
-## Note on rights
+The basis is a best-effort reading of each item's catalog record. Check any
+individual file before relying on its status.
 
-The originals are U.S. government publications, which are generally in the public
-domain. T.REX ARMS's own improved reprint editions are sold separately and are
-not part of this mirror. Check the status of any individual file before reuse.
+## How it works
+
+Two GitHub Actions, both started by hand from the **Actions** tab:
+
+1. **Build library catalog** (`scripts/build_catalog.py`) searches the Internet
+   Archive by topic and writes `catalog/manifest.tsv` (what to download) and
+   `catalog/candidates.tsv` (every hit, with why it was kept or rejected).
+2. **Download library** (`scripts/mirror_manifest.py`) downloads the manifest
+   into `library/<topic>/`, follows each site's robots.txt, and pushes in batches.
+
+## Continuing in another repository
+
+The job stops when this repository reaches about 4 GB and writes everything it
+hasn't downloaded to `catalog/remaining.tsv`. To continue in a new repository,
+copy `scripts/` and `.github/` there, save `catalog/remaining.tsv` as
+`catalog/queue.tsv`, and run **Download library**.

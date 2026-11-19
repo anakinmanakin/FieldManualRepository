@@ -5,7 +5,7 @@ on:
     inputs:
       max_per_topic:
         description: "Most items to keep per topic"
-        default: "1500"
+        default: "600"
 
 permissions:
   contents: write
@@ -23,14 +23,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Search the Internet Archive and pick public-domain items
+      - name: Search the Internet Archive and pick public-domain items (saves after each topic)
         env:
-          MAX_PER_TOPIC: ${{ inputs.max_per_topic || '1500' }}
-        run: python3 scripts/build_catalog.py
-      - name: Commit catalog
+          MAX_PER_TOPIC: ${{ inputs.max_per_topic || '600' }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
-          git add catalog logs
-          git diff --cached --quiet || git commit -m "Update library catalog"
-          git push
+          python3 scripts/build_catalog.py

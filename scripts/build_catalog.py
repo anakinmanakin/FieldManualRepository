@@ -15,6 +15,7 @@ An item is kept only with a clear public-domain basis:
 import json
 import os
 import re
+import subprocess
 import time
 import urllib.parse
 import urllib.request
@@ -24,7 +25,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CATALOG = os.path.join(ROOT, "catalog")
 LOGS = os.path.join(ROOT, "logs")
 FILE_LIMIT = 95 * 1024 * 1024
-MAX_PER_TOPIC = int(os.environ.get("MAX_PER_TOPIC", "1500"))
+MAX_PER_TOPIC = int(os.environ.get("MAX_PER_TOPIC", "600"))
 
 # Topic folders, in download priority order. Each is (folder, search terms).
 TOPICS = [
@@ -165,6 +166,23 @@ def pick_files(identifier):
     return [(n, sizes.get(n, 0)) for n in chosen]
 
 
+def save(manifest, cand_rows):
+    with open(os.path.join(CATALOG, "manifest.tsv"), "w", encoding="utf-8") as f:
+        f.write("url\tfolder\tidentifier\tsize\tbasis\ttitle\n")
+        for r in manifest:
+            f.write("\t".join(r) + "\n")
+    with open(os.path.join(CATALOG, "candidates.tsv"), "w", encoding="utf-8") as f:
+        f.write("folder\tidentifier\ttitle\tyear\tpublisher\tbasis\treason\n")
+        for r in cand_rows:
+            f.write("\t".join(r) + "\n")
+    if os.environ.get("GITHUB_ACTIONS") == "true":
+        subprocess.run(["git", "add", "catalog", "logs"], cwd=ROOT)
+        if subprocess.run(["git", "diff", "--cached", "--quiet"], cwd=ROOT).returncode:
+            subprocess.run(["git", "commit", "-q", "-m", "Update library catalog"], cwd=ROOT)
+            subprocess.run(["git", "pull", "-q", "--rebase"], cwd=ROOT)
+            subprocess.run(["git", "push", "-q"], cwd=ROOT)
+
+
 def main():
     os.makedirs(CATALOG, exist_ok=True)
     os.makedirs(LOGS, exist_ok=True)
@@ -205,20 +223,15 @@ def main():
             for name, size in picks:
                 url = f"https://archive.org/download/{urllib.parse.quote(ident)}/{urllib.parse.quote(name)}"
                 manifest.append([url, folder, ident, str(size), basis, title.replace("\t", " ")[:200]])
-            time.sleep(0.3)
+            time.sleep(0.1)
         log(f"{folder}: {len(hits)} hits, {kept} items kept")
-    with open(os.path.join(CATALOG, "manifest.tsv"), "w", encoding="utf-8") as f:
-        f.write("url\tfolder\tidentifier\tsize\tbasis\ttitle\n")
-        for r in manifest:
-            f.write("\t".join(r) + "\n")
-    with open(os.path.join(CATALOG, "candidates.tsv"), "w", encoding="utf-8") as f:
-        f.write("folder\tidentifier\ttitle\tyear\tpublisher\tbasis\treason\n")
-        for r in cand_rows:
-            f.write("\t".join(r) + "\n")
+        save(manifest, cand_rows)
+    save(manifest, cand_rows)
     total = sum(int(r[3]) for r in manifest)
     log(f"Manifest: {len(manifest)} files from {len({r[2] for r in manifest})} items, {total/1e9:.2f} GB")
     with open(os.path.join(LOGS, "catalog-run.md"), "w", encoding="utf-8") as f:
         f.write("# Catalog run\n\n```\n" + "\n".join(log_lines) + "\n```\n")
+    save(manifest, cand_rows)
 
 
 if __name__ == "__main__":

@@ -299,7 +299,8 @@ def main():
     write_tsv(os.path.join(CATALOG, "all.tsv"), [[u, s] for u, s in docs.items()])
 
     have = {r[0]: r for r in read_tsv(SOURCES) if len(r) >= 3}
-    got = [have[u] for u in docs if u in have and os.path.exists(os.path.join(FILES, have[u][1]))]
+    # Keep every file already mirrored, even if this run couldn't re-confirm it.
+    got = [r for r in have.values() if os.path.exists(os.path.join(FILES, r[1]))]
     got_urls = {r[0] for r in got}
     used = {n.lower() for n in os.listdir(FILES)}
     size = dir_size(FILES)

@@ -8,23 +8,15 @@ T.REX ARMS makes freely available in its
 - **`files/`** holds the manuals.
 - **`logs/last-run.md`** shows what the most recent update did.
 
-## How it updates
+## Status
 
-A GitHub Action (`.github/workflows/mirror.yml`) runs `scripts/fetch_vault.py`
-every Monday and commits any new manuals. To run it now: **Actions** tab →
-**Mirror Field Manual Vault** → **Run workflow**.
+This repository holds the 25 manuals featured on the vault's main page, each as a
+PDF and an EPUB. The vault lists about 6,500 publications in total, but the site's
+robots.txt disallows automated access to its category and manual pages, so the
+rest of the library is not mirrored here.
 
-Files over GitHub's 100 MB limit are not stored; they're listed in INDEX.md
-with their original links.
-
-## Splitting across repositories
-
-The full vault is far larger than one GitHub repository should hold, so the job
-stops at about 4 GB and writes everything it hasn't downloaded to
-`catalog/remaining.tsv`. To continue in a new repository, copy this repository's
-`scripts/` and `.github/` folders there, save `catalog/remaining.tsv` as
-`catalog/queue.tsv`, and run the workflow. The job only uses the vault's public
-pages and the site's published sitemap, and it follows the site's robots.txt.
+The workflow in `.github/workflows/mirror.yml` (`scripts/fetch_vault.py`) follows
+robots.txt and only runs when started by hand from the **Actions** tab.
 
 ## Note on rights
 

@@ -6,8 +6,6 @@ on:
       budget_gb:
         description: "Stop when files/ reaches this many GB"
         default: "4"
-  schedule:
-    - cron: "17 6 * * 1"    # every Monday, picks up newly added manuals
 
 permissions:
   contents: write

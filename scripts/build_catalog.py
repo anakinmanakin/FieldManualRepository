@@ -26,6 +26,7 @@ CATALOG = os.path.join(ROOT, "catalog")
 LOGS = os.path.join(ROOT, "logs")
 FILE_LIMIT = 95 * 1024 * 1024
 MAX_PER_TOPIC = int(os.environ.get("MAX_PER_TOPIC", "600"))
+MAX_HITS = int(os.environ.get("MAX_HITS", "8000"))       # search results examined per topic
 
 # Topic folders, in download priority order. Each is (folder, search terms).
 TOPICS = [
@@ -55,11 +56,11 @@ TOPICS = [
 ]
 
 TITLE_RE = {
-    "survival": r"\bsurviv(al|e|ing)\b(?!\s+(of|and growth|rates?|analysis|probabilit\w*|times?|curves?|data|studies|function))|\bsere\b|\bevasion\b|fallout|civil defen[cs]e|emergency (preparedness|shelter)|bomb shelter",
+    "survival": r"\bsurviv(al|e|ing)(?!\s+(of|and growth|rates?|analysis|probabilit\w*|times?|curves?|data|studies|function))|\bsere\b|\bevasion\b|fallout|civil defen[cs]e|emergency (preparedness|shelter)|bomb shelter",
     "medical-first-aid": r"first[- ]aid|field medicine|war surgery|medicine chest|sanitation|combat lifesaver|emergency (medic\w*|care)|home nursing|medical (handbook|guide)|\bmedic\b|wound care|hygiene",
     "water": r"water (purification|supply|supplies|treatment|wells?|sources?|storage|disinfection)|well[- ]drilling|\bwells\b|cisterns?|springs? development|solar still",
     "food-preservation": r"canning|canned|preserv(e|es|ing|ation)|drying (fruits?|vegetables?|foods?)|dried (fruits?|foods?)|\bcuring\b|cured meat|smok(e|ed|ing) (meat|fish)|root cellar|food storage|home storage|freezing (foods?|fruits?)|pickl\w*|jams?\b|jellies",
-    "foraging-hunting": r"\bedible\b|wild (foods?|plants|game|fruits?)|forag\w*|trap(ping|per|s)\b|\bhunting\b|\bfishing\b|fish culture|game (birds|animals)|mushrooms?|\bnuts\b|berries",
+    "foraging-hunting": r"\bedible\b|wild (foods?|plants|game|fruits?)|forag\w*|trappers?|fur (bearers|animals)|trapping (of )?(fur|animals|wild|game|predators?)|traps? for|\bhunting\b|\bfishing\b|fish culture|game (birds|animals)|mushrooms?|\bnuts\b|berries",
     "farming-gardening": r"farmers'? bulletin|garden\w*|vegetables?|poultry|chickens?|bee[- ]?keeping|\bbees\b|\bhoney\b|livestock|\bgoats?\b|\bsheep\b|\bhogs?\b|swine|dairy|small farm|homestead\w*|\bsoils?\b|orchard|fruit (growing|trees)|\bcrops?\b|seed saving|compost\w*|irrigation",
     "navigation-fieldcraft": r"map reading|land navigation|compass|orienteering|fieldcraft|woodcraft|camp(ing|craft|fire)|mountaineering|cold[- ]weather|\bknots?\b|\bropes?\b|camouflage|scouting|tracking|outdoor|wilderness",
     "shelter-building": r"log (cabins?|house|buildings)|carpentry|masonry|adobe|rammed earth|building construction|farm buildings|rural buildings|plumbing|concrete|house construction|\bshelters?\b|\bbarns?\b|\bfences?\b|frame construction|roofing",
@@ -73,6 +74,41 @@ EXCLUDE_TITLE = re.compile(
     r"clinical|tumou?rs?|cell survival|missiles?|vulnerability|insurgen\w*|novel|poems?|weekly|"
     r"annual report|congress\w*|hearings?|budget|cthulhu|role-?playing|d20|dungeons?|"
     r"statistics|thesis|dissertation)\b", re.I)
+EXCLUDE_TITLE_2 = re.compile(
+    r"specifications? (of|relating)|abridgments?|\bpatents?\b|catalogu?es?\b|\bcatalogs?\b|price list|"
+    r"water[- ]cure|\blife of\b|biograph\w*|sermons?|\ba bill\b|\bact to\b|typhoid|\bfever\b|watersheds?|"
+    r"\boutlook\b|work plan|industry|dam safety|plasma|lasers?|optical|electrons?|semiconductor|fusion|"
+    r"fishing (guide|regulations)|sport fishing|germination|seedlings?|bollworm|emergence|forecasts?|"
+    r"complaint|prospects for|lease sales|order of the house|income opportunities|\bsurveys?\b|"
+    r"a tale\b|a story\b|stories|his times|a letter\b|letters to|speech|address before|proposed system|"
+    r"report of|reports? on|proceedings|minutes|hearing|comedy|\bplay\b|roses|stains|computer|"
+    r"administration|reentry|plantations?|height growth|development programs?|^no\. \d", re.I)
+PRACTICAL = re.compile(
+    r"manual|handbook|guide|how to|instructions?|methods?|course|lessons?|bulletin|\bbook\b|\bhome|"
+    r"household|farm(stead|s)?\b|practical|hints|helps\b|directions|art of|treatise|primer|\bplan\b|"
+    r"skills|for (boys|girls|scouts|farmers|beginners|families|the home|field)|recipes?|\byour?\b|"
+    r"simple|making|build(ing)?|grow(ing)?|raising|care of|keeping|preparedness|first[- ]aid", re.I)
+DTIC_PRACTICAL = re.compile(r"\b(manual|handbook|guide|booklet|pamphlet|skills|first aid|war surgery|"
+                            r"how to|instructions?)\b", re.I)
+DTIC_NOT = re.compile(r"design (guide|criteria)|threat handbook|guide for architects", re.I)
+
+
+def keep(folder, ident, title, basis=""):
+    """Relevance check shared by new searches and re-filtering a saved manifest."""
+    if not TITLE_RE[folder].search(title):
+        return "title not on topic"
+    if EXCLUDE_TITLE.search(title) or EXCLUDE_TITLE_2.search(title):
+        return "excluded subject"
+    if ident.startswith("DTIC_ADP"):
+        return "conference paper excerpt"
+    if ident.startswith("DTIC_") and (not DTIC_PRACTICAL.search(title) or DTIC_NOT.search(title)):
+        return "research report, not a manual"
+    if not ident.startswith("DTIC_") and not (DESIGNATION.search(title) or GOV_SERIES.search(title)) \
+            and not PRACTICAL.search(title):
+        return "doesn't read like a how-to"
+    return ""
+
+
 DESIGNATION = re.compile(
     r"\b(FM|TM|TC|ATP|ADP|ADRP|AFH|AFM|AFR|AFMAN|AFPAM|AFTTP|MCRP|MCWP|MCTP|MCDP|NAVEDTRA|"
     r"NAVPERS|NAVMED|DA PAM|GTA|ST)\s?-?\d", re.I)
@@ -130,8 +166,8 @@ def search(terms):
          " AND mediatype:texts AND NOT access-restricted-item:true")
     fields = "identifier,title,date,year,publisher,creator,collection,licenseurl,downloads,language"
     out, cursor = [], None
-    while len(out) < MAX_PER_TOPIC * 4:
-        params = {"q": q, "fields": fields, "count": "1000"}
+    while len(out) < MAX_HITS:
+        params = {"q": q, "fields": fields, "count": "1000", "sorts": "downloads desc"}
         if cursor:
             params["cursor"] = cursor
         data = get_json("https://archive.org/services/search/v1/scrape?" + urllib.parse.urlencode(params))
@@ -212,12 +248,40 @@ def save(manifest, cand_rows):
             subprocess.run(["git", "push", "-q"], cwd=ROOT)
 
 
+def load_saved(skip_topics):
+    """Saved manifest/candidates for topics not being re-searched, re-filtered with keep()."""
+    def rows(name):
+        path = os.path.join(CATALOG, name)
+        if not os.path.exists(path):
+            return []
+        return [l.rstrip("\n").split("\t") for l in open(path, encoding="utf-8")][1:]
+    manifest = [r for r in rows("manifest.tsv")
+                if r[1] not in skip_topics and not keep(r[1], r[2], r[5], r[4])]
+    kept_ids = {r[2] for r in manifest}
+    cands = []
+    for r in rows("candidates.tsv"):
+        if r[0] in skip_topics:
+            continue
+        if r[5] != "-" and r[1] not in kept_ids:
+            r[5], r[6] = "-", keep(r[0], r[1], r[2], r[5]) or "filtered on re-check"
+        cands.append(r)
+    return manifest, cands
+
+
 def main():
     os.makedirs(CATALOG, exist_ok=True)
     os.makedirs(LOGS, exist_ok=True)
     seen_ids, seen_titles = set(), set()
     cand_rows, manifest = [], []
+    only = [t.strip() for t in os.environ.get("TOPICS", "").split(",") if t.strip()]
+    if only:
+        manifest, cand_rows = load_saved(only)
+        seen_ids = {r[2] for r in manifest} | {r[1] for r in cand_rows}
+        seen_titles = {norm_title(r[5]) for r in manifest}
+        log(f"Kept {len({r[2] for r in manifest})} saved items from other topics; searching: {', '.join(only)}")
     for folder, terms in TOPICS:
+        if only and folder not in only:
+            continue
         hits = search(terms)
         pat = TITLE_RE[folder]
 
@@ -234,10 +298,10 @@ def main():
                 continue
             seen_ids.add(ident)
             basis, why = pd_basis(d)
-            if basis and not pat.search(title):
-                basis, why = None, "title not on topic"
-            elif basis and EXCLUDE_TITLE.search(title):
-                basis, why = None, "excluded subject"
+            if basis:
+                reason = keep(folder, ident, title, basis)
+                if reason:
+                    basis, why = None, reason
             lang = text(d.get("language")).lower()
             if basis and lang and not re.search(r"eng|english", lang):
                 basis, why = None, f"language {lang}"

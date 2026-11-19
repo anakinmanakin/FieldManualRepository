@@ -2,6 +2,10 @@ name: Mirror Field Manual Vault
 
 on:
   workflow_dispatch:        # "Run workflow" button on the Actions tab
+    inputs:
+      budget_gb:
+        description: "Stop when files/ reaches this many GB"
+        default: "4"
   schedule:
     - cron: "17 6 * * 1"    # every Monday, picks up newly added manuals
 
@@ -15,7 +19,7 @@ concurrency:
 jobs:
   mirror:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 350
     steps:
       - uses: actions/checkout@v4
 
@@ -23,17 +27,11 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Download manuals
-        run: python3 scripts/fetch_vault.py
-
-      - name: Commit results
+      - name: Download manuals (commits and pushes in batches)
+        env:
+          BUDGET_GB: ${{ inputs.budget_gb || '4' }}
+          MAX_MINUTES: "320"
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898699+github-actions[bot]@users.noreply.github.com"
-          git add -A files INDEX.md sources.tsv logs
-          if git diff --cached --quiet; then
-            echo "No changes."
-            exit 0
-          fi
-          git commit -m "Update mirrored field manuals"
-          git push
+          python3 scripts/fetch_vault.py

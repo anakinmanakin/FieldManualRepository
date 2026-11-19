@@ -17,6 +17,15 @@ every Monday and commits any new manuals. To run it now: **Actions** tab →
 Files over GitHub's 100 MB limit are not stored; they're listed in INDEX.md
 with their original links.
 
+## Splitting across repositories
+
+The full vault is far larger than one GitHub repository should hold, so the job
+stops at about 4 GB and writes everything it hasn't downloaded to
+`catalog/remaining.tsv`. To continue in a new repository, copy this repository's
+`scripts/` and `.github/` folders there, save `catalog/remaining.tsv` as
+`catalog/queue.tsv`, and run the workflow. The job only uses the vault's public
+pages and the site's published sitemap, and it follows the site's robots.txt.
+
 ## Note on rights
 
 The originals are U.S. government publications, which are generally in the public

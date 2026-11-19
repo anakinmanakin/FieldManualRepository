@@ -1,19 +1,9 @@
 # Index of mirrored manuals
 
-63 files. Source: <https://www.trex-arms.com/field-manual-vault>
+50 files. Source: <https://www.trex-arms.com/field-manual-vault>
 
 | File | Size | Original link |
 |---|---|---|
-| [032116zor_h3ci.pdf](files/032116zor_h3ci.pdf) | 0.2 MB | [source](https://www.supremecourt.gov/orders/courtorders/032116zor_h3ci.pdf) |
-| [063022zor_5he6.pdf](files/063022zor_5he6.pdf) | 0.3 MB | [source](https://www.supremecourt.gov/orders/courtorders/063022zor_5he6.pdf) |
-| [20-157_8mjp.pdf](files/20-157_8mjp.pdf) | 0.1 MB | [source](https://www.supremecourt.gov/opinions/20pdf/20-157_8mjp.pdf) |
-| [20-843_7j80.pdf](files/20-843_7j80.pdf) | 0.6 MB | [source](https://www.supremecourt.gov/opinions/21pdf/20-843_7j80.pdf) |
-| [2018-28292.pdf](files/2018-28292.pdf) | 0.0 MB | [source](https://www.govinfo.gov/content/pkg/FR-2018-12-26/pdf/2018-28292.pdf) |
-| [22-915_8o6b.pdf](files/22-915_8o6b.pdf) | 0.5 MB | [source](https://www.supremecourt.gov/opinions/23pdf/22-915_8o6b.pdf) |
-| [22-976_e29g.pdf](files/22-976_e29g.pdf) | 0.5 MB | [source](https://www.supremecourt.gov/opinions/23pdf/22-976_e29g.pdf) |
-| [23-062_0.pdf](files/23-062_0.pdf) | 3.2 MB | [source](https://oig.justice.gov/sites/default/files/reports/23-062_0.pdf) |
-| [23-1141_lkgn.pdf](files/23-1141_lkgn.pdf) | 0.2 MB | [source](https://www.supremecourt.gov/opinions/24pdf/23-1141_lkgn.pdf) |
-| [23-852_c07d.pdf](files/23-852_c07d.pdf) | 0.5 MB | [source](https://www.supremecourt.gov/opinions/24pdf/23-852_c07d.pdf) |
 | [afh_10-644_2017-03.epub](files/afh_10-644_2017-03.epub) | 43.2 MB | [source](https://files.trex-arms.com/epub/af/afh/afh_10-644_2017-03.epub) |
 | [afh_10-644_2017-03.pdf](files/afh_10-644_2017-03.pdf) | 46.4 MB | [source](https://files.trex-arms.com/pdf/af/afh/afh_10-644_2017-03.pdf) |
 | [atp_3-21-8_2024-01_C1.epub](files/atp_3-21-8_2024-01_C1.epub) | 12.1 MB | [source](https://files.trex-arms.com/epub/army/atp/atp_3-21-8_2024-01_C1.epub) |
@@ -48,8 +38,6 @@
 | [mcrp_3-40-3b_undated.pdf](files/mcrp_3-40-3b_undated.pdf) | 1.7 MB | [source](https://files.trex-arms.com/pdf/usmc/mcrp/mcrp_3-40-3b_undated.pdf) |
 | [mctp_3-01a_undated.epub](files/mctp_3-01a_undated.epub) | 8.4 MB | [source](https://files.trex-arms.com/epub/usmc/mctp/mctp_3-01a_undated.epub) |
 | [mctp_3-01a_undated.pdf](files/mctp_3-01a_undated.pdf) | 27.2 MB | [source](https://files.trex-arms.com/pdf/usmc/mctp/mctp_3-01a_undated.pdf) |
-| [pc0320.pdf](files/pc0320.pdf) | 0.1 MB | [source](https://publications.tnsosfiles.com/acts/110/pub/pc0320.pdf) |
-| [Ragnarok-Hardware-Diagram-10-23.pdf](files/Ragnarok-Hardware-Diagram-10-23.pdf) | 2.3 MB | [source](https://img.trex-arms.com/wp/uploads/2023/12/Ragnarok-Hardware-Diagram-10-23.pdf) |
 | [st_31-91b-.epub](files/st_31-91b-.epub) | 14.6 MB | [source](https://files.trex-arms.com/epub/army/legacy/st/st_31-91b-.epub) |
 | [st_31-91b-.pdf](files/st_31-91b-.pdf) | 85.2 MB | [source](https://files.trex-arms.com/pdf/army/legacy/st/st_31-91b-.pdf) |
 | [tc_21-3_2025-09.epub](files/tc_21-3_2025-09.epub) | 4.1 MB | [source](https://files.trex-arms.com/epub/army/tc/tc_21-3_2025-09.epub) |
@@ -66,10 +54,3 @@
 | [tc_3-25-150_2017-03.pdf](files/tc_3-25-150_2017-03.pdf) | 49.9 MB | [source](https://files.trex-arms.com/pdf/army/tc/tc_3-25-150_2017-03.pdf) |
 | [tc_3-97-61_2025-11.epub](files/tc_3-97-61_2025-11.epub) | 17.9 MB | [source](https://files.trex-arms.com/epub/army/tc/tc_3-97-61_2025-11.epub) |
 | [tc_3-97-61_2025-11.pdf](files/tc_3-97-61_2025-11.pdf) | 31.4 MB | [source](https://files.trex-arms.com/pdf/army/tc/tc_3-97-61_2025-11.pdf) |
-| [TREX-Reading-List-2024-11-19.pdf](files/TREX-Reading-List-2024-11-19.pdf) | 0.4 MB | [source](https://img.trex-arms.com/wp/uploads/2024/11/TREX-Reading-List-2024-11-19.pdf) |
-
-## Not mirrored: download failed
-
-- <https://maps.trex-arms.com/docs/legend-metric.pdf> — HTTP Error 404: Not Found
-- <https://maps.trex-arms.com/docs/print-guide.pdf> — HTTP Error 404: Not Found
-- <https://maps.trex-arms.com/docs/terrain-guide.pdf> — HTTP Error 404: Not Found

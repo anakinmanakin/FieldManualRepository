@@ -60,6 +60,9 @@ def is_site_page(u):
     p = urllib.parse.urlparse(u)
     if not p.netloc.endswith(SITE) or is_doc(u):
         return False
+    # Only follow the vault's own manual pages, not the rest of the store/site.
+    if not p.path.lower().startswith("/field-manual-vault/"):
+        return False
     path = p.path.lower()
     skip = ("/cart", "/checkout", "/account", "/login", "/wp-admin", "/wp-json",
             "/feed", ".css", ".js", ".png", ".jpg", ".jpeg", ".webp", ".svg",

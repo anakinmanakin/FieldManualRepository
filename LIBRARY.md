@@ -2,7 +2,7 @@
 
 219 files, 4.01 GB, sorted into topic folders under library/. Public-domain basis per file: **usgov** = US federal government publication, **pre1931** = published 1930 or earlier, **pdmark** = marked public domain.
 
-**2249 more files** are listed in [catalog/remaining.tsv](catalog/remaining.tsv) for the next repository.
+**2391 more files** (about 2,060 items, 39 GB) are listed in [catalog/remaining.tsv](catalog/remaining.tsv) for the next repository.
 
 
 ## comms (19)

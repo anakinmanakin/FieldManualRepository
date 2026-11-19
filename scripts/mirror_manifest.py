@@ -13,6 +13,7 @@ import os
 import re
 import subprocess
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import urllib.robotparser
@@ -156,6 +157,22 @@ def write_index(done, remaining, skipped):
             f.writelines(f"- {u} — {why}\n" for u, why in skipped)
 
 
+def download(url, tries=4):
+    """Fetch with retries; the Archive's file servers sometimes drop connections."""
+    for attempt in range(1, tries + 1):
+        try:
+            req = urllib.request.Request(url, headers={"User-Agent": UA})
+            with urllib.request.urlopen(req, timeout=600) as resp:
+                return resp.read(FILE_LIMIT + 1)
+        except urllib.error.HTTPError as e:
+            if e.code in (401, 403, 404, 410) or attempt == tries:
+                raise
+        except Exception:
+            if attempt == tries:
+                raise
+        time.sleep(10 * attempt * attempt)
+
+
 def main():
     os.makedirs(LIB, exist_ok=True)
     os.makedirs(LOGS, exist_ok=True)
@@ -169,7 +186,7 @@ def main():
 
     size = tree_size(LIB, os.path.join(ROOT, "files"))
     since = 0
-    remaining, skipped, stop = [], [], ""
+    remaining, skipped, failed, stop = [], [], [], ""
     for i, r in enumerate(rows, 1):
         if r[0] in done_urls:
             continue
@@ -189,12 +206,12 @@ def main():
         dest = os.path.join(LIB, local_name(r))
         os.makedirs(os.path.dirname(dest), exist_ok=True)
         try:
-            req = urllib.request.Request(r[0], headers={"User-Agent": UA})
-            with urllib.request.urlopen(req, timeout=600) as resp:
-                data = resp.read(FILE_LIMIT + 1)
+            data = download(r[0])
         except Exception as e:
-            skipped.append((r[0], f"download failed: {e}"))
-            log(f"[{i}/{len(rows)}] FAILED {r[0]}: {e}")
+            # Keep it on the hand-off list so the next run or repository tries again.
+            remaining.append(r)
+            failed.append((r[0], str(e)))
+            log(f"[{i}/{len(rows)}] FAILED after retries {r[0]}: {e}")
             continue
         if len(data) > FILE_LIMIT:
             skipped.append((r[0], "over 95 MB"))
@@ -221,7 +238,7 @@ def main():
     with open(os.path.join(LOGS, "library-run.md"), "w", encoding="utf-8") as f:
         f.write(f"# Library run {time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime())}\n\n"
                 f"- Downloaded so far: {len(done)}\n- Left for next repo: {len(remaining)}\n"
-                f"- Skipped this run: {len(skipped)}\n- Stop reason: {stop or 'finished list'}\n\n```\n"
+                f"- Failed this run (kept on the hand-off list): {len(failed)}\n- Skipped this run: {len(skipped)}\n- Stop reason: {stop or 'finished list'}\n\n```\n"
                 + "\n".join(log_lines[-3000:]) + "\n```\n")
     git_push("Update survival & off-grid library")
 

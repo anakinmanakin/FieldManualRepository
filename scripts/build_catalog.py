@@ -82,7 +82,8 @@ EXCLUDE_TITLE_2 = re.compile(
     r"complaint|prospects for|lease sales|order of the house|income opportunities|\bsurveys?\b|"
     r"a tale\b|a story\b|stories|his times|a letter\b|letters to|speech|address before|proposed system|"
     r"report of|reports? on|proceedings|minutes|hearing|comedy|\bplay\b|roses|stains|computer|"
-    r"administration|reentry|plantations?|height growth|development programs?|^no\. \d", re.I)
+    r"administration|reentry|plantations?|height growth|development programs?|^no\. \d|freemason\w*|"
+    r"masonic|cryptic masonry|drawing|painting|environmental impact|bibliograph\w*|nematode", re.I)
 PRACTICAL = re.compile(
     r"manual|handbook|guide|how to|instructions?|methods?|course|lessons?|bulletin|\bbook\b|\bhome|"
     r"household|farm(stead|s)?\b|practical|hints|helps\b|directions|art of|treatise|primer|\bplan\b|"
@@ -231,6 +232,21 @@ def pick_files(identifier):
     return [(n, sizes.get(n, 0)) for n in chosen]
 
 
+def interleave(manifest):
+    """Round-robin by topic (keeping each topic's order and an item's files together)."""
+    order = [t for t, _ in TOPICS]
+    groups = {}
+    for r in manifest:
+        groups.setdefault(r[1], {}).setdefault(r[2], []).append(r)
+    queues = [list(groups[t].values()) for t in order if t in groups]
+    out = []
+    while any(queues):
+        for q in queues:
+            if q:
+                out.extend(q.pop(0))
+    return out
+
+
 def save(manifest, cand_rows):
     with open(os.path.join(CATALOG, "manifest.tsv"), "w", encoding="utf-8") as f:
         f.write("url\tfolder\tidentifier\tsize\tbasis\ttitle\n")
@@ -334,7 +350,7 @@ def main():
     log(f"Manifest: {len(manifest)} files from {len({r[2] for r in manifest})} items, {total/1e9:.2f} GB")
     with open(os.path.join(LOGS, "catalog-run.md"), "w", encoding="utf-8") as f:
         f.write("# Catalog run\n\n```\n" + "\n".join(log_lines) + "\n```\n")
-    save(manifest, cand_rows)
+    save(interleave(manifest), cand_rows)
 
 
 if __name__ == "__main__":

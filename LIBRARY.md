@@ -1,9 +1,11 @@
 # Survival & off-grid library
 
-201 files, 3.64 GB, sorted into topic folders under library/. Public-domain basis per file: **usgov** = US federal government publication, **pre1931** = published 1930 or earlier, **pdmark** = marked public domain.
+219 files, 4.01 GB, sorted into topic folders under library/. Public-domain basis per file: **usgov** = US federal government publication, **pre1931** = published 1930 or earlier, **pdmark** = marked public domain.
+
+**2249 more files** are listed in [catalog/remaining.tsv](catalog/remaining.tsv) for the next repository.
 
 
-## comms (17)
+## comms (19)
 
 | Title | Files | Basis | Source |
 |---|---|---|---|
@@ -20,12 +22,14 @@
 | MCRP 3-40.3C Antenna Handbook | [PDF](library/comms/MCRP%203-40.3C%20Antenna%20Handbook.pdf) | usgov | [archive.org](https://archive.org/details/MCRP3-403C) |
 | TC 3-21.60 - Visual Signals (2017) | [PDF](library/comms/TC%203-21.60%20-%20Visual%20Signals%20%282017%29.pdf) · [EPUB](library/comms/TC%203-21.60%20-%20Visual%20Signals%20%282017%29.epub) | usgov | [trex-arms.com](https://www.trex-arms.com/field-manual-vault/tc-3-21-60-2017-03) |
 | TM 11-227 Signal Communication Equipment Directory: Radio Communication Equipment. 1944 | [PDF](library/comms/TM%2011-227%20Signal%20Communication%20Equipment%20Directory%20-%20Radio%20Communication%20Equipment.%201944.pdf) | usgov | [archive.org](https://archive.org/details/TM11-227) |
+| TM 11-2608 Antenna System AS-81/GR, 1944 | [PDF](library/comms/TM%2011-2608%20Antenna%20System%20AS-81%20-%20GR%2C%201944.pdf) | usgov | [archive.org](https://archive.org/details/TM11-2608) |
+| TM 11-2630 Antenna Equipment RC-219A And Antenna AN-78-A. 1944 | [PDF](library/comms/TM%2011-2630%20Antenna%20Equipment%20RC-219A%20And%20Antenna%20AN-78-A.%201944.pdf) | usgov | [archive.org](https://archive.org/details/TM11-2630) |
 | TM 11-2651 Antenna Groups AN/GRA-4 and AN/GRA-12. | [PDF](library/comms/TM%2011-2651%20Antenna%20Groups%20AN%20-%20GRA-4%20and%20AN%20-%20GRA-12.pdf) | usgov | [archive.org](https://archive.org/details/TM11-2651) |
 | TM 11-310 Schematic Diagrams for Maintenance of Ground Radio Communication Sets | [PDF](library/comms/TM%2011-310%20Schematic%20Diagrams%20for%20Maintenance%20of%20Ground%20Radio%20Communication%20Sets.pdf) | usgov | [archive.org](https://archive.org/details/TM11-310-nsia) |
 | TM 11-310 Schematic Diagrams for Maintenance of Ground Radio Communication Sets 1943 | [PDF](library/comms/TM%2011-310%20Schematic%20Diagrams%20for%20Maintenance%20of%20Ground%20Radio%20Communication%20Sets%201943.pdf) | usgov | [archive.org](https://archive.org/details/TM11-310) |
 | US Marine Corp Antenna Handbook | [PDF](library/comms/US%20Marine%20Corp%20Antenna%20Handbook.pdf) · [EPUB](library/comms/US%20Marine%20Corp%20Antenna%20Handbook.epub) | usgov | [archive.org](https://archive.org/details/UsMarineCorpAntennaHandbook) |
 
-## energy-tools (14)
+## energy-tools (15)
 
 | Title | Files | Basis | Source |
 |---|---|---|---|
@@ -40,22 +44,25 @@
 | Leather trades chemistry; a practical manual on the analysis of materials and finished products | [PDF](library/energy-tools/Leather%20trades%20chemistry%3B%20a%20practical%20manual%20on%20the%20analysis%20of%20materials%20and%20finished%20products.pdf) | pre1931 | [archive.org](https://archive.org/details/leathertradesch00trotgoog) |
 | Practical tanning; a handbook of modern practice and processes as applied in the manufacture of leather and allied products | [PDF](library/energy-tools/Practical%20tanning%3B%20a%20handbook%20of%20modern%20practice%20and%20processes%20as%20applied%20in%20the%20manufacture%20of%20leather%20and%20allied%20produ.pdf) | pre1931 | [archive.org](https://archive.org/details/practicaltanning00roge) |
 | Steel working and tool dressing; a manual of practical information for blacksmiths and all other workers in steel and iron | [PDF](library/energy-tools/Steel%20working%20and%20tool%20dressing%3B%20a%20manual%20of%20practical%20information%20for%20blacksmiths%20and%20all%20other%20workers%20in%20steel%20and%20ir.pdf) · [EPUB](library/energy-tools/Steel%20working%20and%20tool%20dressing%3B%20a%20manual%20of%20practical%20information%20for%20blacksmiths%20and%20all%20other%20workers%20in%20steel%20and%20ir.epub) | pre1931 | [archive.org](https://archive.org/details/steelworkingand00castgoog) |
+| The blacksmith's guide : valuable instructions on forging, welding, hardening, tempering, casehardening, annealing, coloring, brazing, and general blacksmithing | [PDF](library/energy-tools/The%20blacksmith%27s%20guide%20-%20valuable%20instructions%20on%20forging%2C%20welding%2C%20hardening%2C%20tempering%2C%20casehardening%2C%20annealing%2C%20colo.pdf) | pre1931 | [archive.org](https://archive.org/details/gri_33125001402235) |
 | The blacksmith's guide; | [PDF](library/energy-tools/The%20blacksmith%27s%20guide%3B.pdf) | pre1931 | [archive.org](https://archive.org/details/blacksmithsguide01sall) |
 | The Blacksmiths̕ Guide: Valuable Instructions on Forging, Welding, Hardening ... | [PDF](library/energy-tools/The%20Blacksmiths%CC%95%20Guide%20-%20Valuable%20Instructions%20on%20Forging%2C%20Welding%2C%20Hardening.pdf) | pre1931 | [archive.org](https://archive.org/details/blacksmithsguid00sallgoog) |
 | TM 10-440 The Blacksmith And The Welder, 1941 | [PDF](library/energy-tools/TM%2010-440%20The%20Blacksmith%20And%20The%20Welder%2C%201941.pdf) | usgov | [archive.org](https://archive.org/details/TM10-440) |
 
-## farming-gardening (12)
+## farming-gardening (14)
 
 | Title | Files | Basis | Source |
 |---|---|---|---|
 | A handbook of tropical gardening and planting, with special reference to Ceylon | [PDF](library/farming-gardening/A%20handbook%20of%20tropical%20gardening%20and%20planting%2C%20with%20special%20reference%20to%20Ceylon.pdf) | pre1931 | [archive.org](https://archive.org/details/handbookoftropic00macmrich) |
 | A manual of bee-keeping | [PDF](library/farming-gardening/A%20manual%20of%20bee-keeping.pdf) | pre1931 | [archive.org](https://archive.org/details/cu31924066723143) |
+| Elliott's fruit book; or, the American fruit-grower's guide in orchard and garden. Being a compend of the history, modes of propagation, culture, &c., of fruit trees and shrubs, with descriptions of n | [PDF](library/farming-gardening/Elliott%27s%20fruit%20book%3B%20or%2C%20the%20American%20fruit-grower%27s%20guide%20in%20orchard%20and%20garden.%20Being%20a%20compend%20of%20the%20history%2C%20modes.pdf) | pre1931 | [archive.org](https://archive.org/details/elliottfruitbook00ellirich) |
 | Farm and garden rule-book; a manual of ready rules and reference with recipes, precepts, formulas, and tabular information for the use of general farmers, gardeners, fruit-growers, stockmen, dairymen, | [PDF](library/farming-gardening/Farm%20and%20garden%20rule-book%3B%20a%20manual%20of%20ready%20rules%20and%20reference%20with%20recipes%2C%20precepts%2C%20formulas%2C%20and%20tabular%20informati.pdf) · [EPUB](library/farming-gardening/Farm%20and%20garden%20rule-book%3B%20a%20manual%20of%20ready%20rules%20and%20reference%20with%20recipes%2C%20precepts%2C%20formulas%2C%20and%20tabular%20informati.epub) | pre1931 | [archive.org](https://archive.org/details/farmgardenrulebo00bailrich) |
 | Farm house plans, farmers' bulletin no. 1738 | [EPUB](library/farming-gardening/Farm%20house%20plans%2C%20farmers%27%20bulletin%20no.%201738.epub) | usgov | [archive.org](https://archive.org/details/USDepartmentofAgricultureFarmhouseplans0001) |
 | Free homestead lands of Colorado described; a handbook for settlers | [PDF](library/farming-gardening/Free%20homestead%20lands%20of%20Colorado%20described%3B%20a%20handbook%20for%20settlers.pdf) | pre1931 | [archive.org](https://archive.org/details/freehomesteadlan00clasrich) |
 | Gardening for amateurs; a simple, complete, and practical guide for garden lovers | [PDF](library/farming-gardening/Gardening%20for%20amateurs%3B%20a%20simple%2C%20complete%2C%20and%20practical%20guide%20for%20garden%20lovers.pdf) | pre1931 | [archive.org](https://archive.org/details/gardeningforamat01thomiala) |
 | How to lay out a garden; intended as a general guide in choosing, forming, or improving an estate, (from a quarter of an acre to a hundred acres in extent,) with reference to both design and execution | [PDF](library/farming-gardening/How%20to%20lay%20out%20a%20garden%3B%20intended%20as%20a%20general%20guide%20in%20choosing%2C%20forming%2C%20or%20improving%20an%20estate%2C%20%28from%20a%20quarter%20of%20an.pdf) | pre1931 | [archive.org](https://archive.org/details/howtolayoutgarde00kemp) |
 | Manual of veterinary specific homeopathy. Comprising diseases of horses, cattle, sheep, hogs, dogs and poultry, and their specific homeopathic treatment | [PDF](library/farming-gardening/Manual%20of%20veterinary%20specific%20homeopathy.%20Comprising%20diseases%20of%20horses%2C%20cattle%2C%20sheep%2C%20hogs%2C%20dogs%20and%20poultry%2C%20and%20thei.pdf) · [EPUB](library/farming-gardening/Manual%20of%20veterinary%20specific%20homeopathy.%20Comprising%20diseases%20of%20horses%2C%20cattle%2C%20sheep%2C%20hogs%2C%20dogs%20and%20poultry%2C%20and%20thei.epub) | pre1931 | [archive.org](https://archive.org/details/manualofveterina02hump) |
+| Peter Henderson & Co.s manual of everything for the garden : 1884 | [PDF](library/farming-gardening/Peter%20Henderson%20%26%20Co.s%20manual%20of%20everything%20for%20the%20garden%20-%201884.pdf) | pre1931 | [archive.org](https://archive.org/details/peterhendersonco18pete_15) |
 | SOUTH CAROLINA IRRIGATION GUIDE | [PDF](library/farming-gardening/SOUTH%20CAROLINA%20IRRIGATION%20GUIDE.pdf) | usgov | [archive.org](https://archive.org/details/southcarolinairr023327mbp) |
 | The Floral world and garden guide | [PDF](library/farming-gardening/The%20Floral%20world%20and%20garden%20guide.pdf) | pre1931 | [archive.org](https://archive.org/details/floralworldgarde06hibb) |
 | Vick's garden & floral guide | [PDF](library/farming-gardening/Vick%27s%20garden%20%26%20floral%20guide.pdf) | pre1931 | [archive.org](https://archive.org/details/vicksgardenflora1903jame) |
@@ -67,11 +74,12 @@
 |---|---|---|---|
 | FM 7-22 C1 - Holistic Health and Fitness (2020) | [PDF](library/fitness-leadership/FM%207-22%20C1%20-%20Holistic%20Health%20and%20Fitness%20%282020%29.pdf) · [EPUB](library/fitness-leadership/FM%207-22%20C1%20-%20Holistic%20Health%20and%20Fitness%20%282020%29.epub) | usgov | [trex-arms.com](https://www.trex-arms.com/field-manual-vault/fm-7-22-c1-2020-10) |
 
-## food-preservation (12)
+## food-preservation (13)
 
 | Title | Files | Basis | Source |
 |---|---|---|---|
 | A manual of canning and preserving | [EPUB](library/food-preservation/A%20manual%20of%20canning%20and%20preserving.epub) | pre1931 | [archive.org](https://archive.org/details/manualofcanningp00carr) |
+| A practical treatise on the manufacture of vinegar and acetates, cider, and fruit-wines; preservation of fruits and vegetables by canning and evaporation .. | [PDF](library/food-preservation/A%20practical%20treatise%20on%20the%20manufacture%20of%20vinegar%20and%20acetates%2C%20cider%2C%20and%20fruit-wines%3B%20preservation%20of%20fruits%20and%20vege.pdf) | pre1931 | [archive.org](https://archive.org/details/practicaltreatis00branrich) |
 | Canned Fruit, Preserves, and Jellies: Household Methods of Preparation U.S. Department of Agriculture Farmers' Bulletin No. 203 | [EPUB](library/food-preservation/Canned%20Fruit%2C%20Preserves%2C%20and%20Jellies%20-%20Household%20Methods%20of%20Preparation%20U.S.%20Department%20of%20Agriculture%20Farmers%27%20Bulletin.epub) | usgov | [archive.org](https://archive.org/details/cannedfruitprese30441gut) |
 | Complete guide to home canning | [PDF](library/food-preservation/Complete%20guide%20to%20home%20canning.pdf) · [EPUB](library/food-preservation/Complete%20guide%20to%20home%20canning.epub) | usgov | [archive.org](https://archive.org/details/completeguidetoh00unit) |
 | Complete guide to home canning and preserving | [PDF](library/food-preservation/Complete%20guide%20to%20home%20canning%20and%20preserving.pdf) · [EPUB](library/food-preservation/Complete%20guide%20to%20home%20canning%20and%20preserving.epub) | usgov | [archive.org](https://archive.org/details/completeguidetoh00unit_0) |
@@ -84,12 +92,13 @@
 | The manufacture of preserved foods and sweetmeats; a handbook of all the processes for the preservation of flesh, fruit, and vegetables, and for the preparation of dried fruit, dried vegetables, marma | [PDF](library/food-preservation/The%20manufacture%20of%20preserved%20foods%20and%20sweetmeats%3B%20a%20handbook%20of%20all%20the%20processes%20for%20the%20preservation%20of%20flesh%2C%20fruit%2C.pdf) | pre1931 | [archive.org](https://archive.org/details/manufacturepres00hausgoog) |
 | Vegetable gardening and canning; a manual for garden clubs | [PDF](library/food-preservation/Vegetable%20gardening%20and%20canning%3B%20a%20manual%20for%20garden%20clubs.pdf) | pre1931 | [archive.org](https://archive.org/details/cu31924003350034) |
 
-## foraging-hunting (14)
+## foraging-hunting (15)
 
 | Title | Files | Basis | Source |
 |---|---|---|---|
 | A manual of modern farriery : embracing the cure of diseases incidental to horses, cattle, sheep, swine, and dogs : with instructions in racing, hunting, coursing, shooting, fishing, and field-sports  | [PDF](library/foraging-hunting/A%20manual%20of%20modern%20farriery%20-%20embracing%20the%20cure%20of%20diseases%20incidental%20to%20horses%2C%20cattle%2C%20sheep%2C%20swine%2C%20and%20dogs%20-%20with.pdf) | pre1931 | [archive.org](https://archive.org/details/manualofmodernfa00brow) |
 | Andersch bros. hunters and trappers guide illustrating the fur bearing animals of North America the skins of which have a market value | [PDF](library/foraging-hunting/Andersch%20bros.%20hunters%20and%20trappers%20guide%20illustrating%20the%20fur%20bearing%20animals%20of%20North%20America%20the%20skins%20of%20which%20have.pdf) | pre1931 | [archive.org](https://archive.org/details/anderschbroshunt00ande) |
+| The amateur trapper : a complete guide to the arts of trapping, snaring and netting | [PDF](library/foraging-hunting/The%20amateur%20trapper%20-%20a%20complete%20guide%20to%20the%20arts%20of%20trapping%2C%20snaring%20and%20netting.pdf) · [EPUB](library/foraging-hunting/The%20amateur%20trapper%20-%20a%20complete%20guide%20to%20the%20arts%20of%20trapping%2C%20snaring%20and%20netting.epub) | pre1931 | [archive.org](https://archive.org/details/amateurtrapperco00hard) |
 | The angler's guide book and tourist's gazeteer of the fishing waters of the United States and Canada, 1886 [microform] | [PDF](library/foraging-hunting/The%20angler%27s%20guide%20book%20and%20tourist%27s%20gazeteer%20of%20the%20fishing%20waters%20of%20the%20United%20States%20and%20Canada%2C%201886%20%5Bmicroform%5D.pdf) | pre1931 | [archive.org](https://archive.org/details/cihm_08412) |
 | The angler's guide book and tourists' gazetteer of the fishing waters of the United States and Canada | [PDF](library/foraging-hunting/The%20angler%27s%20guide%20book%20and%20tourists%27%20gazetteer%20of%20the%20fishing%20waters%20of%20the%20United%20States%20and%20Canada.pdf) | pre1931 | [archive.org](https://archive.org/details/anglersguidebook00harrrich) |
 | The complete manual for young sportsmen : with directions for handling the gun, the rifle, and the rod, the art of shooting on the wing, the breaking, management, and hunting of the dog, the varieties | [PDF](library/foraging-hunting/The%20complete%20manual%20for%20young%20sportsmen%20-%20with%20directions%20for%20handling%20the%20gun%2C%20the%20rifle%2C%20and%20the%20rod%2C%20the%20art%20of%20shoot.pdf) | pre1931 | [archive.org](https://archive.org/details/completemanualfo00foreiala) |
@@ -103,7 +112,7 @@
 | Where breezes blow [microform] : an illustrated guide to St. John and Fredericton and the province of New Brunswick, describing the tourists' resorts, fishing and bathing waters, and the routes of tra | [PDF](library/foraging-hunting/Where%20breezes%20blow%20%5Bmicroform%5D%20-%20an%20illustrated%20guide%20to%20St.%20John%20and%20Fredericton%20and%20the%20province%20of%20New%20Brunswick%2C%20des.pdf) | pre1931 | [archive.org](https://archive.org/details/cihm_25586) |
 | Wolf and coyote trapping; an up-to-date wolf hunter's guide, giving the most successful methods of experienced "wolfers" for hunting and trapping these animals, also gives their habits in detail | [PDF](library/foraging-hunting/Wolf%20and%20coyote%20trapping%3B%20an%20up-to-date%20wolf%20hunter%27s%20guide%2C%20giving%20the%20most%20successful%20methods%20of%20experienced%20-%20wolfers.pdf) · [EPUB](library/foraging-hunting/Wolf%20and%20coyote%20trapping%3B%20an%20up-to-date%20wolf%20hunter%27s%20guide%2C%20giving%20the%20most%20successful%20methods%20of%20experienced%20-%20wolfers.epub) | pre1931 | [archive.org](https://archive.org/details/wolfcoyotetrappi00hard) |
 
-## medical-first-aid (16)
+## medical-first-aid (17)
 
 | Title | Files | Basis | Source |
 |---|---|---|---|
@@ -122,13 +131,15 @@
 | Medical handbook for the use of lighthouse vessels and stations | [PDF](library/medical-first-aid/Medical%20handbook%20for%20the%20use%20of%20lighthouse%20vessels%20and%20stations.pdf) | usgov | [archive.org](https://archive.org/details/medicalhandbookf00unitrich) |
 | Prevention of disease and care of the sick and injured: medical handbook for the use of lighthouse vessels and stations, 1915 | [PDF](library/medical-first-aid/Prevention%20of%20disease%20and%20care%20of%20the%20sick%20and%20injured%20-%20medical%20handbook%20for%20the%20use%20of%20lighthouse%20vessels%20and%20stations.pdf) | usgov | [archive.org](https://archive.org/details/preventionofdise00unitrich) |
 | ST 31-91B - U.S. Army Special Forces Medical Handbook (1982) | [PDF](library/medical-first-aid/ST%2031-91B%20-%20U.S.%20Army%20Special%20Forces%20Medical%20Handbook%20%281982%29.pdf) · [EPUB](library/medical-first-aid/ST%2031-91B%20-%20U.S.%20Army%20Special%20Forces%20Medical%20Handbook%20%281982%29.epub) | usgov | [trex-arms.com](https://www.trex-arms.com/field-manual-vault/st-31-91b-1982-03) |
+| The family adviser and guide to the medicine chest. A complete hand-book of domestic medicine. By a physician | [PDF](library/medical-first-aid/The%20family%20adviser%20and%20guide%20to%20the%20medicine%20chest.%20A%20complete%20hand-book%20of%20domestic%20medicine.%20By%20a%20physician.pdf) | pre1931 | [archive.org](https://archive.org/details/familyadviseran00hartgoog) |
 | The practical guide to health : a popular treatise on anatomy, physiology, and hygiene, with a scientific description of diseases, their causes and treatment; designed for nurses and for home use | [PDF](library/medical-first-aid/The%20practical%20guide%20to%20health%20-%20a%20popular%20treatise%20on%20anatomy%2C%20physiology%2C%20and%20hygiene%2C%20with%20a%20scientific%20description%20of.pdf) · [EPUB](library/medical-first-aid/The%20practical%20guide%20to%20health%20-%20a%20popular%20treatise%20on%20anatomy%2C%20physiology%2C%20and%20hygiene%2C%20with%20a%20scientific%20description%20of.epub) | pre1931 | [archive.org](https://archive.org/details/practicalguideto00ross) |
 
-## navigation-fieldcraft (9)
+## navigation-fieldcraft (10)
 
 | Title | Files | Basis | Source |
 |---|---|---|---|
 | Boy scouts of America : a handbook of woodcraft scouting, and life-craft | [PDF](library/navigation-fieldcraft/Boy%20scouts%20of%20America%20-%20a%20handbook%20of%20woodcraft%20scouting%2C%20and%20life-craft.pdf) | pre1931 | [archive.org](https://archive.org/details/boyscoutsofameri00seto) |
+| Camouflage Training Manual For The Air Service Command | [EPUB](library/navigation-fieldcraft/Camouflage%20Training%20Manual%20For%20The%20Air%20Service%20Command.epub) | usgov | [archive.org](https://archive.org/details/CamouflageTrainingManual) |
 | FM 3-25.26 - Map Reading and Land Navigation (2001) | [PDF](library/navigation-fieldcraft/FM%203-25.26%20-%20Map%20Reading%20and%20Land%20Navigation%20%282001%29.pdf) · [EPUB](library/navigation-fieldcraft/FM%203-25.26%20-%20Map%20Reading%20and%20Land%20Navigation%20%282001%29.epub) | usgov | [trex-arms.com](https://www.trex-arms.com/field-manual-vault/fm-3-25-26-2001-07) |
 | FM 3-25.26 Map Reading and Land Navigation | [EPUB](library/navigation-fieldcraft/FM%203-25.26%20Map%20Reading%20and%20Land%20Navigation.epub) | usgov | [archive.org](https://archive.org/details/milmanual-fm-3-25.26-map-reading-and-land-navigation) |
 | FM 5-20 Camouflage 1968 | [PDF](library/navigation-fieldcraft/FM%205-20%20Camouflage%201968.pdf) | usgov | [archive.org](https://archive.org/details/FM5-201968) |
@@ -138,11 +149,12 @@
 | The Woodcraft Manual for Boys: The Fifteenth Birch Bark Roll ... Pub. for the Woodcraft League ... | [EPUB](library/navigation-fieldcraft/The%20Woodcraft%20Manual%20for%20Boys%20-%20The%20Fifteenth%20Birch%20Bark%20Roll%20...%20Pub.%20for%20the%20Woodcraft%20League.epub) | pre1931 | [archive.org](https://archive.org/details/woodcraftmanual00setogoog) |
 | The Woodcraft manual for girls [microform] : the fifteenth birch bark roll | [PDF](library/navigation-fieldcraft/The%20Woodcraft%20manual%20for%20girls%20%5Bmicroform%5D%20-%20the%20fifteenth%20birch%20bark%20roll.pdf) · [EPUB](library/navigation-fieldcraft/The%20Woodcraft%20manual%20for%20girls%20%5Bmicroform%5D%20-%20the%20fifteenth%20birch%20bark%20roll.epub) | pre1931 | [archive.org](https://archive.org/details/cihm_98789) |
 
-## shelter-building (14)
+## shelter-building (16)
 
 | Title | Files | Basis | Source |
 |---|---|---|---|
 | A manual of carpentry and joinery | [PDF](library/shelter-building/A%20manual%20of%20carpentry%20and%20joinery.pdf) | pre1931 | [archive.org](https://archive.org/details/amanualcarpentr01rilegoog) |
+| Fire prevention and fire protection as applied to building construction; a handbook of theory and practice | [PDF](library/shelter-building/Fire%20prevention%20and%20fire%20protection%20as%20applied%20to%20building%20construction%3B%20a%20handbook%20of%20theory%20and%20practice.pdf) | pre1931 | [archive.org](https://archive.org/details/firepreventiona00freigoog) |
 | FM 5-426 Carpentry | [EPUB](library/shelter-building/FM%205-426%20Carpentry.epub) | usgov | [archive.org](https://archive.org/details/FM5-426) |
 | Handbook of building construction; data for architects, designing and constructing engineers, and contractors .. | [PDF](library/shelter-building/Handbook%20of%20building%20construction%3B%20data%20for%20architects%2C%20designing%20and%20constructing%20engineers%2C%20and%20contractors.pdf) | pre1931 | [archive.org](https://archive.org/details/handbookbuildin01johngoog) |
 | Handbook of building construction; data for architects, designing and construction engineers, and contractors | [PDF](library/shelter-building/Handbook%20of%20building%20construction%3B%20data%20for%20architects%2C%20designing%20and%20construction%20engineers%2C%20and%20contractors.pdf) | pre1931 | [archive.org](https://archive.org/details/handbookofbuildi01hool) |
@@ -151,16 +163,18 @@
 | Practical building construction; a handbook for students preparing for the examinations of the Science and Art Department, the Royal Institute of British Architects, the Surveyors' Institution, etc. D | [PDF](library/shelter-building/Practical%20building%20construction%3B%20a%20handbook%20for%20students%20preparing%20for%20the%20examinations%20of%20the%20Science%20and%20Art%20Departmen.pdf) | pre1931 | [archive.org](https://archive.org/details/practicalbuildin00alleuoft) |
 | Practical masonry; a guide to the art of stone cutting, comprising the construction, setting-out, and working of stairs, circular work, arches, niches, domes, pendentives, vaults, tracery windows, etc | [PDF](library/shelter-building/Practical%20masonry%3B%20a%20guide%20to%20the%20art%20of%20stone%20cutting%2C%20comprising%20the%20construction%2C%20setting-out%2C%20and%20working%20of%20stairs%2C.pdf) | pre1931 | [archive.org](https://archive.org/details/practicalmasonry00purciala) |
 | The building trades handbook; a convenient manual of reference on building construction | [PDF](library/shelter-building/The%20building%20trades%20handbook%3B%20a%20convenient%20manual%20of%20reference%20on%20building%20construction.pdf) | pre1931 | [archive.org](https://archive.org/details/buildingtradesha00interich) |
+| The Carpenter's New Guide: A Complete Book of Lines for Carpentry and Joinery ... Including Also ... | [PDF](library/shelter-building/The%20Carpenter%27s%20New%20Guide%20-%20A%20Complete%20Book%20of%20Lines%20for%20Carpentry%20and%20Joinery%20...%20Including%20Also.pdf) · [EPUB](library/shelter-building/The%20Carpenter%27s%20New%20Guide%20-%20A%20Complete%20Book%20of%20Lines%20for%20Carpentry%20and%20Joinery%20...%20Including%20Also.epub) | pre1931 | [archive.org](https://archive.org/details/carpentersnewgu00nichgoog) |
 | The carpenter's new guide: being a complete book of lines for carpentry and joinery. Treating fully on practical geometry, soffits, brick and plaster groins ... with a great variety of designs for roo | [PDF](library/shelter-building/The%20carpenter%27s%20new%20guide%20-%20being%20a%20complete%20book%20of%20lines%20for%20carpentry%20and%20joinery.%20Treating%20fully%20on%20practical%20geomet.pdf) · [EPUB](library/shelter-building/The%20carpenter%27s%20new%20guide%20-%20being%20a%20complete%20book%20of%20lines%20for%20carpentry%20and%20joinery.%20Treating%20fully%20on%20practical%20geomet.epub) | pre1931 | [archive.org](https://archive.org/details/carpentersnewgui00nich) |
 | The carpenter's new guide; a complete book of lines for carpentry and joinery, treating fully on practical geometry, soffits, groins, niches, roofs, and domes, and containing a great variety of origin | [EPUB](library/shelter-building/The%20carpenter%27s%20new%20guide%3B%20a%20complete%20book%20of%20lines%20for%20carpentry%20and%20joinery%2C%20treating%20fully%20on%20practical%20geometry%2C%20sof.epub) | pre1931 | [archive.org](https://archive.org/details/carpentersnewgui02nich) |
 | The concrete engineer's handbook; a convenient reference book for all persons interested in cement, plain and reinforced concerte, building construction, architecture, concrete blocks, mill building,  | [PDF](library/shelter-building/The%20concrete%20engineer%27s%20handbook%3B%20a%20convenient%20reference%20book%20for%20all%20persons%20interested%20in%20cement%2C%20plain%20and%20reinforced.pdf) | pre1931 | [archive.org](https://archive.org/details/concreteengineer00inteuoft) |
 | The new Building estimator; a practical guide to estimating the cost of labor and material in building construction .. | [PDF](library/shelter-building/The%20new%20Building%20estimator%3B%20a%20practical%20guide%20to%20estimating%20the%20cost%20of%20labor%20and%20material%20in%20building%20construction.pdf) | pre1931 | [archive.org](https://archive.org/details/newbuildingestim00arthrich) |
 | TM 5-810-5 Plumbing | [PDF](library/shelter-building/TM%205-810-5%20Plumbing.pdf) | usgov | [archive.org](https://archive.org/details/TM5-810-5) |
 
-## survival (13)
+## survival (15)
 
 | Title | Files | Basis | Source |
 |---|---|---|---|
+| (ebook Pdf) Military US Army Survival Manual FM 21 76 | [PDF](library/survival/%28ebook%20Pdf%29%20Military%20US%20Army%20Survival%20Manual%20FM%2021%2076.pdf) | usgov | [archive.org](https://archive.org/details/ebook-pdf-military-us-army-survival-manual-fm-21-76) |
 | AFH 10-644 - Survival, Evasion, Resistance, Escape (SERE) Operations (2017) | [PDF](library/survival/AFH%2010-644%20-%20Survival%2C%20Evasion%2C%20Resistance%2C%20Escape%20%28SERE%29%20Operations%20%282017%29.pdf) · [EPUB](library/survival/AFH%2010-644%20-%20Survival%2C%20Evasion%2C%20Resistance%2C%20Escape%20%28SERE%29%20Operations%20%282017%29.epub) | usgov | [trex-arms.com](https://www.trex-arms.com/field-manual-vault/afh-10-644-2017-03) |
 | Afr 64 4177 351 Survivalmanual vol 2 | [PDF](library/survival/Afr%2064%204177%20351%20Survivalmanual%20vol%202.pdf) | usgov | [archive.org](https://archive.org/details/Afr644177351Survivalmanual) |
 | ATP 3-50.21 - Survival (2018) | [PDF](library/survival/ATP%203-50.21%20-%20Survival%20%282018%29.pdf) · [EPUB](library/survival/ATP%203-50.21%20-%20Survival%20%282018%29.epub) | usgov | [trex-arms.com](https://www.trex-arms.com/field-manual-vault/atp-3-50-21-2018-09) |
@@ -173,6 +187,7 @@
 | MCRP 3-02H Survival Evasion and Recovery | [PDF](library/survival/MCRP%203-02H%20Survival%20Evasion%20and%20Recovery.pdf) · [EPUB](library/survival/MCRP%203-02H%20Survival%20Evasion%20and%20Recovery.epub) | usgov | [archive.org](https://archive.org/details/milmanual-mcrp-3-02h-survival-evasion-and-recovery) |
 | TC 21-3 - Soldier's Handbook for Individual Operations and Survival in Cold-Weather Areas | [PDF](library/survival/TC%2021-3%20-%20Soldier%27s%20Handbook%20for%20Individual%20Operations%20and%20Survival%20in%20Cold-Weather%20Areas.pdf) | usgov | [archive.org](https://archive.org/details/milmanual-tc-21-3---soldiers-handbook-for-individual-operations-and-su) |
 | TC 21-3 - Soldier's Handbook for Individual Operations and Survival in Cold-Weather Areas (2025) | [PDF](library/survival/TC%2021-3%20-%20Soldier%27s%20Handbook%20for%20Individual%20Operations%20and%20Survival%20in%20Cold-Weather%20Areas%20%282025%29.pdf) · [EPUB](library/survival/TC%2021-3%20-%20Soldier%27s%20Handbook%20for%20Individual%20Operations%20and%20Survival%20in%20Cold-Weather%20Areas%20%282025%29.epub) | usgov | [trex-arms.com](https://www.trex-arms.com/field-manual-vault/tc-21-3-2025-09) |
+| United States Marine Corps Survival Manual Summer 2002 | [PDF](library/survival/United%20States%20Marine%20Corps%20Survival%20Manual%20Summer%202002.pdf) · [EPUB](library/survival/United%20States%20Marine%20Corps%20Survival%20Manual%20Summer%202002.epub) | usgov | [archive.org](https://archive.org/details/UnitedStatesMarineCoreSurvivalManualSummer2002) |
 | US Marine Corps - MWTC Summer Survival Course Handbook | [EPUB](library/survival/US%20Marine%20Corps%20-%20MWTC%20Summer%20Survival%20Course%20Handbook.epub) | usgov | [archive.org](https://archive.org/details/milmanual-us-marine-corps---mwtc-summer-survival-course-handbook) |
 
 ## tactics-training (13)
@@ -193,17 +208,19 @@
 | TC 3-22.9 C3 - Rifle and Carbine (2016) | [PDF](library/tactics-training/TC%203-22.9%20C3%20-%20Rifle%20and%20Carbine%20%282016%29.pdf) · [EPUB](library/tactics-training/TC%203-22.9%20C3%20-%20Rifle%20and%20Carbine%20%282016%29.epub) | usgov | [trex-arms.com](https://www.trex-arms.com/field-manual-vault/tc-3-22-9-c3-2016-05) |
 | TC 3-25.150 - Combatives (2017) | [PDF](library/tactics-training/TC%203-25.150%20-%20Combatives%20%282017%29.pdf) · [EPUB](library/tactics-training/TC%203-25.150%20-%20Combatives%20%282017%29.epub) | usgov | [trex-arms.com](https://www.trex-arms.com/field-manual-vault/tc-3-25-150-2017-03) |
 
-## water (13)
+## water (15)
 
 | Title | Files | Basis | Source |
 |---|---|---|---|
 | Conservation by sanitation; air and water supply, disposal of waste, including a laboratory guide for sanitary engineers | [PDF](library/water/Conservation%20by%20sanitation%3B%20air%20and%20water%20supply%2C%20disposal%20of%20waste%2C%20including%20a%20laboratory%20guide%20for%20sanitary%20engineers.pdf) | pre1931 | [archive.org](https://archive.org/details/39002022382585.med.yale.edu) |
+| Conveyance and distribution of water for water supply, aqueducts, pipe-lines and distributing systems, a practical treatise for water-works engineers and superintendents | [PDF](library/water/Conveyance%20and%20distribution%20of%20water%20for%20water%20supply%2C%20aqueducts%2C%20pipe-lines%20and%20distributing%20systems%2C%20a%20practical%20treat.pdf) | pre1931 | [archive.org](https://archive.org/details/conveyancedistri00wegmuoft) |
 | Home waterworks; a manual of water supply in country homes | [PDF](library/water/Home%20waterworks%3B%20a%20manual%20of%20water%20supply%20in%20country%20homes.pdf) | pre1931 | [archive.org](https://archive.org/details/homewaterworksma00lynd) |
 | Manual of American steel & wire company's process of water purification with sulphate of iron .. | [PDF](library/water/Manual%20of%20American%20steel%20%26%20wire%20company%27s%20process%20of%20water%20purification%20with%20sulphate%20of%20iron.pdf) | pre1931 | [archive.org](https://archive.org/details/manualamericans00cogoog) |
 | Manual of Naval Preventive Medicine Chapter 5: Water Supply Ashore | [PDF](library/water/Manual%20of%20Naval%20Preventive%20Medicine%20Chapter%205%20-%20Water%20Supply%20Ashore.pdf) | usgov | [archive.org](https://archive.org/details/NAVMEDP50105) |
 | Manual of Naval Preventive Medicine Chapter 6: Water Supply Afloat | [PDF](library/water/Manual%20of%20Naval%20Preventive%20Medicine%20Chapter%206%20-%20Water%20Supply%20Afloat.pdf) | usgov | [archive.org](https://archive.org/details/NAVMEDP50106) |
 | Rural water supply; a practical handbook on the supply of water & construction of waterworks for small country districts | [PDF](library/water/Rural%20water%20supply%3B%20a%20practical%20handbook%20on%20the%20supply%20of%20water%20%26%20construction%20of%20waterworks%20for%20small%20country%20districts.pdf) | pre1931 | [archive.org](https://archive.org/details/ruralwatersupply00greerich) |
 | Standard practical plumbing; an exhaustive treatise on all branches of plumbing construction including drainage and venting, ventilation, hot and cold water supply and circulation .. | [PDF](library/water/Standard%20practical%20plumbing%3B%20an%20exhaustive%20treatise%20on%20all%20branches%20of%20plumbing%20construction%20including%20drainage%20and%20vent.pdf) | pre1931 | [archive.org](https://archive.org/details/standardpractica00starrich) |
+| The principles, construction, and application of pumping machinery (steam and water pressure) with practical illustrations of engines and pumps applied to mining, town water supply, drainage of lands, | [PDF](library/water/The%20principles%2C%20construction%2C%20and%20application%20of%20pumping%20machinery%20%28steam%20and%20water%20pressure%29%20with%20practical%20illustratio.pdf) | pre1931 | [archive.org](https://archive.org/details/cu31924080782240) |
 | TM 5-295 Water Supply And Water Purification 1942 | [PDF](library/water/TM%205-295%20Water%20Supply%20And%20Water%20Purification%201942.pdf) | usgov | [archive.org](https://archive.org/details/TM5-295) |
 | TM 5-296 Ground Water Supply For Military Operations 1944 | [PDF](library/water/TM%205-296%20Ground%20Water%20Supply%20For%20Military%20Operations%201944.pdf) | usgov | [archive.org](https://archive.org/details/TM5-296) |
 | TM 5-297 Well Drilling 1943 | [PDF](library/water/TM%205-297%20Well%20Drilling%201943.pdf) | usgov | [archive.org](https://archive.org/details/TM5-297) |
@@ -347,3 +364,11 @@
 - https://archive.org/download/deepwelldrillin02jeffgoog/deepwelldrillin02jeffgoog.pdf — download failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>
 - https://archive.org/download/csfst_006682/csfst_006682_access.pdf — download failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>
 - https://archive.org/download/guidelinesforpou878chil/guidelinesforpou878chil.pdf — download failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>
+- https://archive.org/download/completeguidetoo00unse/completeguidetoo00unse.pdf — download failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>
+- https://archive.org/download/ebook-pdf-military-us-army-survival-manual-fm-21-76/%28160%29%20Kingdom%20of%20Agartha%20by%20SaintYves%20Alveydre.epub — download failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>
+- https://archive.org/download/paper-doi-10_1038_099162a0/paper-doi-10_1038_099162a0.pdf — download failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>
+- https://archive.org/download/cihm_98669/cihm_98669.pdf — download failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>
+- https://archive.org/download/firstaidbookofre00blac/firstaidbookofre00blac.pdf — download failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>
+- https://archive.org/download/firstaidbookofre00blac/firstaidbookofre00blac.epub — download failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>
+- https://archive.org/download/anglingpractical00burgiala/anglingpractical00burgiala.pdf — download failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>
+- https://archive.org/download/CamouflageTrainingManual/CamouflageTrainingManual.pdf — download failed: <urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1011)>

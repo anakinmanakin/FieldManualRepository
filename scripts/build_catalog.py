@@ -10,7 +10,7 @@ metadata API. Nothing is downloaded here except metadata. Output:
 An item is kept only with a clear public-domain basis:
   usgov   - published by a US federal government body (17 U.S.C. 105)
   pre1931 - published in 1930 or earlier (public domain in the US as of 2026)
-  pdmark  - item carries a Creative Commons Public Domain Mark or CC0
+Uploader-applied "public domain" marks are not trusted on their own.
 """
 import json
 import os
@@ -54,12 +54,38 @@ TOPICS = [
                '"signal communication"']),
 ]
 
+TITLE_RE = {
+    "survival": r"\bsurviv(al|e|ing)\b(?!\s+(of|and growth|rates?|analysis|probabilit\w*|times?|curves?|data|studies|function))|\bsere\b|\bevasion\b|fallout|civil defen[cs]e|emergency (preparedness|shelter)|bomb shelter",
+    "medical-first-aid": r"first[- ]aid|field medicine|war surgery|medicine chest|sanitation|combat lifesaver|emergency (medic\w*|care)|home nursing|medical (handbook|guide)|\bmedic\b|wound care|hygiene",
+    "water": r"water (purification|supply|supplies|treatment|wells?|sources?|storage|disinfection)|well[- ]drilling|\bwells\b|cisterns?|springs? development|solar still",
+    "food-preservation": r"canning|canned|preserv(e|es|ing|ation)|drying (fruits?|vegetables?|foods?)|dried (fruits?|foods?)|\bcuring\b|cured meat|smok(e|ed|ing) (meat|fish)|root cellar|food storage|home storage|freezing (foods?|fruits?)|pickl\w*|jams?\b|jellies",
+    "foraging-hunting": r"\bedible\b|wild (foods?|plants|game|fruits?)|forag\w*|trap(ping|per|s)\b|\bhunting\b|\bfishing\b|fish culture|game (birds|animals)|mushrooms?|\bnuts\b|berries",
+    "farming-gardening": r"farmers'? bulletin|garden\w*|vegetables?|poultry|chickens?|bee[- ]?keeping|\bbees\b|\bhoney\b|livestock|\bgoats?\b|\bsheep\b|\bhogs?\b|swine|dairy|small farm|homestead\w*|\bsoils?\b|orchard|fruit (growing|trees)|\bcrops?\b|seed saving|compost\w*|irrigation",
+    "navigation-fieldcraft": r"map reading|land navigation|compass|orienteering|fieldcraft|woodcraft|camp(ing|craft|fire)|mountaineering|cold[- ]weather|\bknots?\b|\bropes?\b|camouflage|scouting|tracking|outdoor|wilderness",
+    "shelter-building": r"log (cabins?|house|buildings)|carpentry|masonry|adobe|rammed earth|building construction|farm buildings|rural buildings|plumbing|concrete|house construction|\bshelters?\b|\bbarns?\b|\bfences?\b|frame construction|roofing",
+    "energy-tools": r"windmills?|water ?wheels?|wind power|\bsolar\b|blacksmith\w*|\bforg(e|ing)\b|small engines?|wood fuel|firewood|charcoal|tann(ing|ed)|leather|hand tools?|sharpening|welding|\bstoves?\b|electric(al)? wiring|generators?",
+    "comms": r"\bradio\b|antennas?|signal communication|field telephone|\bmorse\b|communications? (manual|handbook)",
+}
+TITLE_RE = {k: re.compile(v, re.I) for k, v in TITLE_RE.items()}
+EXCLUDE_TITLE = re.compile(
+    r"\b(rats?|mice|mouse|toxicity|toxic potential|carcinogen\w*|bioassay|statistical report|"
+    r"retirement system|seedlings?|conifers?|salmon|microorganisms?|bacteria\w*|cancer|patients?|"
+    r"clinical|tumou?rs?|cell survival|missiles?|vulnerability|insurgen\w*|novel|poems?|weekly|"
+    r"annual report|congress\w*|hearings?|budget|cthulhu|role-?playing|d20|dungeons?|"
+    r"statistics|thesis|dissertation)\b", re.I)
+DESIGNATION = re.compile(
+    r"\b(FM|TM|TC|ATP|ADP|ADRP|AFH|AFM|AFR|AFMAN|AFPAM|AFTTP|MCRP|MCWP|MCTP|MCDP|NAVEDTRA|"
+    r"NAVPERS|NAVMED|DA PAM|GTA|ST)\s?-?\d", re.I)
+GOV_SERIES = re.compile(r"farmers'? bulletin|home and garden bulletin|agriculture (handbook|information bulletin)|"
+                        r"leaflet no|miscellaneous publication|technical bulletin|circular no", re.I)
+GOV_CREATOR = re.compile(r"^\s*(united states|u\.\s?s\.)[\s.,]|^\s*(department|dept\.?) of|^\s*headquarters",
+                         re.I)
 GOV = re.compile(
     r"department of the (army|navy|air force|interior|agriculture)|war department|"
-    r"\bu\.?\s?s\.?\s?(army|navy|air force|marine|dept|department|government|forest service|"
+    r"\bu\.?\s?s\.?\s?(army|navy|air force|marine|dept|department|government|govt|forest service|"
     r"public health)|united states (army|navy|air force|marine|department|government|forest)|"
     r"marine corps|department of defense|\bdod\b|defense technical information|\bdtic\b|"
-    r"\busda\b|dept\.? of agriculture|government printing office|\bg\.?p\.?o\b|peace corps|"
+    r"\busda\b|dept\.? of agriculture|gov(ernmen)?t\.? print(ing)?\.? off(ice)?|\bg\.?p\.?o\b|peace corps|"
     r"\bfema\b|federal emergency management|civil defense|public health service|"
     r"forest service|national park service|fish and wildlife|geological survey|"
     r"bureau of (mines|reclamation|indian|plant|animal|chemistry|entomology)|"
@@ -118,22 +144,25 @@ def search(terms):
 
 
 def pd_basis(d):
+    ident = d.get("identifier", "")
     colls = [c.lower() for c in as_list(d.get("collection"))]
-    if any(EXCLUDE_COLL.match(c) for c in colls) or any(c.startswith("sim_") for c in colls):
+    if any(EXCLUDE_COLL.match(c) for c in colls) or any(c.startswith("sim_") for c in colls) \
+            or ident.startswith("sim_"):
         return None, "lending or periodical collection"
-    if d.get("identifier", "").startswith("sim_"):
-        return None, "periodical"
-    who = text(d.get("publisher")) + " | " + text(d.get("creator"))
-    if d.get("identifier", "").startswith(("DTIC_", "milmanual-")) or GOV.search(who):
+    title = text(d.get("title"))
+    publisher = text(d.get("publisher"))
+    creators = as_list(d.get("creator"))
+    if ident.startswith(("DTIC_", "milmanual-")) or GOV.search(publisher) \
+            or any(GOV_CREATOR.search(str(c)) for c in creators):
+        return "usgov", ""
+    if (DESIGNATION.search(title) or GOV_SERIES.search(title)) and not publisher.strip():
         return "usgov", ""
     try:
         year = int(str(d.get("year") or text(d.get("date"))[:4]))
     except ValueError:
         year = None
-    if year and year <= 1930:
+    if year and year <= 1930 and year != 1900:
         return "pre1931", ""
-    if PD_LICENSE.search(text(d.get("licenseurl"))):
-        return "pdmark", ""
     return None, "no clear public-domain basis"
 
 
@@ -190,7 +219,13 @@ def main():
     cand_rows, manifest = [], []
     for folder, terms in TOPICS:
         hits = search(terms)
-        hits.sort(key=lambda d: -int(d.get("downloads") or 0))
+        pat = TITLE_RE[folder]
+
+        def rank(d):
+            t = text(d.get("title"))
+            manual = bool(DESIGNATION.search(t) or GOV_SERIES.search(t) or re.search(r"manual|handbook|guide", t, re.I))
+            return (not manual, -int(d.get("downloads") or 0))
+        hits.sort(key=rank)
         kept = 0
         for d in hits:
             ident = d.get("identifier", "")
@@ -199,6 +234,10 @@ def main():
                 continue
             seen_ids.add(ident)
             basis, why = pd_basis(d)
+            if basis and not pat.search(title):
+                basis, why = None, "title not on topic"
+            elif basis and EXCLUDE_TITLE.search(title):
+                basis, why = None, "excluded subject"
             lang = text(d.get("language")).lower()
             if basis and lang and not re.search(r"eng|english", lang):
                 basis, why = None, f"language {lang}"
